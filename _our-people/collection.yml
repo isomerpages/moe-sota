@@ -2,13 +2,13 @@ collections:
   our-people:
     output: true
     order:
-      - Management Team/Lim Jong Yann.md
-      - Management Team/Yang Tien.md
-      - Management Team/Lee Yew Wah.md
-      - Management Team/Justine Tan.md
-      - Management Team/Liong Huai Yu.md
-      - Management Team/Pauline Ann Tan.md
-      - Management Team/Amy Khoo.md
-      - Management Team/Mrs Mary Seah.md
       - Management Team/.keep
+      - Management Team/Mrs Mary Seah.md
+      - Management Team/Amy Khoo.md
+      - Management Team/Pauline Ann Tan.md
+      - Management Team/Liong Huai Yu.md
+      - Management Team/Justine Tan.md
+      - Management Team/Lee Yew Wah.md
+      - Management Team/Yang Tien.md
+      - Management Team/Lim Jong Yann.md
       - SOTA Board.md
