@@ -10,6 +10,8 @@ third_nav_title: Management Team
 Principal</strong> </figcaption>
 </figure>
 
+### Principal
+
 Mrs Mary Seah joins SOTA with effect from 17 December 2018. As Principal of Tanjong Katong Girls’ School (TKGS) since December 2011, she has led the school to achieve the School Distinction Award in 2014, oversaw the rebuilding of the Dunman Lane campus in 2017-2018. With TKGS, she has delved into a number of creative projects within and beyond the school. Her professional interests include how educators are able to find coherence between their professional and personal identities, and how students learn through both formal and informal curricula. With her experience as a school leader, she has shared extensively at cluster and national platforms, and initiated a number of professional networks focused on school and curriculum leadership.
 
   
