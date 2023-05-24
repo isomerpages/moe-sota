@@ -56,3 +56,81 @@ Take a virtual tour around our campus.
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-0pky"><span style="font-weight:700;font-style:normal">Arts Facilities</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Dance Studios</td>
+    <td class="tg-0pky">Painting Studios</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Music Teaching Rooms</td>
+    <td class="tg-0pky">Film Room</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ensemble &amp; Individual Music Practice Rooms</td>
+    <td class="tg-0pky">Ceramics Room</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Electronic Music Laboratory</td>
+    <td class="tg-0pky">Sculpture Room</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Electronic Music Studio</td>
+    <td class="tg-0pky">Theatre Studios</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Orchestral Rehearsal Studio</td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Others</th>
+    <th class="tg-1wig">Basic Sporting Facilities</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Multi-Purpose Hall</td>
+    <td class="tg-0lax">Gym</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Library</td>
+    <td class="tg-0lax">Sports field at roof top</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Retail Spaces</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Cafeteria</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
