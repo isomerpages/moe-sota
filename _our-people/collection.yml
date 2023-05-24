@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Management Team/Amy Khoo.md
       - Management Team/Mrs Mary Seah.md
       - Management Team/.keep
       - SOTA Board.md
