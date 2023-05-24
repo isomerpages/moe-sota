@@ -10,6 +10,8 @@ third_nav_title: Management Team
 Vice-Principal, Arts</strong> </figcaption>
 </figure>
 
+### Vice-Principal, Arts
+
 Amy Khoo is a visual storyteller who began honing her craft at Channel NewsAsia for which she produced a variety of current affairs programmes for local and regional audiences. Seven years as a broadcast journalist gave her many opportunities to see the world through a camera lens.  
   
 Amy continues to deepen her passion for the art of visual storytelling through her photography that captures moments reflecting the human spirit and emotion.  
