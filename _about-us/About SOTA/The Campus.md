@@ -27,12 +27,13 @@ Take a virtual tour around our campus.
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax">General Academic Facilities</th>
+    <th class="tg-1wig">General Academic Facilities</th>
     <th class="tg-0lax">Performing Arts Venues</th>
   </tr>
 </thead>
