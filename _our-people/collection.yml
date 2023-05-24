@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Management Team/Justine Tan.md
       - Management Team/Liong Huai Yu.md
       - Management Team/Pauline Ann Tan.md
       - Management Team/Amy Khoo.md
