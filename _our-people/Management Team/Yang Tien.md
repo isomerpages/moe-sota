@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Management Team
 ---
 <figure>
-<img style="width:75%" src="/images/yang-tien.jpg">
+<img style="width:40%" src="/images/yang-tien.jpg">
 <figcaption><strong>Yang Tien<br>
 Dean, Arts</strong> </figcaption>
 </figure>
