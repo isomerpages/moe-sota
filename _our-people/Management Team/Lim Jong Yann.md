@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Management Team
 ---
 <figure>
-<img style="width:75%" src="/images/mo_full_lim-jong-yann_photo-01.png">
+<img style="width:40%" src="/images/mo_full_lim-jong-yann_photo-01.png">
 <figcaption><strong>Lim Jong Yann<br>
 Dean, Affective</strong> </figcaption>
 </figure>
