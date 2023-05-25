@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Management Team
 ---
 <figure>
-<img style="width:75%" src="/images/pauline-ann-tanecfa9752fed369fba7eaff0000314707.jpg">
+<img style="width:50%" src="/images/pauline-ann-tanecfa9752fed369fba7eaff0000314707.jpg">
 <figcaption><strong>Pauline Ann Tan<br>
 Vice-Principal, Academic &amp; Affective</strong> </figcaption>
 </figure>
