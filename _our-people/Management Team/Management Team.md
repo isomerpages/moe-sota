@@ -4,9 +4,6 @@ permalink: /about-us/our-people/management-team/
 description: ""
 third_nav_title: Management Team
 ---
-
-![](/images/yang-tiene4fb9752fed369fba7eaff0000314707.jpg)
-![](/images/mo_full_lim-jong-yann_photo-011f51a452fed369fba7eaff0000314707.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -61,14 +58,15 @@ Vice-Principal</h4></center></a></td>
     <td class="tg-0lax" style="width: 33.33%"><a href="/about-us/our-people/management-team/lee-yew-wah"><center><h4>Lee Yew Wah<br><br>Deputy Director, Finance &amp; Services</h4></center></a></td>
   </tr>
  <tr>
-    <td class="tg-0lax"><a href="/programmes/primary/academic-programme/physical-education/">
-<img src="/images/physical%20education.jpeg" alt="PE" style="width:100%"></a></td>
-		<td class="tg-0lax"><a href="/academic-programme/primary/ict-primary/">
-<img src="/images/ictprimary-min.jpg" alt="ICT" style="width:85%"></a></td>
+    <td class="tg-0lax"><a href="/about-us/our-people/management-team/yang-tien-dean-arts">
+<img src="/images/yang-tiene4fb9752fed369fba7eaff0000314707.jpg" alt="yang tien" style="width:100%"></a></td>
+		<td class="tg-0lax"><a href="/about-us/our-people/management-team/lim-jong-yann">
+<img src="/images/mo_full_lim-jong-yann_photo-011f51a452fed369fba7eaff0000314707.jpg" alt="lim jong yann" style="width:85%"></a></td>
 </tr>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/computing/"><center><h4>Physical Education<br><br>体育</h4></center></a></td>
-		<td class="tg-0lax" style="width: 33.33%"><a href="/programmes/secondary/academic-programme/design-and-technology/"><center><h4>ICT<br><br>信息与通信技术</h4></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/about-us/our-people/management-team/yang-tien-dean-arts"><center><h4>Yang Tien<br><br>
+Dean, Arts</h4></center></a></td>
+		<td class="tg-0lax" style="width: 33.33%"><a href="/about-us/our-people/management-team/lim-jong-yann"><center><h4>Lim Jong Yann<br><br>Dean, Affective</h4></center></a></td>
   </tr>
 </tbody>
 </table>
