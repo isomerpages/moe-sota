@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Frequently Asked Question.md
       - About SOTA/.keep
       - About SOTA/About SOTA.md
       - About SOTA/The Campus.md
