@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Management Team
 ---
 <figure>
-<img style="width:75%" src="/images/amy-khoo.jpg">
+<img style="width:50%" src="/images/amy-khoo.jpg">
 <figcaption> <strong>Amy Khoo<br>
 Vice-Principal, Arts</strong> </figcaption>
 </figure>
