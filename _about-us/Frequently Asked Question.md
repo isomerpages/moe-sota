@@ -15,8 +15,8 @@ description: ""
 		<p></p><h2>Can I use my child's Edusave to pay for the school fees?</h2><br><br>SOTA's school and miscellaneous fees are not deductible via Edusave.<p></p>
 		<p></p><h2>How do I apply for Bursary?</h2><br><br>Bursary application is done online, and is only available once you are posted to SOTA.<p></p>
 		<p></p><h2>What does the Bursary cover?</h2><br><br>The SOTA Bursary provides tiered school and miscellaneous fees subsidy ranging from 33% to 100%. Learn more about <a href="/admissions/scholarships-and-FAschemes">Scholarships and Financial Assistance Schemes.</a><p></p>
+			<p></p><h2>How do I apply for scholarships?</h2><br><br><a href="/admissions/scholarships-and-FAschemes">Scholarships</a> are by nomination and are decided by the SOTA Scholarship Committee. Selected students will be informed accordingly.<p></p>
     </div>
 	</li>  
 </ul>
 
-&nbsp;
