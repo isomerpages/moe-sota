@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Management Team
 ---
 <figure>
-<img style="width:75%" src="/images/mrs-mary-seah.jpg">
+<img style="width:50%" src="/images/mrs-mary-seah.jpg">
 <figcaption> <strong>Mrs Mary Seah<br>
 Principal</strong> </figcaption>
 </figure>
