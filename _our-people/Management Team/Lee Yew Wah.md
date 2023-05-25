@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Management Team
 ---
 <figure>
-<img style="width:75%" src="/images/mo_full_lee-yew-wah_photo-02.jpg">
+<img style="width:40%" src="/images/mo_full_lee-yew-wah_photo-02.jpg">
 <figcaption><strong>Lee Yew Wah<br>
 Deputy Director, Finance &amp; Services</strong> </figcaption>
 </figure>
