@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Management Team
 ---
 <figure>
-<img style="width:75%" src="/images/mo_full_justine-tan_photo.jpg">
+<img style="width:40%" src="/images/mo_full_justine-tan_photo.jpg">
 <figcaption><strong>Justine Tan<br>
 Director, Corporate Planning &amp; Services</strong> </figcaption>
 </figure>
