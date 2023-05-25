@@ -28,8 +28,8 @@ description: ""
     <div>
       <p></p><h2>What subjects do I study at SOTA? Do they study academic subjects?</h2><br><br>At SOTA, all students go through a six-year integrated arts and academic curriculum that culminates in the International Baccalaureate (IB) Diploma or an IB Career-related Programme. Subjects include: English Literature; Mother Tongue Language; Mathematics; Science (Physics, Chemistry, Biology); Humanities and Social Sciences (History, Geography, Economics, Social &amp; Cultural Anthropology); Specialized Arts (Dance, Film, Music, Theatre, Visual Arts); Theory of Knowledge; the Extended Essay; and Creativity, Action &amp; Service.&nbsp;<a href="/curriculum/curriculum">Read more about our curriculum.</a><p></p>
 			<p></p><h2>What subjects do students study during their first year in SOTA?</h2><br><br>In Year 1, students do subjects in English Language &amp; Critical Thinking; Literature in English; Mother Tongue Languages; Humanities &amp; Social Sciences (Geography and History); Coordinated Science; Mathematics, Integrated Arts, Media Education, Experiential Education and either Dance, Music, Theatre or Visual Arts.<p></p>
+			<p></p><h2>Where do the students go to after their education in SOTA?</h2><br><br>SOTA graduates have gone on to further their education in illustrious schools both in Singapore and abroad. Graduates have also been recognised for their achievements in a spectrum of fields.&nbsp;<a href="/why-sota/succeeding-beyond-sota">View the list of schools and scholarships.</a><p></p>
     </div>
 	</li>  
 </ul>
-
 
