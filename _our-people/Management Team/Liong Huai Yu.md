@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Management Team
 ---
 <figure>
-<img style="width:75%" src="/images/ssc_liong-huai-yu_photo-01.jpg">
+<img style="width:40%" src="/images/ssc_liong-huai-yu_photo-01.jpg">
 <figcaption><strong>Liong Huai Yu<br>
 Vice-Principal</strong> </figcaption>
 </figure>
