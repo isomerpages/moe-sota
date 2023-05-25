@@ -38,30 +38,14 @@ description: ""
 				<li>Have been offered a Mother Tongue Language at the PSLE</li>
 			</ul>
 			Students who are eligible to take up a Foreign Language as a Third Language will be notified of their eligibility upon release of the PSLE results.&nbsp;<a href="/sota-education/sota-curriculum/academic-development/mother-tongue-languages">Read about SOTA’s Mother Tongue Language Programme.</a><p></p>
+			<p></p><h2>How is SOTA’s Music programme different from schools with Music Elective Programme (MEP)?</h2><br><br>The approach to the programme is different with music at SOTA developed as an art form, not just as a subject. <a href="/sota-curriculum/artistic-development/music">Read what the SOTA music programme covers and how it differs from other MEPs.</a><p></p>
+			<p></p><h2>Will SOTA’s programme prepare me for professional examinations (eg. ABRSM)?</h2><br><br>The purpose of the music programme is not to prepare students for examinations such as ABRSM, but to develop the student’s musical and intellectual capacities. However, students can take ABRSM exams if their Instrumental Study teachers deem it useful for their learning as external assessment can be a useful learning tool. <a href="/sota-education/sota-curriculum/artistic-development/music">Read what the SOTA music programme covers.</a><p></p>
+			<p></p><h2>What are the options for Music students?</h2><br><br>Based on their admission auditions, music students may be placed into either Creating or Performance Tracks to better support their musical talents. Students in Creating Track will still attend Instrumental Study lessons, but will also attend and be assessed on a creating module focused on compositional tools and processes. Students in the Performance Track will have a more focused Instrumental Study, which is one of the main components of assessments. They will commence with the creating modules from year 3. Students who begin in the Creating Track may switch to Performance Track in year 3 depending on their performance in years 1 and 2.<br><br>
+Students with an interest in Jazz and Pop music have the opportunity to apply to start in or switch to the Jazz and Pop track. Emphasis will be placed on jazz (this is a broad definition of the term that will include areas of pop, fusion, blues, funk, music from Latin American and so on). Percussionists are not currently being considered for a switch to drum-set in jazz. The combination of mallets, snare and drumset offers the best possibilities in development and already covers jazz and pop. Furthermore, the chamber music groups further augments these possibilities.<p></p>
+		<p></p><h2>Are there Co-Curricular Activities (CCA) in SOTA?</h2><br><br>There are no CCAs offered in SOTA. Students specialise in their chosen art discipline and they usually spend their time after school hours practising their art discipline or attending rehearsals for their various performances.<p></p>
     </div>
 	</li>  
 </ul>
 
-**How is SOTA’s Music programme different from schools with Music Elective Programme (MEP)?**
 
-The approach to the programme is different with music at SOTA developed as an art form, not just as a subject.&nbsp;[Read what the SOTA music programme covers and how it differs from other MEPs.](https://www.sota.edu.sg/sota-education/sota-curriculum/artistic-development/music "Music")
 
-  
-
-**Will SOTA’s programme prepare me for professional examinations (eg. ABRSM)?**
-
-The purpose of the music programme is not to prepare students for examinations such as ABRSM, but to develop the student’s musical and intellectual capacities. However, students can take ABRSM exams if their Instrumental Study teachers deem it useful for their learning as external assessment can be a useful learning tool.&nbsp;[Read what the SOTA music programme covers.](https://www.sota.edu.sg/sota-education/sota-curriculum/artistic-development/music "Music")
-
-  
-
-**What are the options for Music students?**
-
-Based on their admission auditions, music students may be placed into either Creating or Performance Tracks to better support their musical talents. Students in Creating Track will still attend Instrumental Study lessons, but will also attend and be assessed on a creating module focused on compositional tools and processes. Students in the Performance Track will have a more focused Instrumental Study, which is one of the main components of assessments. They will commence with the creating modules from year 3. Students who begin in the Creating Track may switch to Performance Track in year 3 depending on their performance in years 1 and 2.
-
-Students with an interest in Jazz and Pop music have the opportunity to apply to start in or switch to the Jazz and Pop track. Emphasis will be placed on jazz (this is a broad definition of the term that will include areas of pop, fusion, blues, funk, music from Latin American and so on). Percussionists are not currently being considered for a switch to drum-set in jazz. The combination of mallets, snare and drumset offers the best possibilities in development and already covers jazz and pop. Furthermore, the chamber music groups further augments these possibilities.
-
-  
-
-**Are there Co-Curricular Activities (CCA) in SOTA?**
-
-There are no CCAs offered in SOTA. Students specialise in their chosen art discipline and they usually spend their time after school hours practising their art discipline or attending rehearsals for their various performances.
