@@ -4,9 +4,7 @@ permalink: /about-us/our-people/management-team/
 description: ""
 third_nav_title: Management Team
 ---
-![](/images/mrs-mary-seahf8779852fed369fba7eaff0000314707.jpg)
-![](/images/amy-khoo-cropped.jpg)
-![](/images/pauline-ann-tan3efb9752fed369fba7eaff0000314707.jpg)
+
 ![](/images/ssc_liong-huai-yu_photo-01-1.jpg)
 ![](/images/mo_full_justine-tan_photo-08-(crop-1b).jpg)
 ![](/images/mo_full_lee-yew-wah_photo-02-1.jpg)
@@ -24,26 +22,29 @@ third_nav_title: Management Team
 <thead>
   <tr>
     <td class="tg-0lax">
-      <a href="/programmes/primary/academic-programme/english/">
-<img src="/images/english_v3.png" alt="english">
+      <a href="/about-us/our-people/management-team/mrs-mary-seah">
+<img src="/images/mrs-mary-seahf8779852fed369fba7eaff0000314707.jpg" alt="mrs mary seah">
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
-      <a href="/programmes/primary/academic-programme/chinese/">
-        <img src="/images/chinese%20language.jpeg" alt="chinese language" style="width:95%">
+      <a href="/about-us/our-people/management-team/amy-khoo">
+        <img src="/images/amy-khoo-cropped.jpg" alt="amy khoo" style="width:95%">
       </a>
     </td>
     <td class="tg-0lax">
-      <a href="/programmes/primary/academic-programme/mathematics/">
-        <img src="/images/math_v3.png" style="max-width: 100%; height: auto;">
+      <a href="/about-us/our-people/management-team/pauline-ann-tan">
+        <img src="/images/pauline-ann-tan3efb9752fed369fba7eaff0000314707.jpg" style="max-width: 100%; height: auto;">
       </a>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/english/"><center><h4>English<br><br>英文</h4></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/chinese/"><center><h4>Chinese Language<br><br>华文</h4></center></a></td>
-    <td class="tg-0lax" style="width: 33.33%"><a href="/programmes/primary/academic-programme/mathematics/"><center><h4>Mathematics<br><br>数学</h4></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/about-us/our-people/management-team/mrs-mary-seah"><center><h4>Mrs Mary Seah<br><br>
+Principal</h4></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/about-us/our-people/management-team/amy-khoo"><center><h4>Amy Khoo<br><br>
+Vice-Principal, Arts</h4></center></a></td>
+    <td class="tg-0lax" style="width: 33.33%"><a href="/about-us/our-people/management-team/pauline-ann-tan"><center><h4>Pauline Ann Tan<br><br>
+Vice-Principal, Academic &amp; Affective</h4></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/programmes/primary/academic-programme/science/">
