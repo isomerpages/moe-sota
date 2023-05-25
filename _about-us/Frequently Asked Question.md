@@ -14,11 +14,9 @@ description: ""
 		<p></p><h2>How much is the school fees at SOTA?</h2><br><br>Monthly school fees range from S$350 to S$2,910 for Years 1 to 4 and from S$450 to S$3,015 for Years 5 to 6.&nbsp; <a href="/admissions/school-fees">Learn more about school fees.</a><p></p>
 		<p></p><h2>Can I use my child's Edusave to pay for the school fees?</h2><br><br>SOTA's school and miscellaneous fees are not deductible via Edusave.<p></p>
 		<p></p><h2>How do I apply for Bursary?</h2><br><br>Bursary application is done online, and is only available once you are posted to SOTA.<p></p>
-		<p></p><h2>How do I apply for Bursary?</h2><br><br>Bursary application is done online, and is only available once you are posted to SOTA.<p></p>
+		<p></p><h2>What does the Bursary cover?</h2><br><br>The SOTA Bursary provides tiered school and miscellaneous fees subsidy ranging from 33% to 100%. Learn more about <a href="/admissions/scholarships-and-FAschemes">Scholarships and Financial Assistance Schemes.</a><p></p>
     </div>
 	</li>  
 </ul>
 
-
-****
-
+&nbsp;
