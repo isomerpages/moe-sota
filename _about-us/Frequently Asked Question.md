@@ -16,6 +16,10 @@ description: ""
 		<p></p><h2>How do I apply for Bursary?</h2><br><br>Bursary application is done online, and is only available once you are posted to SOTA.<p></p>
 		<p></p><h2>What does the Bursary cover?</h2><br><br>The SOTA Bursary provides tiered school and miscellaneous fees subsidy ranging from 33% to 100%. Learn more about <a href="/admissions/scholarships-and-FAschemes">Scholarships and Financial Assistance Schemes.</a><p></p>
 			<p></p><h2>How do I apply for scholarships?</h2><br><br><a href="/admissions/scholarships-and-FAschemes">Scholarships</a> are by nomination and are decided by the SOTA Scholarship Committee. Selected students will be informed accordingly.<p></p>
+			<p></p><h2>Are scholarships offered to Singapore Permanent Residents and Foreigners?</h2><br><br>SOTA-The NAK Scholarship is offered to students regardless of their nationalities, whereas the Temasek Foundation Scholarship for Arts Education and Temasek Foundation Scholarship for Young Artist are offered to Singaporeans and Singapore Permanent Residents only. Learn more about&nbsp;<a href="/admissions/scholarships-and-FAschemes">Scholarships and Financial Assistance Schemes.</a><p></p>
+			<p></p><h2>Is there a school uniform for SOTA students?</h2><br><br>Yes, students must wear their school uniform whenever they are in school.<p></p>
+			<p></p><h2>What are the school hours like in SOTA?</h2><br><br>School starts at 7:50am and ends at about 4:00pm.<p></p>
+			<p></p><h2>Are the school holidays in SOTA same as most of the schools in Singapore?</h2><br><br>SOTA’s academic calendar broadly follows the Ministry of Education schools’ academic calendar with some variations to accommodate the&nbsp;<a href="/why-sota/ib">IB programme.</a><p></p>
     </div>
 	</li>  
 </ul>
