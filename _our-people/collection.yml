@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Management Team/Example Title.md
       - Management Team/.keep
       - Management Team/Mrs Mary Seah.md
       - Management Team/Amy Khoo.md
