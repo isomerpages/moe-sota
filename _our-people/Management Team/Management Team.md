@@ -4,6 +4,14 @@ permalink: /about-us/our-people/management-team/
 description: ""
 third_nav_title: Management Team
 ---
+![](/images/mrs-mary-seahf8779852fed369fba7eaff0000314707.jpg)
+![](/images/amy-khoo-cropped.jpg)
+![](/images/pauline-ann-tan3efb9752fed369fba7eaff0000314707.jpg)
+![](/images/ssc_liong-huai-yu_photo-01-1.jpg)
+![](/images/mo_full_justine-tan_photo-08-(crop-1b).jpg)
+![](/images/mo_full_lee-yew-wah_photo-02-1.jpg)
+![](/images/yang-tiene4fb9752fed369fba7eaff0000314707.jpg)
+![](/images/mo_full_lim-jong-yann_photo-011f51a452fed369fba7eaff0000314707.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
