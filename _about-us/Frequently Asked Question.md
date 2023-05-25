@@ -29,7 +29,39 @@ description: ""
       <p></p><h2>What subjects do I study at SOTA? Do they study academic subjects?</h2><br><br>At SOTA, all students go through a six-year integrated arts and academic curriculum that culminates in the International Baccalaureate (IB) Diploma or an IB Career-related Programme. Subjects include: English Literature; Mother Tongue Language; Mathematics; Science (Physics, Chemistry, Biology); Humanities and Social Sciences (History, Geography, Economics, Social &amp; Cultural Anthropology); Specialized Arts (Dance, Film, Music, Theatre, Visual Arts); Theory of Knowledge; the Extended Essay; and Creativity, Action &amp; Service.&nbsp;<a href="/curriculum/curriculum">Read more about our curriculum.</a><p></p>
 			<p></p><h2>What subjects do students study during their first year in SOTA?</h2><br><br>In Year 1, students do subjects in English Language &amp; Critical Thinking; Literature in English; Mother Tongue Languages; Humanities &amp; Social Sciences (Geography and History); Coordinated Science; Mathematics, Integrated Arts, Media Education, Experiential Education and either Dance, Music, Theatre or Visual Arts.<p></p>
 			<p></p><h2>Where do the students go to after their education in SOTA?</h2><br><br>SOTA graduates have gone on to further their education in illustrious schools both in Singapore and abroad. Graduates have also been recognised for their achievements in a spectrum of fields.&nbsp;<a href="/why-sota/succeeding-beyond-sota">View the list of schools and scholarships.</a><p></p>
+			<p></p><h2>What if I am exempted from taking Mother Tongue Language? Do I need to re-apply for exemption?</h2><br><br>If you have received approval for exemption from Mother Tongue Language from the Ministry of Education (MOE) while you were in primary school, please indicate this on the online application form, and provide a photocopy of the MOE Mother Tongue Language Exemption Letter when you submit the supporting documents for Talent Academy applications. You do not have to re-apply for the exemption upon joining SOTA.&nbsp;<a href="/sota-education/sota-curriculum/academic-development/mother-tongue-languages">Read about SOTA’s Mother Tongue Language Programme.</a><p></p>
+			<p></p><h2>What if I am offered to take up Foreign Language in-lieu of Mother Tongue Language?</h2><br><br>If you are taking up a Foreign Language (Japanese, German, French), you are to attend lessons at the Ministry of Education Language Centre (MOELC). SOTA currently offers only Hindi. If you are taking up Non-Tamil Indian Languages (NTIL) (i.e., Bengali, Urdu, Gujarati, Punjabi), you are to attend lessons in the respective NTIL school. SOTA will reflect the marks and grades awarded by MOELC/NTIL schools in your progress report. If you are taking language in-lieu, you are required to obtain a sub-pass at GCE A Level Foreign Language H1 examination in Year 5 to be eligible for admission to a public-funded, full-time undergraduate programme at a local university. In Year 5, if you are taking Foreign or Non-Tamil Indian Languages in-lieu of Mother Tongue Language, you will have to offer Language Ab Initio (Malay or German) in preparation for the IBDP.&nbsp;<a href="/sota-education/sota-curriculum/academic-development/mother-tongue-languages">Read about SOTA’s Mother Tongue Language Programme.</a><p></p>
+			<p></p><h2>Is a third language available at SOTA?</h2><br><br>SOTA offers a rigorous Arts and Academics curriculum. If time permits, you will be able to attend Third Language courses at Ministry of Education Language Centre (MOELC). The Third Language result cannot be used to replace any subject in school. To be eligible for taking a Foreign Language as a Third Language, you must satisfy all three criteria:
+			<ul>
+				<li>Be ranked in the top 10% of the Primary School Leaving Examination (PSLE) cohort;</li>
+				<li>Be a Singapore Citizen (SC) or Singapore Permanent Resident (SPR), or the child of a SC/SPR; and</li>
+				<li>Have been offered a Mother Tongue Language at the PSLE</li>
+			</ul>
+			Students who are eligible to take up a Foreign Language as a Third Language will be notified of their eligibility upon release of the PSLE results.&nbsp;<a href="/sota-education/sota-curriculum/academic-development/mother-tongue-languages">Read about SOTA’s Mother Tongue Language Programme.</a><p></p>
     </div>
 	</li>  
 </ul>
 
+**How is SOTA’s Music programme different from schools with Music Elective Programme (MEP)?**
+
+The approach to the programme is different with music at SOTA developed as an art form, not just as a subject.&nbsp;[Read what the SOTA music programme covers and how it differs from other MEPs.](https://www.sota.edu.sg/sota-education/sota-curriculum/artistic-development/music "Music")
+
+  
+
+**Will SOTA’s programme prepare me for professional examinations (eg. ABRSM)?**
+
+The purpose of the music programme is not to prepare students for examinations such as ABRSM, but to develop the student’s musical and intellectual capacities. However, students can take ABRSM exams if their Instrumental Study teachers deem it useful for their learning as external assessment can be a useful learning tool.&nbsp;[Read what the SOTA music programme covers.](https://www.sota.edu.sg/sota-education/sota-curriculum/artistic-development/music "Music")
+
+  
+
+**What are the options for Music students?**
+
+Based on their admission auditions, music students may be placed into either Creating or Performance Tracks to better support their musical talents. Students in Creating Track will still attend Instrumental Study lessons, but will also attend and be assessed on a creating module focused on compositional tools and processes. Students in the Performance Track will have a more focused Instrumental Study, which is one of the main components of assessments. They will commence with the creating modules from year 3. Students who begin in the Creating Track may switch to Performance Track in year 3 depending on their performance in years 1 and 2.
+
+Students with an interest in Jazz and Pop music have the opportunity to apply to start in or switch to the Jazz and Pop track. Emphasis will be placed on jazz (this is a broad definition of the term that will include areas of pop, fusion, blues, funk, music from Latin American and so on). Percussionists are not currently being considered for a switch to drum-set in jazz. The combination of mallets, snare and drumset offers the best possibilities in development and already covers jazz and pop. Furthermore, the chamber music groups further augments these possibilities.
+
+  
+
+**Are there Co-Curricular Activities (CCA) in SOTA?**
+
+There are no CCAs offered in SOTA. Students specialise in their chosen art discipline and they usually spend their time after school hours practising their art discipline or attending rehearsals for their various performances.
