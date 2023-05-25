@@ -1,6 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/about-sota/
+    sublinks:
+      - title: About SOTA
+        url: /about-us/about-sota/
+      - title: Our People
+        url: /about-us/our-people/sota-board/
