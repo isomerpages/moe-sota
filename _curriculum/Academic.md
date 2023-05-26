@@ -9,3 +9,12 @@ SOTA’s integrated arts and academic curriculum emphasises meaningful learning 
 
 To find out more about the six-year course, click [here](/why-sota/ib).
 
+### Academic 
+
+*   [English Language and Critical Thinking & Theory of Knowledge](/curriculum/curriculum/academic/english-language-theory-of-knowledge)
+*   [Humanities and Social Sciences](/curriculum/curriculum/academic/humanities-and-social-sciences)
+*   [Literature in English](/curriculum/curriculum/academic/literature-in-english)
+*   [Mathematics](/curriculum/curriculum/academic/mathematics)
+*   [Media Education](/curriculum/curriculum/academic/media-education)
+*   [Mother Tongue Languages](/curriculum/curriculum/academic/mother-tongue-languages)
+*   [Sciences](/curriculum/curriculum/academic/sciences)
