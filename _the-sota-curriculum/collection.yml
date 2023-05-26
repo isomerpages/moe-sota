@@ -1,4 +1,5 @@
 collections:
   the-sota-curriculum:
     output: true
-    order: []
+    order:
+      - The SOTA Education Experience.md
