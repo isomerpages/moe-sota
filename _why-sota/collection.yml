@@ -2,5 +2,6 @@ collections:
   why-sota:
     output: true
     order:
+      - IB Programmes/.keep
       - Succeeding Beyond SOTA.md
       - Why SOTA.md
