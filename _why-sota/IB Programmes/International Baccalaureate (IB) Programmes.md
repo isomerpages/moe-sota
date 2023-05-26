@@ -8,3 +8,5 @@ SOTA’s integrated arts and academic curriculum emphasises meaningful learning 
   
 The six-year course culminates in the International Baccalaureate Diploma Programme (IBDP) or the International Baccalaureate Career-related Programme (IBCP).
 
+* [Diploma Programme (IBDP)](/why-sota/ib/ibdp/)
+* [Career–related Programme (IBCP)](/why-sota/ib/ibcp/)
