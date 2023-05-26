@@ -3,7 +3,6 @@ title: The SOTA Education Experience
 permalink: /curriculum/
 description: ""
 ---
-
 <img style="width:60%" src="/images/sota-education-experience-2020.png">
 		 
 At SOTA, all students go through a six-year integrated arts and academic curriculum. Our holistic approach ensures each student acquires a valuable set of skills that span the academic, artistic and affective. The programme culminates in an International Baccalaureate (IB) Diploma or an IB Career-related Programme.  
