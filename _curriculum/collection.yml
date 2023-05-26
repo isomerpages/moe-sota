@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic/Mother Tongue Languages.md
       - Academic/Media Education.md
       - Academic/Mathematics.md
       - Academic/Literature in English.md
