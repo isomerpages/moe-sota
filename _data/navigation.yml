@@ -18,3 +18,12 @@ links:
         url: /why-sota/ib/
       - title: Arts Programmes
         url: /curriculum/curriculum/arts/
+  - title: The SOTA Curriculum
+    url: /curriculum/
+    sublinks:
+      - title: The SOTA Education Experience
+        url: /curriculum/
+      - title: Curriculum
+        url: /curriculum/curriculum/academic/
+      - title: FAQs about Curriculum
+        url: /about-us/faqs/
