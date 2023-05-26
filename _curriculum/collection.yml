@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic/Media Education.md
       - Academic/Mathematics.md
       - Academic/Literature in English.md
       - Academic/Humanities and Social Sciences.md
