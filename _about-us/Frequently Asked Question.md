@@ -60,29 +60,16 @@ For Year 2 to 5 admissions, students will be required to sit for SOTA's entrance
 			<p></p><h2>I am not computer savvy and I don’t know how to apply via the TA Portal. Can I come down to SOTA to seek assistance?</h2><br><br>You are advised to refer to the step-by-step guide posted on the SOTA website or TA Portal.<br><br>
 For more information on TA application, please contact Office of Student Affairs at email:&nbsp;<a href="mailto:sa@sota.edu.sg">sa@sota.edu.sg</a><br><br>
 If you encounter technical difficulties, please contact our technical support team at email:&nbsp;<a href="mailto:support@sota.edu.sg">support@sota.edu.sg</a><p></p>
-			<p></p><h2>How do I upload videos to Youtube?</h2><br><br>You may refer to the<a href="https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&amp;hl=en">Youtube Help</a> page for assistance.<p></p>
+			<p></p><h2>How do I upload videos to Youtube?</h2><br><br>You may refer to the <a href="https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&amp;hl=en">Youtube Help</a> page for assistance.<p></p>
+			<p></p><h2>How do I upload videos and files to Google drive?</h2><br><br>You may refer to the <a href="https://support.google.com/drive/answer/2424368?co=GENIE.Platform%3DDesktop&amp;hl=en">Google Support</a> page for assistance.<p></p>
+			<p></p><h2>How do I convert, compress or merge documents to PDF?</h2><br><br>There are many free online websites you can use. Below are a few suggestions. Please note that SOTA is not affiliated to any of these sites. The links below will bring you to an external website not hosted by SOTA.
+			<ul>
+				<li>A. Convert word document to pdf document<br><a href="https://www.freepdfconvert.com/?gclid=Cj0KEQiAnIPDBRC7t5zJs4uQu5UBEiQA7u5Ne3rAPm9YxmfeuVQfpDvEqPU5lOB80JIpvzVhb9u7sOUaAmJZ8P8HAQ">Link 1</a><br><a href="https://smallpdf.com/word-to-pdf">Link 2</a></li>
+				<li>B. Compress / Resize pdf documents<br><a href="http://www.ilovepdf.com/compress_pdf">Link 1</a></li>
+					<li>C. Merge individual pdf documents into 1 document<br><a href="http://www.ilovepdf.com/merge_pdf">Link 1</a></li>
+			</ul>
+			<p></p>
     </div>
 	</li>  
 </ul>
 
-
-
-
-
-**How do I upload videos and files to Google drive?**
-
-You may refer to the&nbsp;[Google Support](https://support.google.com/drive/answer/2424368?co=GENIE.Platform%3DDesktop&amp;hl=en)&nbsp;page for assistance.
-
-  
-
-**How do I convert, compress or merge documents to PDF?**
-
-There are many free online websites you can use. Below are a few suggestions. Please note that SOTA is not affiliated to any of these sites. The links below will bring you to an external website not hosted by SOTA.
-
-*   **A. Convert word document to pdf document**  
-    [Link 1](https://www.freepdfconvert.com/?gclid=Cj0KEQiAnIPDBRC7t5zJs4uQu5UBEiQA7u5Ne3rAPm9YxmfeuVQfpDvEqPU5lOB80JIpvzVhb9u7sOUaAmJZ8P8HAQ)  
-    [Link 2](https://smallpdf.com/word-to-pdf)
-*   **B. Compress / Resize pdf documents**  
-    [Link 1](http://www.ilovepdf.com/compress_pdf)
-*   **C. Merge individual pdf documents into 1 document**  
-    [Link 1](http://www.ilovepdf.com/merge_pdf)
