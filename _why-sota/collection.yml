@@ -1,4 +1,5 @@
 collections:
   why-sota:
     output: true
-    order: []
+    order:
+      - Why SOTA.md
