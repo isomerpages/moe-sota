@@ -47,7 +47,7 @@ Students with an interest in Jazz and Pop music have the opportunity to apply to
 	</li> 
 	<li>
     <input id="accordion3" type="checkbox">
-    <label for="accordion3">Simple</label>
+    <label for="accordion3">FAQ: TALENT ACADEMY</label>
     <div>
       <p></p><h2>I have only recently found out about SOTA and have missed the deadline to apply for the Talent Academy. Are there any other platforms for me to apply?</h2><br><br>SOTA's Talent Academy (TA) for DSA-Secondary, DSA-Secondary (non-MOE), and DSA-JC is conducted in June each year. Due to the nature of the TA audition and processes, SOTA does not conduct additional auditions beyond June.<br><br>
 SOTA ad hoc admission exercise may be conducted in December each year, subject to available vacancies. Please check our&nbsp;  <a href="/admissions/how-to-apply-to-sota">Admissions page</a> for more information.<p></p>
@@ -71,5 +71,11 @@ If you encounter technical difficulties, please contact our technical support te
 			<p></p>
     </div>
 	</li>  
+	<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">FAQ: AUDITION NOTES</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
 </ul>
-
