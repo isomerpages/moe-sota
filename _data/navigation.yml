@@ -9,3 +9,12 @@ links:
         url: /about-us/our-people/sota-board/
       - title: Frequently Asked Questions
         url: /about-us/faqs/
+  - title: Why SOTA
+    url: /why-sota/
+    sublinks:
+      - title: Why SOTA
+        url: /why-sota/
+      - title: IB Programmes
+        url: /why-sota/ib/
+      - title: Arts Programmes
+        url: /curriculum/curriculum/arts/
