@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic/Literature in English.md
       - Academic/Humanities and Social Sciences.md
       - Academic/English Language and Critical Thinking & Theory of Knowledge.md
       - Academic/Academic.md
