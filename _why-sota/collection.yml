@@ -2,6 +2,7 @@ collections:
   why-sota:
     output: true
     order:
+      - IB Programmes/Career–related Programme (IBCP).md
       - IB Programmes/Diploma Programme (IBDP).md
       - IB Programmes/International Baccalaureate (IB) Programmes.md
       - IB Programmes/.keep
