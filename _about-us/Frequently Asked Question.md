@@ -44,8 +44,75 @@ description: ""
 Students with an interest in Jazz and Pop music have the opportunity to apply to start in or switch to the Jazz and Pop track. Emphasis will be placed on jazz (this is a broad definition of the term that will include areas of pop, fusion, blues, funk, music from Latin American and so on). Percussionists are not currently being considered for a switch to drum-set in jazz. The combination of mallets, snare and drumset offers the best possibilities in development and already covers jazz and pop. Furthermore, the chamber music groups further augments these possibilities.<p></p>
 		<p></p><h2>Are there Co-Curricular Activities (CCA) in SOTA?</h2><br><br>There are no CCAs offered in SOTA. Students specialise in their chosen art discipline and they usually spend their time after school hours practising their art discipline or attending rehearsals for their various performances.<p></p>
     </div>
+	</li> 
+	<li>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">Simple</label>
+    <div>
+      <p></p><h2>I have only recently found out about SOTA and have missed the deadline to apply for the Talent Academy. Are there any other platforms for me to apply?</h2><br><br>SOTA's Talent Academy (TA) for DSA-Secondary, DSA-Secondary (non-MOE), and DSA-JC is conducted in June each year. Due to the nature of the TA audition and processes, SOTA does not conduct additional auditions beyond June.<br><br>
+SOTA ad hoc admission exercise may be conducted in December each year, subject to available vacancies. Please check our&nbsp;  <a href="/admissions/how-to-apply-to-sota">Admissions page</a> for more information.<p></p>
+    </div>
 	</li>  
 </ul>
 
+  
 
+**I did not apply for Talent Academy in June. Can I apply via ad hoc admission if I am eligible for the Express stream upon release of my PSLE results?**
 
+No, you may not. Admission to SOTA is strictly through DSA-Secondary exercise. Students who did not participate in the DSA-Secondary exercise will have to go through the S1 Posting Exercise.
+
+  
+
+**I was shortlisted for Talent Academy but did not receive either a Confirmed Offer or Waiting List. I am eligible for the Express stream upon release of my PSLE results. Can I still apply to SOTA via the ad hoc admission in December?**
+
+No, you may not. You are only allowed to participate in the DSA exercise once. Admission to SOTA is strictly through DSA-Secondary exercise. Students who did not participate in the DSA-Secondary exercise will have to go through the S1 Posting Exercise.
+
+  
+
+**I have applied for Music (Performance) but was offered Music (Creating) instead. Can I appeal to be offered Music (Performance)?**
+
+SOTA would have carefully considered each application, and as such, the decision is final.
+
+  
+
+**I am a Returning Singaporean/ Foreigner studying overseas. Do I have to take any tests to apply for the Talent Academy?**
+
+The applicants will be required to take the entrance tests after being shortlisted for the Talent Academy auditions.  
+For Year 1 admission, students not taking the PSLE will be required to sit for SOTA's entrance test for English and Mathematics.  
+For Year 2 to 5 admissions, students will be required to sit for SOTA's entrance tests for English, Mathematics and Science.
+
+  
+
+**I am not computer savvy and I don’t know how to apply via the TA Portal. Can I come down to SOTA to seek assistance?**
+
+You are advised to refer to the step-by-step guide posted on the SOTA website or TA Portal.  
+  
+For more information on TA application, please contact Office of Student Affairs at email:&nbsp;[sa@sota.edu.sg.](mailto:sa@sota.edu.sg)  
+  
+If you encounter technical difficulties, please contact our technical support team at email:&nbsp;[support@sota.edu.sg.](mailto:support@sota.edu.sg)
+
+  
+
+**How do I upload videos to Youtube?**
+
+You may refer to the&nbsp;[Youtube Help](https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&amp;hl=en)&nbsp;page for assistance.
+
+  
+
+**How do I upload videos and files to Google drive?**
+
+You may refer to the&nbsp;[Google Support](https://support.google.com/drive/answer/2424368?co=GENIE.Platform%3DDesktop&amp;hl=en)&nbsp;page for assistance.
+
+  
+
+**How do I convert, compress or merge documents to PDF?**
+
+There are many free online websites you can use. Below are a few suggestions. Please note that SOTA is not affiliated to any of these sites. The links below will bring you to an external website not hosted by SOTA.
+
+*   **A. Convert word document to pdf document**  
+    [Link 1](https://www.freepdfconvert.com/?gclid=Cj0KEQiAnIPDBRC7t5zJs4uQu5UBEiQA7u5Ne3rAPm9YxmfeuVQfpDvEqPU5lOB80JIpvzVhb9u7sOUaAmJZ8P8HAQ)  
+    [Link 2](https://smallpdf.com/word-to-pdf)
+*   **B. Compress / Resize pdf documents**  
+    [Link 1](http://www.ilovepdf.com/compress_pdf)
+*   **C. Merge individual pdf documents into 1 document**  
+    [Link 1](http://www.ilovepdf.com/merge_pdf)
