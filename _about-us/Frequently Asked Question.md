@@ -57,15 +57,17 @@ SOTA ad hoc admission exercise may be conducted in December each year, subject t
 			<p></p><h2>I am a Returning Singaporean/ Foreigner studying overseas. Do I have to take any tests to apply for the Talent Academy?</h2><br><br>The applicants will be required to take the entrance tests after being shortlisted for the Talent Academy auditions.  
 For Year 1 admission, students not taking the PSLE will be required to sit for SOTA's entrance test for English and Mathematics.<br><br>
 For Year 2 to 5 admissions, students will be required to sit for SOTA's entrance tests for English, Mathematics and Science.<p></p>
-			<p></p><h2>I am not computer savvy and I don’t know how to apply via the TA Portal. Can I come down to SOTA to seek assistance?</h2><br><br>You are advised to refer to the step-by-step guide posted on the SOTA website or TA Portal.  
-  
-For more information on TA application, please contact Office of Student Affairs at email:&nbsp;[sa@sota.edu.sg.](mailto:sa@sota.edu.sg)  
-  
-If you encounter technical difficulties, please contact our technical support team at email:&nbsp;[support@sota.edu.sg.](mailto:support@sota.edu.sg)
+			<p></p><h2>I am not computer savvy and I don’t know how to apply via the TA Portal. Can I come down to SOTA to seek assistance?</h2><br><br>You are advised to refer to the step-by-step guide posted on the SOTA website or TA Portal.<br><br>
+For more information on TA application, please contact Office of Student Affairs at email:&nbsp;<a href="mailto:sa@sota.edu.sg">sa@sota.edu.sg</a><br><br>
+If you encounter technical difficulties, please contact our technical support team at email:&nbsp;<a href="mailto:support@sota.edu.sg">support@sota.edu.sg</a>
 <p></p>
     </div>
 	</li>  
 </ul>
+
+
+
+
 
 
 **How do I upload videos to Youtube?**
