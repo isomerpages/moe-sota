@@ -2,12 +2,12 @@ collections:
   curriculum:
     output: true
     order:
-      - Academic/Sciences.md
-      - Academic/Mother Tongue Languages.md
-      - Academic/Media Education.md
-      - Academic/Mathematics.md
-      - Academic/Literature in English.md
-      - Academic/Humanities and Social Sciences.md
-      - Academic/English Language and Critical Thinking & Theory of Knowledge.md
-      - Academic/Academic.md
       - Academic/.keep
+      - Academic/Academic.md
+      - Academic/English Language and Critical Thinking & Theory of Knowledge.md
+      - Academic/Humanities and Social Sciences.md
+      - Academic/Literature in English.md
+      - Academic/Mathematics.md
+      - Academic/Media Education.md
+      - Academic/Mother Tongue Languages.md
+      - Academic/Sciences.md
