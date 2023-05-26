@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Arts/Dance.md
       - Arts/Integrated Arts.md
       - Arts/Arts.md
       - Arts/.keep
