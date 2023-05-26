@@ -59,8 +59,8 @@ For Year 1 admission, students not taking the PSLE will be required to sit for S
 For Year 2 to 5 admissions, students will be required to sit for SOTA's entrance tests for English, Mathematics and Science.<p></p>
 			<p></p><h2>I am not computer savvy and I don’t know how to apply via the TA Portal. Can I come down to SOTA to seek assistance?</h2><br><br>You are advised to refer to the step-by-step guide posted on the SOTA website or TA Portal.<br><br>
 For more information on TA application, please contact Office of Student Affairs at email:&nbsp;<a href="mailto:sa@sota.edu.sg">sa@sota.edu.sg</a><br><br>
-If you encounter technical difficulties, please contact our technical support team at email:&nbsp;<a href="mailto:support@sota.edu.sg">support@sota.edu.sg</a>
-<p></p>
+If you encounter technical difficulties, please contact our technical support team at email:&nbsp;<a href="mailto:support@sota.edu.sg">support@sota.edu.sg</a><p></p>
+			<p></p><h2>How do I upload videos to Youtube?</h2><br><br>You may refer to the<a href="https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&amp;hl=en">Youtube Help</a> page for assistance.<p></p>
     </div>
 	</li>  
 </ul>
@@ -68,13 +68,6 @@ If you encounter technical difficulties, please contact our technical support te
 
 
 
-
-
-**How do I upload videos to Youtube?**
-
-You may refer to the&nbsp;[Youtube Help](https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&amp;hl=en)&nbsp;page for assistance.
-
-  
 
 **How do I upload videos and files to Google drive?**
 
