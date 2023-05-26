@@ -2,20 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Affective/Experiential Education.md
-      - Affective/Community Service.md
-      - Affective/Student Development.md
-      - Affective/Affective.md
-      - Affective/.keep
-      - Academic/.keep
-      - Academic/Academic.md
-      - Academic/English Language and Critical Thinking & Theory of Knowledge.md
-      - Academic/Humanities and Social Sciences.md
-      - Academic/Literature in English.md
-      - Academic/Mathematics.md
-      - Academic/Media Education.md
-      - Academic/Mother Tongue Languages.md
-      - Academic/Sciences.md
       - Arts/.keep
       - Arts/Arts.md
       - Arts/Integrated Arts.md
@@ -25,3 +11,17 @@ collections:
       - Arts/Music.md
       - Arts/Theatre.md
       - Arts/Visual Arts.md
+      - Academic/.keep
+      - Academic/Academic.md
+      - Academic/English Language and Critical Thinking & Theory of Knowledge.md
+      - Academic/Humanities and Social Sciences.md
+      - Academic/Literature in English.md
+      - Academic/Mathematics.md
+      - Academic/Media Education.md
+      - Academic/Mother Tongue Languages.md
+      - Academic/Sciences.md
+      - Affective/.keep
+      - Affective/Experiential Education.md
+      - Affective/Community Service.md
+      - Affective/Student Development.md
+      - Affective/Affective.md
