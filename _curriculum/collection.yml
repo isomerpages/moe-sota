@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Affective/Experiential Education.md
       - Affective/Community Service.md
       - Affective/Student Development.md
       - Affective/Affective.md
