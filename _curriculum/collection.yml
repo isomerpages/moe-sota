@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic/English Language and Critical Thinking & Theory of Knowledge.md
       - Academic/Academic.md
       - Academic/.keep
