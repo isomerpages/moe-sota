@@ -4,6 +4,14 @@ permalink: /curriculum/curriculum/arts/
 description: ""
 third_nav_title: Arts
 ---
+![](/images/2014-tyenyingfong.jpg)
+![](/images/2015-almirafarid.jpg)
+![](/images/2016-sabrina.jpg)
+![](/images/2017-callytan.jpg)
+![](/images/2018-zachary.jpg)
+![](/images/2019-denise.jpg)
+![](/images/2020-elizabeth.jpg)
+
 ### Artistic and Creative Professional
 
 Connecting theory with practice, SOTA’s specialised arts programmes emphasise real-life creative processes that aim to develop strong artistic capabilities and dispositions, including critical thinking skills, creative awareness, and discipline, among students.  
@@ -32,10 +40,17 @@ The&nbsp;**SOTA-[Ngee Ann Kongsi](https://thengeeannkongsi.com.sg/en)&nbsp;Outst
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">2014 - Tyen Ying Fong, Theatre</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
 	</li>  
 </ul>
 
+ 
+
+
+
+#### SOTA-Ngee Ann Kongsi Outstanding Young Artist Award Recipients
+
+[](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2014)[2015 - Almira Bte Farid, Music](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2015)[2016 - Nur Sabrina Binte Dzulkifli, Theatre](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2016)[2017 - Cally Tan Ying Tong, Visual Arts](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2017)[2018 - Zachary Singson Dominiguez, Music](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2018)[2019 - Denise Wang Wen Xin, Visual Arts](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2019)[2020 - Elizabeth Goh Wan Tian, Music](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2020)[2021 - Alicia Diva Chandra, Music](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2021)[2022 - Cher Zhi Xian Timothy, Music](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2022)
