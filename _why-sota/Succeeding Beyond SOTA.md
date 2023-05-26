@@ -7,8 +7,7 @@ SOTA achieved a pass rate of 100% in both the IB Diploma Programme (IBDP) and IB
 
 Our graduates have gone on to further their education in illustrious schools both in Singapore and abroad. Graduates have also been recognised for their achievements in a spectrum of fields, from the academic and artistic to societal leadership.
 
-
-![](/images/sota-pathways.png)
+<img style="width:80%" src="/images/sota-pathways.png">
 
 ### SOTA graduates have gone on to various prestigious schools:
 
@@ -65,7 +64,9 @@ Our graduates have gone on to further their education in illustrious schools bot
   </tr>
 </tbody>
 </table>
-
+<br>
+<hr>
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -159,6 +160,9 @@ Our graduates have gone on to further their education in illustrious schools bot
   </tr>
 </tbody>
 </table>
+<br>
+<hr>
+<br>
 
 **View the full list of tertiary institutions SOTA graduates have been or are enrolled in&nbsp;[HERE](/files/university-acceptance-of-sota-graduates_april-2022.pdf).**
 
@@ -206,7 +210,9 @@ Our graduates have gone on to further their education in illustrious schools bot
   </tr>
 </tbody>
 </table>
-
+<br>
+<hr>
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -272,7 +278,9 @@ Our graduates have gone on to further their education in illustrious schools bot
   </tr>
 </tbody>
 </table>
-
+<br>
+<hr>
+<br>
 ### They have also obtained various scholarships:
 
 <style type="text/css">
@@ -325,6 +333,8 @@ Our graduates have gone on to further their education in illustrious schools bot
   </tr>
 </tbody>
 </table>
+<br>
+<hr>
+<br>
 
 **View the full list of scholarships SOTA graduates have taken up&nbsp;[HERE](/files/scholarship-acceptance-of-sota-graduates_april-2022.pdf).**
-
