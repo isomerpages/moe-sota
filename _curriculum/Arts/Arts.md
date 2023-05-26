@@ -109,18 +109,31 @@ Elizabeth is pursuing her studies in Music Performance in Amsterdam, where she h
 </p>
     </div>
 	</li>  
+	<li>
+    <input id="accordion8" type="checkbox">
+    <label for="accordion8">2021 - Alicia Diva Chandra, Music</label>
+    <div>
+      <p><img style="width:60%" src="/images/2021-alicia.jpg"></p>
+			<p>Alicia does not view her pursuit of excellence in music as hard work, but rather as a constant learning journey. Eager to explore new ideas in music, Alicia's consistency and enthusiasm in learning has helped her grow to be a versatile musician, both as a composer and performer.<br><br>
+Apart from her major study – the piano – Alicia showed an avid interest in other musical instruments too. She joined the school's Chinese Percussion Ensemble and Contemporary Percussion Ensemble to learn more about other instruments, perform on them, and play as part of an ensemble. Outside of the school curriculum, Alicia continued to explore other collaborative music-making opportunities to diversify her musical repertoire and develop herself as a performer, such as performing in pop music bands with her peers and joining an a cappella group.<br><br>
+As a composer, Alicia was able to experiment with alternative ways of presenting her ideas and developed clarity and expression in her works. Her experience so far spans from composing for a wide range of instruments, music arranging for a cappella groups and a full orchestra, to creating electronic music and interdisciplinary works with other artists. She has benefitted from the broad range of music context, history and theory covered in SOTA's holistic Music curriculum.<br><br>
+The aspiring composer constantly seeks opportunities to learn more and challenge herself. She has since participated in programmes including the Young Composers' Programme at the Cleveland Institute of Music (2017), University of Missouri Kansas City (UMKC) Composition Workshop (2019), Singapore Symphony Orchestra Orchestration Workshop with Tim Davies (2020), and Yong Siew Toh Conservatory of Music's Young Composers' Academy (2020). Her development as a young composer culminated in being selected at the Music at the Anthology (MATA) Jr. 2020. Her String Quartet was one of the six works performed by Bergamot Quartet in New York. <br><br>
+Inspired by her fulfilling Music education experience at SOTA, Alicia was keen to give back to the community by sharing her knowledge with others. In 2019, she launched Music Theory CAS, a Creativity, Activity, Service project where students taught other students music theory. She was motivated to help fellow Music students improve on music theory and to also share the joy of learning music with students from other artforms. From organising lessons and overseeing student-teachers, to personally engaging with the learners, Alicia displayed leadership and a potential for teaching.<br><br>
+SOTA has helped Alicia solidify her dreams as an artist. Alicia is grateful to her teachers for their patience and guidance, and cherishes the many opportunities she had to grow as a performer, composer and musician. Alicia will be pursuing Composition at Yong Siew Toh Conservatory of Music, where she hopes to hone her craft and find her voice as an artist.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion9" type="checkbox">
+    <label for="accordion9">2022 - Cher Zhi Xian Timothy, Music</label>
+    <div>
+      <p><img style="width:60%" src="/images/2022-timothy.png"></p>
+			<p>Having joined SOTA in 2016, Timothy consistently displayed an aptitude for holistic learning and self-improvement. A resilient and highly motivated student, he excelled both academically and artistically, receiving several awards including the Ministry of Education (MOE) Edusave Good Progress Award (2017 and2018), MOE Edusave EAGLES Award (2019), and SOTA-Ngee Ann Kongsi Scholarship (2019).<br><br>
+Timothy developed a desire to pursue music professionally through his education at SOTA. He developed greater confidence in playing the viola, making the most of every opportunity to hone his technical skills and musicality. His performances with the Singapore National Youth Orchestra (SNYO) and Orchestra of the Music Makers (OMM) allowed him to collaborate with like-minded individuals and gain invaluable experience. Timothy also harnessed his musical talents to contribute to the wider community, organising various service learning projects where he taught music to students and less privileged children.<br><br>
+After completing his National Service, he plans to pursue a Bachelor of Music Degree in Viola performance in an overseas conservatoire before returning to Singapore to play as an orchestral musician.</p>
+    </div>
+	</li>  
 </ul>
 
 
-<img style="width:60%" src="/images/2020-elizabeth.jpg">
-
-![]()
-![](/images/2021-alicia.jpg)
-![](/images/2022-timothy.png)
 
 
-
-
-#### SOTA-Ngee Ann Kongsi Outstanding Young Artist Award Recipients
-
-(https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2015)[](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2016)[](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2017)[](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2018)[](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2019)[](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2020)[2021 - Alicia Diva Chandra, Music](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2021)[2022 - Cher Zhi Xian Timothy, Music](https://www.sota.edu.sg/curriculum/curriculum/arts#nakoyaa-2022)
