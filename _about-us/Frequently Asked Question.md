@@ -51,47 +51,22 @@ Students with an interest in Jazz and Pop music have the opportunity to apply to
     <div>
       <p></p><h2>I have only recently found out about SOTA and have missed the deadline to apply for the Talent Academy. Are there any other platforms for me to apply?</h2><br><br>SOTA's Talent Academy (TA) for DSA-Secondary, DSA-Secondary (non-MOE), and DSA-JC is conducted in June each year. Due to the nature of the TA audition and processes, SOTA does not conduct additional auditions beyond June.<br><br>
 SOTA ad hoc admission exercise may be conducted in December each year, subject to available vacancies. Please check our&nbsp;  <a href="/admissions/how-to-apply-to-sota">Admissions page</a> for more information.<p></p>
-    </div>
-	</li>  
-</ul>
-
-  
-
-**I did not apply for Talent Academy in June. Can I apply via ad hoc admission if I am eligible for the Express stream upon release of my PSLE results?**
-
-No, you may not. Admission to SOTA is strictly through DSA-Secondary exercise. Students who did not participate in the DSA-Secondary exercise will have to go through the S1 Posting Exercise.
-
-  
-
-**I was shortlisted for Talent Academy but did not receive either a Confirmed Offer or Waiting List. I am eligible for the Express stream upon release of my PSLE results. Can I still apply to SOTA via the ad hoc admission in December?**
-
-No, you may not. You are only allowed to participate in the DSA exercise once. Admission to SOTA is strictly through DSA-Secondary exercise. Students who did not participate in the DSA-Secondary exercise will have to go through the S1 Posting Exercise.
-
-  
-
-**I have applied for Music (Performance) but was offered Music (Creating) instead. Can I appeal to be offered Music (Performance)?**
-
-SOTA would have carefully considered each application, and as such, the decision is final.
-
-  
-
-**I am a Returning Singaporean/ Foreigner studying overseas. Do I have to take any tests to apply for the Talent Academy?**
-
-The applicants will be required to take the entrance tests after being shortlisted for the Talent Academy auditions.  
-For Year 1 admission, students not taking the PSLE will be required to sit for SOTA's entrance test for English and Mathematics.  
-For Year 2 to 5 admissions, students will be required to sit for SOTA's entrance tests for English, Mathematics and Science.
-
-  
-
-**I am not computer savvy and I don’t know how to apply via the TA Portal. Can I come down to SOTA to seek assistance?**
-
-You are advised to refer to the step-by-step guide posted on the SOTA website or TA Portal.  
+			<p></p><h2>I did not apply for Talent Academy in June. Can I apply via ad hoc admission if I am eligible for the Express stream upon release of my PSLE results?</h2><br><br>No, you may not. Admission to SOTA is strictly through DSA-Secondary exercise. Students who did not participate in the DSA-Secondary exercise will have to go through the S1 Posting Exercise.<p></p>
+			<p></p><h2>I was shortlisted for Talent Academy but did not receive either a Confirmed Offer or Waiting List. I am eligible for the Express stream upon release of my PSLE results. Can I still apply to SOTA via the ad hoc admission in December?</h2><br><br>No, you may not. You are only allowed to participate in the DSA exercise once. Admission to SOTA is strictly through DSA-Secondary exercise. Students who did not participate in the DSA-Secondary exercise will have to go through the S1 Posting Exercise.<p></p>
+			<p></p><h2>I have applied for Music (Performance) but was offered Music (Creating) instead. Can I appeal to be offered Music (Performance)?</h2><br><br>SOTA would have carefully considered each application, and as such, the decision is final.<p></p>
+			<p></p><h2>I am a Returning Singaporean/ Foreigner studying overseas. Do I have to take any tests to apply for the Talent Academy?</h2><br><br>The applicants will be required to take the entrance tests after being shortlisted for the Talent Academy auditions.  
+For Year 1 admission, students not taking the PSLE will be required to sit for SOTA's entrance test for English and Mathematics.<br><br>
+For Year 2 to 5 admissions, students will be required to sit for SOTA's entrance tests for English, Mathematics and Science.<p></p>
+			<p></p><h2>I am not computer savvy and I don’t know how to apply via the TA Portal. Can I come down to SOTA to seek assistance?</h2><br><br>You are advised to refer to the step-by-step guide posted on the SOTA website or TA Portal.  
   
 For more information on TA application, please contact Office of Student Affairs at email:&nbsp;[sa@sota.edu.sg.](mailto:sa@sota.edu.sg)  
   
 If you encounter technical difficulties, please contact our technical support team at email:&nbsp;[support@sota.edu.sg.](mailto:support@sota.edu.sg)
+<p></p>
+    </div>
+	</li>  
+</ul>
 
-  
 
 **How do I upload videos to Youtube?**
 
