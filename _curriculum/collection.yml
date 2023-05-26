@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Arts/Music.md
       - Arts/Literary Arts.md
       - Arts/Film.md
       - Arts/Dance.md
