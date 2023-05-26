@@ -4,7 +4,6 @@ permalink: /curriculum/curriculum/academic/english-language-theory-of-knowledge/
 description: ""
 third_nav_title: Academic
 ---
-
 <img style="width:75%" src="/images/elct-tok.jpg">
 		 
 English Language and Critical Thinking (Years 1-4) and Theory of Knowledge (Years 5-6) set the foundation for students to become:  
@@ -45,5 +44,6 @@ In Personal and Professional Skills, one of the four core components in the IB C
 *   Foster a spirit of intellectual curiosity and a desire for academic discovery
 *   Hone critical, creative thinking, and reflective skills
 
+***
 
 Learn more about the International Baccalaureate Diploma Programme (IBDP) or International Baccalaureate Career-related Programme (IBCP)&nbsp;[here](/why-sota/ib).
