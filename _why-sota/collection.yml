@@ -2,9 +2,9 @@ collections:
   why-sota:
     output: true
     order:
+      - Why SOTA.md
+      - Succeeding Beyond SOTA.md
       - IB Programmes/.keep
       - IB Programmes/International Baccalaureate (IB) Programmes.md
       - IB Programmes/Diploma Programme (IBDP).md
       - IB Programmes/Career–related Programme (IBCP).md
-      - Succeeding Beyond SOTA.md
-      - Why SOTA.md
