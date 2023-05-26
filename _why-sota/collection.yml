@@ -1,0 +1,4 @@
+collections:
+  why-sota:
+    output: true
+    order: []
