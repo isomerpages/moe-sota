@@ -2,15 +2,15 @@ collections:
   curriculum:
     output: true
     order:
-      - Arts/Visual Arts.md
-      - Arts/Theatre.md
-      - Arts/Music.md
-      - Arts/Literary Arts.md
-      - Arts/Film.md
-      - Arts/Dance.md
-      - Arts/Integrated Arts.md
-      - Arts/Arts.md
       - Arts/.keep
+      - Arts/Arts.md
+      - Arts/Integrated Arts.md
+      - Arts/Dance.md
+      - Arts/Film.md
+      - Arts/Literary Arts.md
+      - Arts/Music.md
+      - Arts/Theatre.md
+      - Arts/Visual Arts.md
       - Academic/.keep
       - Academic/Academic.md
       - Academic/English Language and Critical Thinking & Theory of Knowledge.md
