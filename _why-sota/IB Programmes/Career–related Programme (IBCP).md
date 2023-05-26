@@ -36,5 +36,40 @@ SOTA’s IBCP has gained recognition by arts institutes and conservatories local
 			<p><img style="width:70%" src="/images/ibcp-1.png"><br><br><img style="width:70%" src="/images/ibcp-2.png"></p>
     </div>
 	</li>  
+	<li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">Click here for the list of local and international art institutes and conservatoires that recognise SOTA's IBCP.</label>
+    <div>
+			<p><b>Local and International Art Institutes and Conservatoires that recognise SOTA's IBCP</b></p>
+			<ol>
+				<li>Birmingham Conservatoire (UK)</li>
+				<li>California College of the Arts (USA)</li>
+				<li>Cleveland Institute of Music (USA)</li>
+				<li>Columbia College Chicago (USA)</li>
+				<li>Cornish College of the Arts (USA)</li>
+				<li>DigiPen Institute of Technology (Singapore)</li>
+				<ul><li>BA User Experience and Game Design</li><li>BFA in Digital Art and Animation</li></ul>
+				<li>Glasgow School of Art (UK)</li>
+				<li>Goldsmiths, University of London (UK)</li>
+				<li>Hong Kong Academy for Performing Arts (HK)</li>
+				<li>LASALLE College of the Arts (SG)</li>
+				<li>Maryland Institute College of Art (USA)</li>
+				<li>Nanyang Academy of Fine Arts (SG)</li>
+				<li>New England Conservatory (USA)</li>
+				<li>Northern School of Contemporary Dance (UK)</li>
+				<li>Rambert School of Ballet and Contemporary Dance (UK)</li>
+				<li>Royal Welsh College of Music and Drama (UK)</li>
+				<li>Royal Conservatoire of Scotland (UK)</li>
+				<li>Royal Northern College of Music (UK)</li>
+				<li>School of the Art Institute of Chicago (USA)</li>
+				<li>The Boston Conservatory (USA)</li>
+				<li>University of Roehampton (UK)</li>
+				<li>University of Southampton (UK)</li>
+				<li>University of the Arts, London (UK)</li>
+				<li>University of the Arts, London (UK)</li>
+				<li>Winchester School of Art (UK)</li>
+				<li>Yong Siew Toh Conservatory of Music (SG)</li>
+			</ol>
+    </div>
+	</li>  
 </ul>
-
