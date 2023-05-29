@@ -2,6 +2,7 @@ collections:
   getting-involved:
     output: true
     order:
+      - Partnerships/Partnerships.md
       - Partnerships/.keep
       - SOTA Parent Support Group.md
       - Donate to SOTA/.keep
