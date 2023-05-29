@@ -2,11 +2,11 @@ collections:
   getting-involved:
     output: true
     order:
-      - Partnerships/Supporting Singapore Education and Arts.md
-      - Partnerships/Exchanges with Arts Institutions.md
-      - Partnerships/Authentic Learning.md
-      - Partnerships/Partnerships.md
       - Partnerships/.keep
+      - Partnerships/Partnerships.md
+      - Partnerships/Authentic Learning.md
+      - Partnerships/Exchanges with Arts Institutions.md
+      - Partnerships/Supporting Singapore Education and Arts.md
       - SOTA Parent Support Group.md
       - Donate to SOTA/.keep
       - Donate to SOTA/Canvas of Contributions.md
