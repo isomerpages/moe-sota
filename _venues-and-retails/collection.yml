@@ -1,0 +1,4 @@
+collections:
+  venues-and-retails:
+    output: true
+    order: []
