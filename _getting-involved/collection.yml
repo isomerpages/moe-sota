@@ -2,6 +2,7 @@ collections:
   getting-involved:
     output: true
     order:
+      - SOTA Parent Support Group.md
       - Donate to SOTA/.keep
       - Donate to SOTA/Canvas of Contributions.md
       - Donate to SOTA/Impact – SOTA Fundraising Show.md
