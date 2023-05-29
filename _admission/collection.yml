@@ -2,4 +2,5 @@ collections:
   admission:
     output: true
     order:
+      - DSA–Secondary.md
       - SOTA Talent Academy.md
