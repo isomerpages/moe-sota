@@ -2,7 +2,7 @@ collections:
   getting-involved:
     output: true
     order:
-      - Donate to SOTA/Impact – SOTA Fundraising Show.md
-      - Donate to SOTA/Canvas of Contributions.md
       - Donate to SOTA/.keep
+      - Donate to SOTA/Canvas of Contributions.md
+      - Donate to SOTA/Impact – SOTA Fundraising Show.md
       - Overview.md
