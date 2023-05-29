@@ -2,6 +2,7 @@ collections:
   getting-involved:
     output: true
     order:
+      - Partnerships/Exchanges with Arts Institutions.md
       - Partnerships/Authentic Learning.md
       - Partnerships/Partnerships.md
       - Partnerships/.keep
