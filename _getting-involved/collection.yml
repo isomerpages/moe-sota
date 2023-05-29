@@ -2,5 +2,6 @@ collections:
   getting-involved:
     output: true
     order:
+      - Donate to SOTA/Canvas of Contributions.md
       - Donate to SOTA/.keep
       - Overview.md
