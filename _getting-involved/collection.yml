@@ -2,4 +2,5 @@ collections:
   getting-involved:
     output: true
     order:
+      - Donate to SOTA/.keep
       - Overview.md
