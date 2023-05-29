@@ -1,4 +1,5 @@
 collections:
   venues-and-retails-spaces:
     output: true
-    order: []
+    order:
+      - Retail Spaces.md
