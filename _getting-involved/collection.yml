@@ -1,4 +1,5 @@
 collections:
   getting-involved:
     output: true
-    order: []
+    order:
+      - Overview.md
