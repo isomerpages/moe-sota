@@ -26,4 +26,6 @@ SOTA has a variety of retail outlets (etch&amp;bolts, Häagen-Dazs, 7-Eleven, I'
 
 ### C. Performances and Venues
 
-For more information on renting a space with us, click&nbsp;[here](https://www.sota.edu.sg/venues-and-retail/venues).
+For more information on renting a space with us, click&nbsp;[here](/venues-and-retail/).
+
+<hr>
