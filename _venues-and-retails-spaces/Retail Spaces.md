@@ -15,7 +15,3 @@ etch&amp;bolts a homegrown furniture &amp; design brand, specialises in furnitur
     </div>
 	</li>  
 </ul>
-
- 
-
- 
