@@ -17,3 +17,13 @@ You may refer to directions&nbsp;[here](/contact-us).
     </div>
 	</li>  
 </ul>
+<hr>
+
+### B. Public Spaces &amp; Facilities
+
+SOTA has a variety of retail outlets (etch&amp;bolts, Häagen-Dazs, 7-Eleven, I'm KIM Korean BBQ and WeBarre) catering to the different needs of its visitors! Find out more&nbsp;[here](/venues-and-retail/retail). Kindly check in with the outlets on their opening hours.
+<hr>
+
+### C. Performances and Venues
+
+For more information on renting a space with us, click&nbsp;[here](https://www.sota.edu.sg/venues-and-retail/venues).
