@@ -15,8 +15,8 @@ etch&amp;bolts a homegrown furniture &amp; design brand, specialises in furnitur
     </div>
 	</li>  
 	<li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">Häagen-Dazs</label>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">Häagen-Dazs</label>
     <div>
       <p>
 				<img src="/images/01-02-haagen-dasz.jpg"><br></p><h3>#01-02</h3>
@@ -28,4 +28,15 @@ Take a step into the world of Häagen-Dazs and experience extraordinary pleasure
   Sun: 11am-10pm</p>
     </div>
 	</li>  
+	<li>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">7-11</label>
+    <div>
+      <p>
+				<img src="/images/01-03-7eleven.jpg"><br></p><h3>#01-03</h3>
+7‑Eleven provides convenience of a wide range of meals on‑the‑go including Ready-to-Cook/Ready-to-Heat and Ready-to-Eat food, Slurpee frozen beverage, Mr. Softee soft-serve ice cream and 7Cafe hot beverages. Essential services such as bill payment, top-up services, courier service and online shopping payment are available. Various payment modes beyond cash are accepted, such as NETS, Ezlink and contactless credit card payment. Feel free to come by to find out more!<p></p>
+			 Website : <a href="www.7-eleven.com.sg">www.7-eleven.com.sg</a><br>Opening Hours : 7am - 11pm<p></p>
+    </div>
+	</li>  
 </ul>
+
