@@ -14,4 +14,18 @@ etch&amp;bolts a homegrown furniture &amp; design brand, specialises in furnitur
 			<p>Phone Number : (+65) 9382 1814<br> Website : <a href="www.etchandbolts.com">www.etchandbolts.com</a>  | <a href="https://voidcafe.com">https://voidcafe.com</a><br>Opening Hours : 11am - 8pm</p>
     </div>
 	</li>  
+	<li>
+    <input id="accordion1" type="checkbox">
+    <label for="accordion1">Häagen-Dazs</label>
+    <div>
+      <p>
+				<img src="/images/01-02-haagen-dasz.jpg"><br></p><h3>#01-02</h3>
+Take a step into the world of Häagen-Dazs and experience extraordinary pleasure in pure, undiluted fashion. Experience real moments of joy with the ice cream of ice creams, together with friends in the heart of town – your ticket to the perfect place to kick back, relax and enjoy your favourite time of the day. Check out with your student pass for a secret ice cream deal😍🍦. But remember, tell no one.<p></p>
+			<p>Phone Number :  (+65) 6719 4052<br> Website : <a href="www.haagendazs.com.sg">www.haagendazs.com.sg</a><br> Instagram : <a href="https://www.instagram.com/haagendazssg/">@haagendazssg</a>
+				<br>Opening Hours : Mon-Thu: 12pm-10pm;<br>
+  Fri: 12pm-11.30pm;<br>
+  Sat: 11am-11.30pm;<br>
+  Sun: 11am-10pm</p>
+    </div>
+	</li>  
 </ul>
