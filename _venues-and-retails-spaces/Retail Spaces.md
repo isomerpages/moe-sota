@@ -49,4 +49,15 @@ I'm KIM Korean BBQ is a buffet restaurant with more than 50 dishes, with signatu
 				<br>Opening Hours : Varies. Refer to website.</p>
     </div>
 	</li>  
+	<li>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">WeBarre</label>
+    <div>
+      <p>
+				<img src="/images/02-01-webarre.jpg"><br></p><h3>#02-01</h3>
+WeBarre is Asia's Leading Boutique Barre Studio. WeBarre's unique workout brings together the best of ballet technique, yoga, pilates &amp; strength training in one dynamic 60-minute class. Build strength and sculpt your body through graceful but impactful movement, fuelled by uplifting music and in the company of like-minded barre enthusiasts.<p></p>
+			 <p>Phone Number : (+65) 6509 0165<br> Website : <a href="www.webarre.com">www.webarre.com</a><br> Instagram : <a href="https://www.instagram.com/webarre/">@webarre</a>
+				<br>Opening Hours : Varies. Refer to website.</p>
+    </div>
+	</li>  
 </ul>
