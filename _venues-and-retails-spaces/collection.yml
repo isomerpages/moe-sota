@@ -2,6 +2,7 @@ collections:
   venues-and-retails-spaces:
     output: true
     order:
+      - Performing Arts Venues/Concert Hall.md
       - Performing Arts Venues/Art Gallery.md
       - Performing Arts Venues/Performing Arts Venues.md
       - Performing Arts Venues/.keep
