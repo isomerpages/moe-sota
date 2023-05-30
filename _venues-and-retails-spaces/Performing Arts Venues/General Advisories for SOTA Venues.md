@@ -32,3 +32,27 @@ For more information on renting a space with us, click&nbsp;[here](/venues-and-r
 
 ### D. Frequently Asked Questions by Patrons
 
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">1. When should I arrive at the venues?</label>
+    <div>
+      <p>The general advice we give our patrons is to arrive at least 20 minutes before the published show time. This is to ensure that you have time to use the washrooms, clear the admission lines and be seated before the event begins.<br><br>
+It is important to note that once the doors are closed, any admission or readmission is subject to the nature of the event. There may be a chance that you would not be allowed admission at all if you are late. This is to ensure that both performers and audience already seated are not disrupted by the constant movement of people. As we say in live theatre, there are no rewind buttons in theatre; so don’t be late!</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">2. Is parking available at SOTA?</label>
+    <div>
+      <p>SOTA’s carpark is open for public parking and can be accessed via Zubir Said Drive. See here for details.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">3. Can I exchange or get a refund for my ticket if I am unable to attend an event?</label>
+    <div>
+      <p>All tickets sold are non-exchangeable and non-refundable. You may wish to contact the event organizer for more details on the terms and conditions of ticket sale.</p>
+    </div>
+	</li>  
+</ul>
