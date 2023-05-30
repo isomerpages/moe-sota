@@ -38,4 +38,15 @@ Take a step into the world of Häagen-Dazs and experience extraordinary pleasure
 			 Website : <a href="www.7-eleven.com.sg">www.7-eleven.com.sg</a><br>Opening Hours : 7am - 11pm<p></p>
     </div>
 	</li>  
+	<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">I'm KIM Korean BBQ</label>
+    <div>
+      <p>
+				<img src="/images/01-04-i-39-m-kim-korean-bbq.jpg"><br></p><h3>#01-04/05/06/07</h3>
+I'm KIM Korean BBQ is a buffet restaurant with more than 50 dishes, with signature dishes being ‘volcano chicken’ and ‘irresistible chicken wings’. I'm KIM is brought to you by the KVC group which include Singapore’s prominent brand and fashion retail chain – 77th Street and 77th Street Plaza in downtown Beijing.<p></p>
+			 <p>Phone Number : (+65) 6719 4052<br> Website : <a href="www.kingdomfood.sg/im-kim-korean-bbq">www.kingdomfood.sg/im-kim-korean-bbq</a><br> Instagram : <a href="https://www.instagram.com/imkimkoreanbbq/">@imkimkoreanbbq</a>
+				<br>Opening Hours : Varies. Refer to website.</p>
+    </div>
+	</li>  
 </ul>
