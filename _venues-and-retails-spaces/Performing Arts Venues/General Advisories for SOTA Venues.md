@@ -265,4 +265,6 @@ A live performance is a unique experience shared between performers and the audi
 	</li>  
 </ul>
 
+Finally, and most importantly, please treat our staff with respect. While we aim to provide you with our best service, we can only do so with your cooperation. We reserve the rights to protect our staff from any verbal or physical abuse.
 
+Please enjoy yourself, going to the concert hall and theatre is FUN!
