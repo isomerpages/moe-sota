@@ -25,10 +25,10 @@ The room is equipped with a complete audio-visual and production lighting infras
 
 ### Venue Specifications
 
-*   [Technical Specifications](https://www.sota.edu.sg/docs/default-source/facilities/studio-theatre/technical-specs-studio-theatre.pdf)
-*   [Stage Plan](https://www.sota.edu.sg/docs/default-source/facilities/studio-theatre/studio-theatre-stage-plan-0317.pdf?sfvrsn=10)
-*   [Seating Plan](https://www.sota.edu.sg/docs/default-source/facilities/studio-theatre/seating-plan---studio-theatre.pdf)
-*   [Rental Rates](https://www.sota.edu.sg/docs/default-source/facilities/studio-theatre/studio-theatre-hire-rates-19-may-2023.pdf)
+*   [Technical Specifications](/files/technical-specs-studio-theatre.pdf)
+*   [Stage Plan](/files/studio-theatre-stage-plan-0317.pdf)
+*   [Seating Plan](/files/seating-plan---studio-theatre.pdf)
+*   [Rental Rates](/files/studio-theatre-hire-rates-19-may-2023.pdf)
 *   [Terms & Conditions](/files/performing-arts-venues-terms-and-conditions.pdf)
 *   [Hirer Handbook](/files/hirer-handbook-v20211129.pdf)
 *   [Venue Booking Request Form](https://forms.gle/u5ysNq3C2BbmFJ4BA)
