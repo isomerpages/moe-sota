@@ -29,3 +29,6 @@ SOTA has a variety of retail outlets (etch&amp;bolts, Häagen-Dazs, 7-Eleven, I'
 For more information on renting a space with us, click&nbsp;[here](/venues-and-retail/).
 
 <hr>
+
+### D. Frequently Asked Questions by Patrons
+
