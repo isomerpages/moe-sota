@@ -97,7 +97,8 @@ It is important to note that once the doors are closed, any admission or readmis
     <div>
       <p>Booster seats are available and on loan at a first-come-first-served basis, and are only available to persons below a certain height. You approach the ushers for help in obtaining one.</p>
     </div>
-	</li>  <li>
+	</li>  
+	<li>
     <input id="accordion11" type="checkbox">
     <label for="accordion11">10. What does “Restricted View Seating” mean?</label>
     <div>
@@ -126,59 +127,52 @@ It is important to note that once the doors are closed, any admission or readmis
     </div>
 	</li>  
 	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">7. Can I choose my seats after I purchase my ticket?</label>
+    <input id="accordion15" type="checkbox">
+    <label for="accordion15">14. How can I book a ticket for a wheelchair user?</label>
     <div>
-      <p>Our venues have a finite number of seats, and seats are assigned at the point of purchase for fixed seating events. You would not be allowed to change your seats after purchase as the other seats would have been purchased by another patron. You may approach the ushers onsite if you require any assistance with your seating, and we will assist you to our best ability.</p>
+      <p>Wheelchair users are required to inform the ticketing agent that you will be purchasing your tickets for your requirements at the time of bookings so that special arrangements can be made.</p>
     </div>
 	</li>  
 	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">7. Can I choose my seats after I purchase my ticket?</label>
+    <input id="accordion16" type="checkbox">
+    <label for="accordion16">15. Do you have lockers at your venues?</label>
     <div>
-      <p>Our venues have a finite number of seats, and seats are assigned at the point of purchase for fixed seating events. You would not be allowed to change your seats after purchase as the other seats would have been purchased by another patron. You may approach the ushers onsite if you require any assistance with your seating, and we will assist you to our best ability.</p>
+      <p>No, we do not provide lockers at our venues.</p>
     </div>
 	</li>  
 	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">7. Can I choose my seats after I purchase my ticket?</label>
+    <input id="accordion17" type="checkbox">
+    <label for="accordion17">16. Do you have a lift? How easy is it to get into the theatre?</label>
     <div>
-      <p>Our venues have a finite number of seats, and seats are assigned at the point of purchase for fixed seating events. You would not be allowed to change your seats after purchase as the other seats would have been purchased by another patron. You may approach the ushers onsite if you require any assistance with your seating, and we will assist you to our best ability.</p>
+      <p>We have lift accesses at all floors.</p>
     </div>
 	</li>  
 	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">7. Can I choose my seats after I purchase my ticket?</label>
+    <input id="accordion18" type="checkbox">
+    <label for="accordion18">17. Are we allowed to bring flowers?</label>
     <div>
-      <p>Our venues have a finite number of seats, and seats are assigned at the point of purchase for fixed seating events. You would not be allowed to change your seats after purchase as the other seats would have been purchased by another patron. You may approach the ushers onsite if you require any assistance with your seating, and we will assist you to our best ability.</p>
+      <p>Yes, you may bring flowers for the performers, but you will be required to leave them outside at our baggage counters before entering the auditorium. This prevents any allergy attacks from patrons who may be allergic to flower scents or pollens etc.</p>
     </div>
 	</li>  
 	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">7. Can I choose my seats after I purchase my ticket?</label>
+    <input id="accordion19" type="checkbox">
+    <label for="accordion19">18. Are we allowed to ask for Usher’s contact number?</label>
     <div>
-      <p>Our venues have a finite number of seats, and seats are assigned at the point of purchase for fixed seating events. You would not be allowed to change your seats after purchase as the other seats would have been purchased by another patron. You may approach the ushers onsite if you require any assistance with your seating, and we will assist you to our best ability.</p>
+      <p>We thank you on behalf of our ushers for the compliment! However, as a respect to all our staff, we will not be able to give any contact details of our staff under any circumstances and would appreciate it if you did not approach our ushers for personal reasons as well.</p>
     </div>
 	</li>  
 	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">7. Can I choose my seats after I purchase my ticket?</label>
+    <input id="accordion20" type="checkbox">
+    <label for="accordion20">19. Is there WIFI at the venue?</label>
     <div>
-      <p>Our venues have a finite number of seats, and seats are assigned at the point of purchase for fixed seating events. You would not be allowed to change your seats after purchase as the other seats would have been purchased by another patron. You may approach the ushers onsite if you require any assistance with your seating, and we will assist you to our best ability.</p>
+      <p>We do have WiFi available backstage for event usage only. We do not have any WiFi for the public to tap on.</p>
     </div>
 	</li>  
 	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">7. Can I choose my seats after I purchase my ticket?</label>
+    <input id="accordion21" type="checkbox">
+    <label for="accordion21">20. Will latecomers and re-admission be admitted?</label>
     <div>
-      <p>Our venues have a finite number of seats, and seats are assigned at the point of purchase for fixed seating events. You would not be allowed to change your seats after purchase as the other seats would have been purchased by another patron. You may approach the ushers onsite if you require any assistance with your seating, and we will assist you to our best ability.</p>
-    </div>
-	</li>  
-	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">7. Can I choose my seats after I purchase my ticket?</label>
-    <div>
-      <p>Our venues have a finite number of seats, and seats are assigned at the point of purchase for fixed seating events. You would not be allowed to change your seats after purchase as the other seats would have been purchased by another patron. You may approach the ushers onsite if you require any assistance with your seating, and we will assist you to our best ability.</p>
+      <p>We cannot guarantee admission, however, we will attempt to admit find a suitable point in the performance for admissions if required.</p>
     </div>
 	</li>  
 </ul>
