@@ -2,4 +2,5 @@ collections:
   venues-and-retails-spaces:
     output: true
     order:
+      - Performing Arts Venues/.keep
       - Retail Spaces.md
