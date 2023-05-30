@@ -176,3 +176,93 @@ It is important to note that once the doors are closed, any admission or readmis
     </div>
 	</li>  
 </ul>
+
+<hr>
+
+### E. Frequently Asked Questions (SMM) by Patrons
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion22" type="checkbox">
+    <label for="accordion22">1. With the current SMM, will we be informed ahead of the requirements before we come to SOTA?</label>
+    <div>
+      <p>Prevailing Safe Management Measures (SMM) that SOTA practises are in line with the latest national guidelines.<br><br>
+SMM such as Vaccination-Differentiated SMM (VDS), mask wearing, Safe Entry, safe distancing, etc. may be implemented accordingly if required.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion23" type="checkbox">
+    <label for="accordion23">2. Do I have to remain masked during the performance?</label>
+    <div>
+      <p>In alignment with the prevailing SMM, mask wearing indoors is optional. However, patrons are encouraged to continue to exercise responsibility and caution, such as wearing of masks when in crowded places.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion24" type="checkbox">
+    <label for="accordion24">3. When should I arrive at the venues?</label>
+    <div>
+      <p>We recommend the audience to arrive at least 30 mins before the published performance start time to ensure sufficient time to use the washrooms, clear admission checks and be seated before the performance begins.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion25" type="checkbox">
+    <label for="accordion25">4. Vaccination-Differentiated SMMs (VDS) / Trace Together (TT)</label>
+    <div>
+      <p>VDS and TT checks may be conducted for live performances / events in accordance with the latest national guidelines, if required.<br><br>
+In the event VDS and/or TT checks are required, patrons may use the TT token / app, or present the proof of vaccination via HealthHub, or a physical copy of vaccination certificate.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion26" type="checkbox">
+    <label for="accordion26">5. What happens when a show is cancelled or postponed?</label>
+    <div>
+      <p>In the event of a cancellation or postponement, the event organisers will notify all affected patrons via their selected choices of communication. Refunds are managed directly by the event organisers and/or the ticketing agent the event organisers have chosen to work with.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion27" type="checkbox">
+    <label for="accordion27">6. Are we allowed to change seats?</label>
+    <div>
+      <p>It would be good to note that all our venues are sanitised before each performance. Once a seat has been taken, it will no longer be considered sanitised for the next patron. We seek your kind understanding and cooperation not to change your seats in the auditorium once you have settled down.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion28" type="checkbox">
+    <label for="accordion28">7. Will there be an intermission during the performance?</label>
+    <div>
+      <p>Performance intermission is dependant on the event programme and/or prevailing national guidelines. Please contact the event organiser or refer to the event programme to find out more details.</p>
+    </div>
+	</li>  
+</ul>
+
+<hr>
+
+### F. Theatre Etiquette
+
+A live performance is a unique experience shared between performers and the audience. Unlike television or movies, the actors on stage can hear noise from the audience. So, as a courtesy to the performers and the others around you, here are some general theatre etiquettes you may wish to take note of:
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion29" type="checkbox">
+    <label for="accordion29">General Theatre Etiquettes</label>
+    <div>
+      <p></p><ol>
+	<li>Please arrive on time, at least 20 minutes before the start time on your ticket.</li>
+	<li>Do not bring any food or drinks with you into the theatre.</li>
+	<li>Flowers and bulky items will need to be deposited at the baggage area outside the concert hall or theatre.</li>
+	<li>Kindly approach the ushers if you need help finding your seats or the washrooms.</li>
+	<li>Once seated, you may talk quietly until the performance begins.</li>
+	<li>Keep your feet off the seats and do not step over the seatbacks.</li>
+	<li>Do not lean over balcony railings or attempt to throw or drop anything from the balconies.</li>
+	<li>Turn off or silence all handphones and beeping devices before the performance begins.</li>
+	<li>Photography, video recording and audio recording are not allowed in the concert hall and theatre.</li>
+	<li>Once the performance has started, kindly remain in your seats and/or minimize movements to avoid disturbing other patrons.</li>
+	<li>Do note that audiences are not allowed to go onstage unless specifically invited by the performers.</li>
+	<li>At the end of the performance, kindly ensure that you have all your items with you and leave the auditorium in an orderly fashion.</li>
+	<li>Please do not crowd around stage and/or backstage areas to wait for the performers.</li>
+</ol><p></p>
+    </div>
+	</li>  
+</ul>
+
+
