@@ -55,4 +55,11 @@ It is important to note that once the doors are closed, any admission or readmis
       <p>All tickets sold are non-exchangeable and non-refundable. You may wish to contact the event organizer for more details on the terms and conditions of ticket sale.</p>
     </div>
 	</li>  
+	<li>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">4. Do I need to purchase tickets for my infant?</label>
+    <div>
+      <p>Yes. The general rule of thumb for most events is that all patrons will require a ticket for admission, this includes infant in arms. It is always advisable to check with the event organizer on the minimum age allowed for admission before purchasing any tickets.</p>
+    </div>
+	</li>  
 </ul>
