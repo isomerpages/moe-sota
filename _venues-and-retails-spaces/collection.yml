@@ -2,6 +2,7 @@ collections:
   venues-and-retails-spaces:
     output: true
     order:
+      - Performing Arts Venues/Studio Theatre.md
       - Performing Arts Venues/Drama Theatre.md
       - Performing Arts Venues/Concert Hall.md
       - Performing Arts Venues/Art Gallery.md
