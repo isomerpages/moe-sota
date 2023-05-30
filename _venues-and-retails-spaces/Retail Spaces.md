@@ -39,4 +39,3 @@ Take a step into the world of Häagen-Dazs and experience extraordinary pleasure
     </div>
 	</li>  
 </ul>
-
