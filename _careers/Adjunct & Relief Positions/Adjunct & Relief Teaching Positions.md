@@ -8,7 +8,7 @@ third_nav_title: Adjunct & Relief Positions
 *   [Adjunct Teacher - Bass Guitar, Faculty of Music](/careers/adjunct-relief/adjunct-teacher-bass-guitar-faculty-of-music)
 *   [Relief Teacher, Faculty of Literature in English](/careers/adjunct-relief/relief-teacher-faculty-of-literature-in-english)
 *   [Relief Teacher, English Languages & Critical Thinking and Theory of Knowledge, Faculty of Theory of Knowledge](/careers/adjunct-relief/relief-teacher-english-languages-critical-thinking-and-theory-of-knowledge)
-*   [Relief Teacher, Social & Cultural Anthropology and History, Faculty of Humanities & Social Sciences](/careers/adjunct-relief/relief-teacher-social-cultural-anthropology-and-history-faculty-of-humanities-social-sciences)
+*   [Relief Teacher, Social & Cultural Anthropology and History, Faculty of Humanities & Social Sciences](/careers/adjunct-relief/relief-teacher-social-cultural-anthropology-and-history)
 
    
 
