@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Teaching Positions/Teacher, Chemistry, Faculty of Science.md
       - Teaching Positions/Teacher, Faculty of Visual Arts.md
       - Teaching Positions/Teacher, Social & Cultural Anthropology and History,
         Faculty of Humanities & Social Sciences.md
