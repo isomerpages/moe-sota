@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Non Teaching Positions/Subject Head, Assessment.md
       - Non Teaching Positions/Corporate, Management, Teaching Support
         Positions.md
       - Non Teaching Positions/.keep
