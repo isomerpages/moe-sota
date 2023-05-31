@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Adjunct & Relief Positions/.keep
       - Teaching Positions/.keep
       - Teaching Positions/Teaching Positions.md
       - Teaching Positions/Subject Head, Biology, Faculty of Science.md
