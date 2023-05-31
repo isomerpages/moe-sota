@@ -2,6 +2,8 @@ collections:
   careers:
     output: true
     order:
+      - Non Teaching Positions/Corporate, Management, Teaching Support
+        Positions.md
       - Non Teaching Positions/.keep
       - Adjunct & Relief Positions/.keep
       - Adjunct & Relief Positions/Adjunct & Relief Teaching Positions.md
