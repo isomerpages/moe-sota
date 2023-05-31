@@ -2,6 +2,8 @@ collections:
   careers:
     output: true
     order:
+      - Teaching Positions/Teacher, Social & Cultural Anthropology and History,
+        Faculty of Humanities & Social Sciences.md
       - Teaching Positions/Teacher, Faculty of Literary Arts.md
       - Teaching Positions/Teacher, Faculty of Dance (Ballet & Contemporary).md
       - Teaching Positions/Teacher, English Language, Critical Thinking & Theory
