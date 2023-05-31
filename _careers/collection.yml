@@ -2,17 +2,17 @@ collections:
   careers:
     output: true
     order:
-      - Teaching Positions/Year Mentor, Faculty of Student Development.md
-      - Teaching Positions/Teacher, Chemistry, Faculty of Science.md
-      - Teaching Positions/Teacher, Faculty of Visual Arts.md
-      - Teaching Positions/Teacher, Social & Cultural Anthropology and History,
-        Faculty of Humanities & Social Sciences.md
-      - Teaching Positions/Teacher, Faculty of Literary Arts.md
-      - Teaching Positions/Teacher, Faculty of Dance (Ballet & Contemporary).md
+      - Teaching Positions/.keep
+      - Teaching Positions/Teaching Positions.md
+      - Teaching Positions/Subject Head, Biology, Faculty of Science.md
+      - Teaching Positions/Teacher, Biology, Faculty of Science.md
       - Teaching Positions/Teacher, English Language, Critical Thinking & Theory
         of Knowledge, Faculty of Theory of Knowledge.md
-      - Teaching Positions/Teacher, Biology, Faculty of Science.md
-      - Teaching Positions/Subject Head, Biology, Faculty of Science.md
-      - Teaching Positions/Teaching Positions.md
-      - Teaching Positions/.keep
+      - Teaching Positions/Teacher, Faculty of Dance (Ballet & Contemporary).md
+      - Teaching Positions/Teacher, Faculty of Literary Arts.md
+      - Teaching Positions/Teacher, Social & Cultural Anthropology and History,
+        Faculty of Humanities & Social Sciences.md
+      - Teaching Positions/Teacher, Faculty of Visual Arts.md
+      - Teaching Positions/Teacher, Chemistry, Faculty of Science.md
+      - Teaching Positions/Year Mentor, Faculty of Student Development.md
       - Careers.md
