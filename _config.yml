@@ -3,7 +3,7 @@ url: https://www.sota.edu.sg
 favicon: /images/school-of-the-arts-singaporeeea39a52fed369fba7eaff0000314707.png
 colors:
   primary-color: "#000000"
-  secondary-color: "#ffffff"
+  secondary-color: "#f8e71c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
