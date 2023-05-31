@@ -2,13 +2,13 @@ collections:
   careers:
     output: true
     order:
-      - Non Teaching Positions/Infrastructure Executive – Senior Executive.md
-      - Non Teaching Positions/Senior–Venue Technician (Staging), Office of
-        Venue Management.md
-      - Non Teaching Positions/Subject Head, Assessment.md
+      - Non Teaching Positions/.keep
       - Non Teaching Positions/Corporate, Management, Teaching Support
         Positions.md
-      - Non Teaching Positions/.keep
+      - Non Teaching Positions/Subject Head, Assessment.md
+      - Non Teaching Positions/Senior–Venue Technician (Staging), Office of
+        Venue Management.md
+      - Non Teaching Positions/Infrastructure Executive – Senior Executive.md
       - Adjunct & Relief Positions/.keep
       - Adjunct & Relief Positions/Adjunct & Relief Teaching Positions.md
       - Adjunct & Relief Positions/Adjunct Teacher – Veena, Faculty of Music.md
