@@ -2,5 +2,6 @@ collections:
   careers:
     output: true
     order:
+      - Teaching Positions/Teaching Positions.md
       - Teaching Positions/.keep
       - Careers.md
