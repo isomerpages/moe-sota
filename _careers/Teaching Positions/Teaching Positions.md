@@ -6,7 +6,7 @@ third_nav_title: Teaching Positions
 ---
 *   [Subject Head, Biology, Faculty of Science](/careers/teaching-positions/subject-head-biology-faculty-of-science)
 *   [Teacher, Biology, Faculty of Science](/careers/teaching-positions/teacher-biology)
-*   [Teacher, English Language and Critical Thinking &amp; Theory of Knowledge, Faculty of Theory of Knowledge](/careers/teaching-positions/teacher_tok)
+*   [Teacher, English Language and Critical Thinking &amp; Theory of Knowledge, Faculty of Theory of Knowledge](/careers/teaching-positions/teacher-tok)
 *   [Teacher, Faculty of Dance (Ballet / Contemporary)](/careers/teaching-positions/teacher-(dance)-faculty-of-dance)
 *   [Teacher, Faculty of Literary Arts](/careers/teaching-positions/teacher-literary-arts)
 *   [Teacher, Social &amp; Cultural Anthropology and History, Faculty of Humanities &amp; Social Sciences](/careers/teaching-positions/teacher-social-cultural-anthropology)
