@@ -1,6 +1,6 @@
 title: School of the Arts Singapore (SOTA)
 url: https://www.sota.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/school-of-the-arts-singaporeeea39a52fed369fba7eaff0000314707.png
 colors:
   primary-color: "#000000"
   secondary-color: "#ffffff"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3dxyht30ttw1i.amplifyapp.com
 prod: https://master.d3dxyht30ttw1i.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/school-of-the-arts-singaporeeea39a52fed369fba7eaff0000314707.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
