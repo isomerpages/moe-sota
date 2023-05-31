@@ -2,7 +2,7 @@
 layout: homepage
 title: School of the Arts Singapore (SOTA)
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/school-of-the-arts-singaporeeea39a52fed369fba7eaff0000314707.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
