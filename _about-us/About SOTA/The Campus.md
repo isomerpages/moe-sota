@@ -134,4 +134,3 @@ Take a virtual tour around our campus.
   </tr>
 </tbody>
 </table>
-
