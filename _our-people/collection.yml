@@ -2,8 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - Management Team/Management Team.md
+      - SOTA Board.md
       - Management Team/.keep
+      - Management Team/Management Team.md
       - Management Team/Mrs Mary Seah.md
       - Management Team/Amy Khoo.md
       - Management Team/Pauline Ann Tan.md
@@ -12,4 +13,3 @@ collections:
       - Management Team/Lee Yew Wah.md
       - Management Team/Yang Tien.md
       - Management Team/Lim Jong Yann.md
-      - SOTA Board.md
