@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff/Faculty of Science.md
       - Teaching Staff/Faculty of Music.md
       - Teaching Staff/Faculty of Mother Tongue Languages.md
       - Teaching Staff/Faculty of Mathematics.md
