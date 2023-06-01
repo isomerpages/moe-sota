@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff/Faculty of Humanities & Social Sciences.md
       - Teaching Staff/Faculty of Film.md
       - Teaching Staff/Faculty of Experiential Education.md
       - Teaching Staff/Faculty of Dance.md
