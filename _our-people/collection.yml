@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff/Faculty of Literature in English.md
       - Teaching Staff/Faculty of Literary Arts.md
       - Teaching Staff/Faculty of Information & Communication Technology.md
       - Teaching Staff/Faculty of Humanities & Social Sciences.md
