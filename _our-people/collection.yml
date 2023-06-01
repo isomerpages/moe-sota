@@ -2,9 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Corporate Staff.md
-      - Teaching Support Staff.md
-      - Adjunct Teaching Staff.md
       - SOTA Board.md
       - Management Team/.keep
       - Management Team/Management Team.md
@@ -16,3 +13,6 @@ collections:
       - Management Team/Lee Yew Wah.md
       - Management Team/Yang Tien.md
       - Management Team/Lim Jong Yann.md
+      - Corporate Staff.md
+      - Teaching Support Staff.md
+      - Adjunct Teaching Staff.md
