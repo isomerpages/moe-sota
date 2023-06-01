@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Adjunct Teaching Staff.md
       - SOTA Board.md
       - Management Team/.keep
       - Management Team/Management Team.md
