@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff/Faculty of Dance.md
       - Teaching Staff/Teaching Staff.md
       - Teaching Staff/.keep
       - SOTA Board.md
