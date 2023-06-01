@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff/Faculty of Visual Arts.md
       - Teaching Staff/Faculty of Theory of Knowledge.md
       - Teaching Staff/Faculty of Theatre.md
       - Teaching Staff/Faculty of Student Development.md
