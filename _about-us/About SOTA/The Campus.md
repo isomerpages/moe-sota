@@ -30,33 +30,33 @@ Take a virtual tour around our campus.
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig">General Academic Facilities</th>
-    <th class="tg-0lax">Performing Arts Venues</th>
+    <th style="width: 50%" class="tg-1wig">General Academic Facilities</th>
+    <th style="width: 50%" class="tg-0lax">Performing Arts Venues</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Classrooms</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="/venues-and-retail/venues/concert-hall">Concert Hall</a></td>
+    <td style="width: 50%" class="tg-0lax">Classrooms</td>
+    <td style="width: 50%" class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="/venues-and-retail/venues/concert-hall">Concert Hall</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Lecture Theatre</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="/venues-and-retail/venues/drama-theatre">Drama Theatre</a></td>
+    <td style="width: 50%" class="tg-0lax">Lecture Theatre</td>
+    <td style="width: 50%" class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="/venues-and-retail/venues/drama-theatre">Drama Theatre</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Science Laboratories</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="/venues-and-retail/venues/studio-theatre">Studio Theatre (Blackbox)</a></td>
+    <td style="width: 50%" class="tg-0lax">Science Laboratories</td>
+    <td style="width: 50%" class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="/venues-and-retail/venues/studio-theatre">Studio Theatre (Blackbox)</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Computer &amp; Multimedia Studios</td>
-    <td class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="/venues-and-retail/venues/art-gallery">Art Gallery</a></td>
+    <td style="width: 50%" class="tg-0lax">Computer &amp; Multimedia Studios</td>
+    <td style="width: 50%" class="tg-0lax"><a rel="noopener noreferrer" target="_blank" href="/venues-and-retail/venues/art-gallery">Art Gallery</a></td>
   </tr>
 </tbody>
 </table>
-
+<hr>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -65,7 +65,7 @@ Take a virtual tour around our campus.
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
     <th colspan="2" class="tg-0pky"><span style="font-weight:700;font-style:normal">Arts Facilities</span></th>
@@ -73,32 +73,32 @@ Take a virtual tour around our campus.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Dance Studios</td>
-    <td class="tg-0pky">Painting Studios</td>
+    <td style="width: 50%" class="tg-0pky">Dance Studios</td>
+    <td style="width: 50%" class="tg-0pky">Painting Studios</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Music Teaching Rooms</td>
-    <td class="tg-0pky">Film Room</td>
+    <td style="width: 50%" class="tg-0pky">Music Teaching Rooms</td>
+    <td style="width: 50%" class="tg-0pky">Film Room</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ensemble &amp; Individual Music Practice Rooms</td>
-    <td class="tg-0pky">Ceramics Room</td>
+    <td style="width: 50%" class="tg-0pky">Ensemble &amp; Individual Music Practice Rooms</td>
+    <td style="width: 50%" class="tg-0pky">Ceramics Room</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Electronic Music Laboratory</td>
-    <td class="tg-0pky">Sculpture Room</td>
+    <td style="width: 50%" class="tg-0pky">Electronic Music Laboratory</td>
+    <td style="width: 50%" class="tg-0pky">Sculpture Room</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Electronic Music Studio</td>
-    <td class="tg-0pky">Theatre Studios</td>
+    <td style="width: 50%" class="tg-0pky">Electronic Music Studio</td>
+    <td style="width: 50%" class="tg-0pky">Theatre Studios</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Orchestral Rehearsal Studio</td>
+    <td style="width: 50%" class="tg-0pky">Orchestral Rehearsal Studio</td>
     <td class="tg-0pky"></td>
   </tr>
 </tbody>
 </table>
-
+<hr>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -108,29 +108,30 @@ Take a virtual tour around our campus.
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig">Others</th>
-    <th class="tg-1wig">Basic Sporting Facilities</th>
+    <th style="width: 50%" class="tg-1wig">Others</th>
+    <th style="width: 50%" class="tg-1wig">Basic Sporting Facilities</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Multi-Purpose Hall</td>
-    <td class="tg-0lax">Gym</td>
+    <td style="width: 50%" class="tg-0lax">Multi-Purpose Hall</td>
+    <td style="width: 50%" class="tg-0lax">Gym</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Library</td>
-    <td class="tg-0lax">Sports field at roof top</td>
+    <td style="width: 50%" class="tg-0lax">Library</td>
+    <td style="width: 50%" class="tg-0lax">Sports field at roof top</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Retail Spaces</td>
-    <td class="tg-0lax"></td>
+    <td style="width: 50%" class="tg-0lax">Retail Spaces</td>
+    <td style="width: 50%" class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Cafeteria</td>
-    <td class="tg-0lax"></td>
+    <td style="width: 50%" class="tg-0lax">Cafeteria</td>
+    <td style="width: 50%" class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
+
