@@ -1,0 +1,6 @@
+---
+title: Edward Ong
+permalink: /about-us/our-people/teaching-staff/faculty-of-literature-in-english/edward-ong/
+description: ""
+third_nav_title: Faculty Literature in English
+---
