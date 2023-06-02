@@ -6,7 +6,7 @@ third_nav_title: Faculty of Theatre
 ---
 <figure>
 <img style="width:40%" src="/images/matthew-lyon.jpg">
-<figcaption> <strong>Joanne Poon<br>
+<figcaption> <strong>Matthew Lyon<br>
 Faculty of Theatre</strong>
 </figcaption>
 </figure>
