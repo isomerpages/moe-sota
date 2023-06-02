@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Humanities & Social Sciences/Daphne Seow.md
       - Humanities & Social Sciences/Ashley Zhang.md
       - Humanities & Social Sciences/Toh Bee Leng, Senior Teacher.md
       - Humanities & Social Sciences/Fang Woan Pin, Senior Teacher.md
