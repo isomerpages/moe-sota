@@ -2,23 +2,23 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty of Visual Arts/Zainudin Samsuri.md
-      - Faculty of Visual Arts/Yap Kheng Kin.md
-      - Faculty of Visual Arts/Vincent Leow.md
-      - Faculty of Visual Arts/Tan Wee Lit.md
-      - Faculty of Visual Arts/Soh Ee Shaun.md
-      - Faculty of Visual Arts/Ryf Zaini.md
-      - Faculty of Visual Arts/Ng Wen Jie.md
-      - Faculty of Visual Arts/Lydia Wong.md
-      - Faculty of Visual Arts/Loh Qi Qi.md
-      - Faculty of Visual Arts/Khiew Huey Chian.md
-      - Faculty of Visual Arts/Keith Ang.md
-      - Faculty of Visual Arts/Jodi Cheung.md
-      - Faculty of Visual Arts/Ivy Toh.md
-      - Faculty of Visual Arts/Guo Yixiu.md
-      - Faculty of Visual Arts/Ong Hui Har, Subject Head.md
-      - Faculty of Visual Arts/Lim Boon Eng, Head.md
       - Faculty of Visual Arts/.keep
+      - Faculty of Visual Arts/Lim Boon Eng, Head.md
+      - Faculty of Visual Arts/Ong Hui Har, Subject Head.md
+      - Faculty of Visual Arts/Guo Yixiu.md
+      - Faculty of Visual Arts/Ivy Toh.md
+      - Faculty of Visual Arts/Jodi Cheung.md
+      - Faculty of Visual Arts/Keith Ang.md
+      - Faculty of Visual Arts/Khiew Huey Chian.md
+      - Faculty of Visual Arts/Loh Qi Qi.md
+      - Faculty of Visual Arts/Lydia Wong.md
+      - Faculty of Visual Arts/Ng Wen Jie.md
+      - Faculty of Visual Arts/Ryf Zaini.md
+      - Faculty of Visual Arts/Soh Ee Shaun.md
+      - Faculty of Visual Arts/Tan Wee Lit.md
+      - Faculty of Visual Arts/Vincent Leow.md
+      - Faculty of Visual Arts/Yap Kheng Kin.md
+      - Faculty of Visual Arts/Zainudin Samsuri.md
       - Faculty of Theory of Knowledge/.keep
       - Faculty of Theory of Knowledge/Gerard Yee, Head.md
       - Faculty of Theory of Knowledge/Charis Lo, Subject Head.md
