@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Visual Arts/Vincent Leow.md
       - Faculty of Visual Arts/Tan Wee Lit.md
       - Faculty of Visual Arts/Soh Ee Shaun.md
       - Faculty of Visual Arts/Ryf Zaini.md
