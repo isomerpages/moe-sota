@@ -2,27 +2,27 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty of Science/Yap Yit Siang.md
-      - Faculty of Science/Tan Tze Hwee.md
-      - Faculty of Science/Tan Cheu Yian.md
-      - Faculty of Science/Renee Leong.md
-      - Faculty of Science/Rajasegar S–O Selvasegaran.md
-      - Faculty of Science/Mao Chamnap.md
-      - Faculty of Science/Kumutha D–O Samy Nathan.md
-      - Faculty of Science/Judith Ng.md
-      - Faculty of Science/Ho Li Ying.md
-      - Faculty of Science/Fong Yuet Lai.md
-      - Faculty of Science/Eric Gwee.md
-      - Faculty of Science/Er Yu Seng.md
-      - Faculty of Science/Emmeline Foo.md
-      - Faculty of Science/Chooi Khee Wai.md
-      - Faculty of Science/Boo Sock Li.md
-      - Faculty of Science/Bill Chia.md
-      - Faculty of Science/Aida Sayuti.md
-      - Faculty of Science/Michelle Tang, School Staff Developer.md
-      - Faculty of Science/Ronald Lim, Head, IBDP.md
-      - Faculty of Science/Danny Yip, Head.md
       - Faculty of Science/.keep
+      - Faculty of Science/Danny Yip, Head.md
+      - Faculty of Science/Ronald Lim, Head, IBDP.md
+      - Faculty of Science/Michelle Tang, School Staff Developer.md
+      - Faculty of Science/Aida Sayuti.md
+      - Faculty of Science/Bill Chia.md
+      - Faculty of Science/Boo Sock Li.md
+      - Faculty of Science/Chooi Khee Wai.md
+      - Faculty of Science/Emmeline Foo.md
+      - Faculty of Science/Er Yu Seng.md
+      - Faculty of Science/Eric Gwee.md
+      - Faculty of Science/Fong Yuet Lai.md
+      - Faculty of Science/Ho Li Ying.md
+      - Faculty of Science/Judith Ng.md
+      - Faculty of Science/Kumutha D–O Samy Nathan.md
+      - Faculty of Science/Mao Chamnap.md
+      - Faculty of Science/Rajasegar S–O Selvasegaran.md
+      - Faculty of Science/Renee Leong.md
+      - Faculty of Science/Tan Cheu Yian.md
+      - Faculty of Science/Tan Tze Hwee.md
+      - Faculty of Science/Yap Yit Siang.md
       - Faculty of Music/.keep
       - Faculty of Music/Pang Jin, Subject Head.md
       - Faculty of Music/Cheryl Lim, Subject Head, IBCP.md
