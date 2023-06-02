@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Humanities & Social Sciences/Ng Herk Siang.md
       - Humanities & Social Sciences/Merlin Lim.md
       - Humanities & Social Sciences/Mark Wong.md
       - Humanities & Social Sciences/Mageswari Rajah.md
