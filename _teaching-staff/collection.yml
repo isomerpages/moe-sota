@@ -2,12 +2,12 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty of Literary Arts/Tan Cheng Hung.md
-      - Faculty of Literary Arts/Marcus Ong.md
-      - Faculty of Literary Arts/Marc Nair.md
-      - Faculty of Literary Arts/Aswani Aswath.md
-      - Faculty of Literary Arts/Janet Liew, Head.md
       - Faculty of Literary Arts/.keep
+      - Faculty of Literary Arts/Janet Liew, Head.md
+      - Faculty of Literary Arts/Aswani Aswath.md
+      - Faculty of Literary Arts/Marc Nair.md
+      - Faculty of Literary Arts/Marcus Ong.md
+      - Faculty of Literary Arts/Tan Cheng Hung.md
       - Faculty of InfoComm Tech/Celeste Lin, Subject Head.md
       - Faculty of InfoComm Tech/.keep
       - Faculty of Dance/.keep
