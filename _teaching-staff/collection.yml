@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Theory of Knowledge/Gerard Yee, Head.md
       - Faculty of Theory of Knowledge/.keep
       - Faculty of Theatre/.keep
       - Faculty of Theatre/Marianne Sim, Head.md
