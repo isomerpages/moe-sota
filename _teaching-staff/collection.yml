@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Student Development/.keep
       - Faculty of Science/.keep
       - Faculty of Science/Danny Yip, Head.md
       - Faculty of Science/Ronald Lim, Head, IBDP.md
