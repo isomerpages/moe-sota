@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Visual Arts/Ivy Toh.md
       - Faculty of Visual Arts/Guo Yixiu.md
       - Faculty of Visual Arts/Ong Hui Har, Subject Head.md
       - Faculty of Visual Arts/Lim Boon Eng, Head.md
