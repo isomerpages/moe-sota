@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty Mother Tongue Language/Zhang YouYou.md
       - Faculty Mother Tongue Language/Wu Jing.md
       - Faculty Mother Tongue Language/Sudha Gupta.md
       - Faculty Mother Tongue Language/Patrick Ting.md
