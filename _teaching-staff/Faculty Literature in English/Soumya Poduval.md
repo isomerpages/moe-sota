@@ -6,7 +6,7 @@ third_nav_title: Faculty Literature in English
 ---
 <figure>
 <img style="width:40%" src="/images/soumya-poduval.jpg">
-<figcaption> <strong>Soumya Poduval
+<figcaption> <strong>Soumya Poduval<br>
 Faculty of Literature in English</strong>
 </figcaption>
 </figure>
