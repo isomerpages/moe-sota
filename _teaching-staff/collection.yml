@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Humanities & Social Sciences/Tee Ying Chian.md
       - Humanities & Social Sciences/Samantha Wong.md
       - Humanities & Social Sciences/Ng Herk Siang.md
       - Humanities & Social Sciences/Merlin Lim.md
