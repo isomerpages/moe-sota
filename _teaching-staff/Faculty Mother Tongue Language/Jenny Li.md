@@ -6,7 +6,7 @@ third_nav_title: Faculty Mother Tongue Language
 ---
 <figure>
 <img style="width:40%" src="/images/mtl_full_jenny-li_photo-02.jpg">
-<figcaption> <strong>Jenny Li
+<figcaption> <strong>Jenny Li<br>
 Teacher, Faculty of Mother Tongue Languages</strong>
 </figcaption>
 </figure>
