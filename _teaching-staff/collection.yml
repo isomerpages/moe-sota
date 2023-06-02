@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty Experiential Education/Kaycee Chan, Head.md
       - Faculty Experiential Education/.keep
       - Faculty of Dance/.keep
       - Faculty of Dance/Phua Sze Ping, Head.md
