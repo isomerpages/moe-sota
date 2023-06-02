@@ -2,19 +2,19 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty of Theory of Knowledge/William Davies.md
-      - Faculty of Theory of Knowledge/Nanthini D–O Amathalingam.md
-      - Faculty of Theory of Knowledge/Lareina Ng Xiao Yee.md
-      - Faculty of Theory of Knowledge/Koh Soo Keong.md
-      - Faculty of Theory of Knowledge/Kevin Hing.md
-      - Faculty of Theory of Knowledge/Juliana Ho.md
-      - Faculty of Theory of Knowledge/John Paul Foenander.md
-      - Faculty of Theory of Knowledge/Eric Lau.md
-      - Faculty of Theory of Knowledge/Daniel Tan.md
-      - Faculty of Theory of Knowledge/Chin Siew Heng.md
-      - Faculty of Theory of Knowledge/Charis Lo, Subject Head.md
-      - Faculty of Theory of Knowledge/Gerard Yee, Head.md
       - Faculty of Theory of Knowledge/.keep
+      - Faculty of Theory of Knowledge/Gerard Yee, Head.md
+      - Faculty of Theory of Knowledge/Charis Lo, Subject Head.md
+      - Faculty of Theory of Knowledge/Chin Siew Heng.md
+      - Faculty of Theory of Knowledge/Daniel Tan.md
+      - Faculty of Theory of Knowledge/Eric Lau.md
+      - Faculty of Theory of Knowledge/John Paul Foenander.md
+      - Faculty of Theory of Knowledge/Juliana Ho.md
+      - Faculty of Theory of Knowledge/Kevin Hing.md
+      - Faculty of Theory of Knowledge/Koh Soo Keong.md
+      - Faculty of Theory of Knowledge/Lareina Ng Xiao Yee.md
+      - Faculty of Theory of Knowledge/Nanthini D–O Amathalingam.md
+      - Faculty of Theory of Knowledge/William Davies.md
       - Faculty of Theatre/.keep
       - Faculty of Theatre/Marianne Sim, Head.md
       - Faculty of Theatre/Chelsea Crothers.md
