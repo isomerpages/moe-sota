@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Dance/Wayne Ong.md
       - Faculty of Dance/Ng Teck Voon.md
       - Faculty of Dance/Nah Jie Ying.md
       - Faculty of Dance/Lee Jia Xi.md
