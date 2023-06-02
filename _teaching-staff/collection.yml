@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty Literature in English/Sim Jie Kai.md
       - Faculty Literature in English/Seah Ser Hui.md
       - Faculty Literature in English/Prasatt s–o Arumugam.md
       - Faculty Literature in English/Melissa Wu.md
