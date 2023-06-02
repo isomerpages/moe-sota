@@ -4,3 +4,4 @@ permalink: /about-us/our-people/teaching-staff/faculty-of-mathematics/soh-chin-g
 description: ""
 third_nav_title: Faculty of Mathematics
 ---
+Profile coming soon!
