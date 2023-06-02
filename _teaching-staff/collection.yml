@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Theatre/Matthew Lyon.md
       - Faculty of Theatre/Joanne Poon.md
       - Faculty of Theatre/Elvira Holmberg.md
       - Faculty of Theatre/Chelsea Crothers.md
