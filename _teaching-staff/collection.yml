@@ -2,6 +2,8 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty Literature in English/Sandy Leow, Subject Head, Special
+        Projects.md
       - Faculty Literature in English/Leong Su Zhen, Acting Head.md
       - Faculty Literature in English/.keep
       - Faculty of Literary Arts/.keep
