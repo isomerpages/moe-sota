@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Theatre/.keep
       - Faculty of Student Development/.keep
       - Faculty of Student Development/Daniel Chua, Acting Head.md
       - Faculty of Student Development/Vanessa Seah, Subject Head, Student
