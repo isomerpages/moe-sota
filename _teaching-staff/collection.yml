@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Music/Lee Jinjun.md
       - Faculty of Music/Gu Wei.md
       - Faculty of Music/Danny Imson.md
       - Faculty of Music/Aaron Chen.md
