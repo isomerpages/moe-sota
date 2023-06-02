@@ -2,8 +2,8 @@ collections:
   teaching-staff:
     output: true
     order:
-      - InfoCommunication Technology/Celeste Lin, Subject Head.md
-      - InfoCommunication Technology/.keep
+      - Faculty of InfoComm Tech/Celeste Lin, Subject Head.md
+      - Faculty of InfoComm Tech/.keep
       - Faculty of Dance/.keep
       - Faculty of Dance/Phua Sze Ping, Head.md
       - Faculty of Dance/Celine Tan, Senior Teacher.md
