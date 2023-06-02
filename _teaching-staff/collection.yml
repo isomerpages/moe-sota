@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Science/Yap Yit Siang.md
       - Faculty of Science/Tan Tze Hwee.md
       - Faculty of Science/Tan Cheu Yian.md
       - Faculty of Science/Renee Leong.md
