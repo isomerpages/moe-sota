@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - InfoCommunication Technology/.keep
       - Faculty of Dance/.keep
       - Faculty of Dance/Phua Sze Ping, Head.md
       - Faculty of Dance/Celine Tan, Senior Teacher.md
