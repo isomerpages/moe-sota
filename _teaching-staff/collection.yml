@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Science/Renee Leong.md
       - Faculty of Science/Rajasegar S–O Selvasegaran.md
       - Faculty of Science/Mao Chamnap.md
       - Faculty of Science/Kumutha D–O Samy Nathan.md
