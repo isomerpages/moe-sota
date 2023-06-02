@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Humanities & Social Sciences/Jolenta Wong.md
       - Humanities & Social Sciences/Donovan Leong.md
       - Humanities & Social Sciences/David Han.md
       - Humanities & Social Sciences/Daphne Seow.md
