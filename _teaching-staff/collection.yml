@@ -2,6 +2,27 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Dance/.keep
+      - Faculty of Dance/Phua Sze Ping, Head.md
+      - Faculty of Dance/Celine Tan, Senior Teacher.md
+      - Faculty of Dance/Cheah Mei Sing.md
+      - Faculty of Dance/Foo Yun Ying.md
+      - Faculty of Dance/Hana Goseling.md
+      - Faculty of Dance/Kelly Ng.md
+      - Faculty of Dance/Lee Jia Xi.md
+      - Faculty of Dance/Nah Jie Ying.md
+      - Faculty of Dance/Ng Teck Voon.md
+      - Faculty of Dance/Wayne Ong.md
+      - Faculty Experiential Education/.keep
+      - Faculty Experiential Education/Kaycee Chan, Head.md
+      - Faculty Experiential Education/Mariette Ong, Head, Community Services.md
+      - Faculty Experiential Education/Crystal Quek.md
+      - Faculty Experiential Education/Michelle Lek.md
+      - Faculty Experiential Education/Wynn Chew.md
+      - Faculty of Film/.keep
+      - Faculty of Film/David Cheng, Acting Head.md
+      - Faculty of Film/Gladys Ng.md
+      - Faculty of Film/Kania Sukotjo.md
       - Humanities & Social Sciences/.keep
       - Humanities & Social Sciences/Low Wai–Peng, Head.md
       - Humanities & Social Sciences/Fang Woan Pin, Senior Teacher.md
@@ -19,24 +40,3 @@ collections:
       - Humanities & Social Sciences/Samantha Wong.md
       - Humanities & Social Sciences/Tee Ying Chian.md
       - Humanities & Social Sciences/Wang Yizhen.md
-      - Faculty of Film/.keep
-      - Faculty of Film/David Cheng, Acting Head.md
-      - Faculty of Film/Gladys Ng.md
-      - Faculty of Film/Kania Sukotjo.md
-      - Faculty Experiential Education/.keep
-      - Faculty Experiential Education/Kaycee Chan, Head.md
-      - Faculty Experiential Education/Mariette Ong, Head, Community Services.md
-      - Faculty Experiential Education/Crystal Quek.md
-      - Faculty Experiential Education/Michelle Lek.md
-      - Faculty Experiential Education/Wynn Chew.md
-      - Faculty of Dance/.keep
-      - Faculty of Dance/Phua Sze Ping, Head.md
-      - Faculty of Dance/Celine Tan, Senior Teacher.md
-      - Faculty of Dance/Cheah Mei Sing.md
-      - Faculty of Dance/Foo Yun Ying.md
-      - Faculty of Dance/Hana Goseling.md
-      - Faculty of Dance/Kelly Ng.md
-      - Faculty of Dance/Lee Jia Xi.md
-      - Faculty of Dance/Nah Jie Ying.md
-      - Faculty of Dance/Ng Teck Voon.md
-      - Faculty of Dance/Wayne Ong.md
