@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Theatre/Serena Ho.md
       - Faculty of Theatre/Sean Tobin.md
       - Faculty of Theatre/Sazali Bin Abu Othman.md
       - Faculty of Theatre/Mohd Fared Jainal.md
