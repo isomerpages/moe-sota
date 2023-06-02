@@ -2,12 +2,12 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty Experiential Education/Wynn Chew.md
-      - Faculty Experiential Education/Michelle Lek.md
-      - Faculty Experiential Education/Crystal Quek.md
-      - Faculty Experiential Education/Mariette Ong, Head, Community Services.md
-      - Faculty Experiential Education/Kaycee Chan, Head.md
       - Faculty Experiential Education/.keep
+      - Faculty Experiential Education/Kaycee Chan, Head.md
+      - Faculty Experiential Education/Mariette Ong, Head, Community Services.md
+      - Faculty Experiential Education/Crystal Quek.md
+      - Faculty Experiential Education/Michelle Lek.md
+      - Faculty Experiential Education/Wynn Chew.md
       - Faculty of Dance/.keep
       - Faculty of Dance/Phua Sze Ping, Head.md
       - Faculty of Dance/Celine Tan, Senior Teacher.md
