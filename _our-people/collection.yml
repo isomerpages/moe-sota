@@ -2,6 +2,17 @@ collections:
   our-people:
     output: true
     order:
+      - SOTA Board.md
+      - Management Team/.keep
+      - Management Team/Management Team.md
+      - Management Team/Mrs Mary Seah.md
+      - Management Team/Amy Khoo.md
+      - Management Team/Pauline Ann Tan.md
+      - Management Team/Liong Huai Yu.md
+      - Management Team/Justine Tan.md
+      - Management Team/Lee Yew Wah.md
+      - Management Team/Yang Tien.md
+      - Management Team/Lim Jong Yann.md
       - Teaching Staff/.keep
       - Teaching Staff/Teaching Staff.md
       - Teaching Staff/Faculty of Dance.md
@@ -19,17 +30,6 @@ collections:
       - Teaching Staff/Faculty of Theatre.md
       - Teaching Staff/Faculty of Theory of Knowledge.md
       - Teaching Staff/Faculty of Visual Arts.md
-      - SOTA Board.md
-      - Management Team/.keep
-      - Management Team/Management Team.md
-      - Management Team/Mrs Mary Seah.md
-      - Management Team/Amy Khoo.md
-      - Management Team/Pauline Ann Tan.md
-      - Management Team/Liong Huai Yu.md
-      - Management Team/Justine Tan.md
-      - Management Team/Lee Yew Wah.md
-      - Management Team/Yang Tien.md
-      - Management Team/Lim Jong Yann.md
       - Corporate Staff.md
       - Teaching Support Staff.md
       - Adjunct Teaching Staff.md
