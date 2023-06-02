@@ -6,7 +6,7 @@ third_nav_title: Faculty of Theatre
 ---
 <figure>
 <img style="width:40%" src="/images/elvira-holmberg.jpg">
-<figcaption> <strong>Chelsea Crothers<br>
+<figcaption> <strong>Elvira Holmberg<br>
 Faculty of Theatre</strong>
 </figcaption>
 </figure>
