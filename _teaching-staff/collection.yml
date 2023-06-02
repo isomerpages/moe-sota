@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Science/Er Yu Seng.md
       - Faculty of Science/Emmeline Foo.md
       - Faculty of Science/Chooi Khee Wai.md
       - Faculty of Science/Boo Sock Li.md
