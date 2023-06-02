@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Dance/Cheah Mei Sing.md
       - Faculty of Dance/Celine Tan, Senior Teacher.md
       - Faculty of Dance/Phua Sze Ping, Head.md
       - Faculty of Dance/.keep
