@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Visual Arts/Zainudin Samsuri.md
       - Faculty of Visual Arts/Yap Kheng Kin.md
       - Faculty of Visual Arts/Vincent Leow.md
       - Faculty of Visual Arts/Tan Wee Lit.md
