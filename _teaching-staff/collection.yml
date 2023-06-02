@@ -2,153 +2,6 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty of Visual Arts/.keep
-      - Faculty of Visual Arts/Lim Boon Eng, Head.md
-      - Faculty of Visual Arts/Ong Hui Har, Subject Head.md
-      - Faculty of Visual Arts/Guo Yixiu.md
-      - Faculty of Visual Arts/Ivy Toh.md
-      - Faculty of Visual Arts/Jodi Cheung.md
-      - Faculty of Visual Arts/Keith Ang.md
-      - Faculty of Visual Arts/Khiew Huey Chian.md
-      - Faculty of Visual Arts/Loh Qi Qi.md
-      - Faculty of Visual Arts/Lydia Wong.md
-      - Faculty of Visual Arts/Ng Wen Jie.md
-      - Faculty of Visual Arts/Ryf Zaini.md
-      - Faculty of Visual Arts/Soh Ee Shaun.md
-      - Faculty of Visual Arts/Tan Wee Lit.md
-      - Faculty of Visual Arts/Vincent Leow.md
-      - Faculty of Visual Arts/Yap Kheng Kin.md
-      - Faculty of Visual Arts/Zainudin Samsuri.md
-      - Faculty of Theory of Knowledge/.keep
-      - Faculty of Theory of Knowledge/Gerard Yee, Head.md
-      - Faculty of Theory of Knowledge/Charis Lo, Subject Head.md
-      - Faculty of Theory of Knowledge/Chin Siew Heng.md
-      - Faculty of Theory of Knowledge/Daniel Tan.md
-      - Faculty of Theory of Knowledge/Eric Lau.md
-      - Faculty of Theory of Knowledge/John Paul Foenander.md
-      - Faculty of Theory of Knowledge/Juliana Ho.md
-      - Faculty of Theory of Knowledge/Kevin Hing.md
-      - Faculty of Theory of Knowledge/Koh Soo Keong.md
-      - Faculty of Theory of Knowledge/Lareina Ng Xiao Yee.md
-      - Faculty of Theory of Knowledge/Nanthini D–O Amathalingam.md
-      - Faculty of Theory of Knowledge/William Davies.md
-      - Faculty of Theatre/.keep
-      - Faculty of Theatre/Marianne Sim, Head.md
-      - Faculty of Theatre/Chelsea Crothers.md
-      - Faculty of Theatre/Elvira Holmberg.md
-      - Faculty of Theatre/Joanne Poon.md
-      - Faculty of Theatre/Matthew Lyon.md
-      - Faculty of Theatre/Michelle Tan.md
-      - Faculty of Theatre/Mohd Fared Jainal.md
-      - Faculty of Theatre/Sazali Bin Abu Othman.md
-      - Faculty of Theatre/Sean Tobin.md
-      - Faculty of Theatre/Serena Ho.md
-      - Faculty of Theatre/Zachary Ho.md
-      - Faculty of Student Development/.keep
-      - Faculty of Student Development/Daniel Chua, Acting Head.md
-      - Faculty of Student Development/Vanessa Seah, Subject Head, Student
-        Development.md
-      - Faculty of Student Development/Nicholas Zeng, Subject Head, Student
-        Leadership.md
-      - Faculty of Student Development/Patsy Koh, Higher Education & Career
-        Guidance Counsellor.md
-      - Faculty of Science/.keep
-      - Faculty of Science/Danny Yip, Head.md
-      - Faculty of Science/Ronald Lim, Head, IBDP.md
-      - Faculty of Science/Michelle Tang, School Staff Developer.md
-      - Faculty of Science/Aida Sayuti.md
-      - Faculty of Science/Bill Chia.md
-      - Faculty of Science/Boo Sock Li.md
-      - Faculty of Science/Chooi Khee Wai.md
-      - Faculty of Science/Emmeline Foo.md
-      - Faculty of Science/Er Yu Seng.md
-      - Faculty of Science/Eric Gwee.md
-      - Faculty of Science/Fong Yuet Lai.md
-      - Faculty of Science/Ho Li Ying.md
-      - Faculty of Science/Judith Ng.md
-      - Faculty of Science/Kumutha D–O Samy Nathan.md
-      - Faculty of Science/Mao Chamnap.md
-      - Faculty of Science/Rajasegar S–O Selvasegaran.md
-      - Faculty of Science/Renee Leong.md
-      - Faculty of Science/Tan Cheu Yian.md
-      - Faculty of Science/Tan Tze Hwee.md
-      - Faculty of Science/Yap Yit Siang.md
-      - Faculty of Music/.keep
-      - Faculty of Music/Pang Jin, Subject Head.md
-      - Faculty of Music/Cheryl Lim, Subject Head, IBCP.md
-      - Faculty of Music/Carolin Ralser.md
-      - Faculty of Music/Charity Kiew.md
-      - Faculty of Music/Aaron Chen.md
-      - Faculty of Music/Danny Imson.md
-      - Faculty of Music/Gu Wei.md
-      - Faculty of Music/Lee Jinjun.md
-      - Faculty of Music/Ramu Thiruyanam.md
-      - Faculty of Music/Sascia Pellegrini.md
-      - Faculty of Music/Timothy Thorne.md
-      - Faculty of Music/Wynne Fung.md
-      - Faculty Mother Tongue Language/.keep
-      - Faculty Mother Tongue Language/Angela Wu, Head.md
-      - Faculty Mother Tongue Language/Bao Hongliang, Acting Subject Head.md
-      - Faculty Mother Tongue Language/Maslinda Bt Muhamed Ali, Senior Teacher,
-        CCE.md
-      - Faculty Mother Tongue Language/Allan Ho.md
-      - Faculty Mother Tongue Language/Asmadi Bin Mohamad.md
-      - Faculty Mother Tongue Language/Chen Yong Zhen.md
-      - Faculty Mother Tongue Language/Hu Jingying.md
-      - Faculty Mother Tongue Language/Jennifer Wang.md
-      - Faculty Mother Tongue Language/Jenny Li.md
-      - Faculty Mother Tongue Language/Jyotika Thakur.md
-      - Faculty Mother Tongue Language/Leo Xu.md
-      - Faculty Mother Tongue Language/Loo Geok Tuan.md
-      - Faculty Mother Tongue Language/Meghalaa Kuppan.md
-      - Faculty Mother Tongue Language/Ong Ghim Siong.md
-      - Faculty Mother Tongue Language/Patrick Ting.md
-      - Faculty Mother Tongue Language/Sudha Gupta.md
-      - Faculty Mother Tongue Language/Wu Jing.md
-      - Faculty Mother Tongue Language/Zhang YouYou.md
-      - Faculty of Mathematics/.keep
-      - Faculty of Mathematics/Winnie Gwee, Head.md
-      - Faculty of Mathematics/Ko Hak Chin, Subject Head.md
-      - Faculty of Mathematics/Teo Oi Mei, Senior Teacher.md
-      - Faculty of Mathematics/Chin Chee Kin.md
-      - Faculty of Mathematics/Clara Wong.md
-      - Faculty of Mathematics/James McKellar.md
-      - Faculty of Mathematics/Jasmine Tan U–Pin.md
-      - Faculty of Mathematics/Katrina Ng.md
-      - Faculty of Mathematics/Kit Lee.md
-      - Faculty of Mathematics/Lee Siew Tong.md
-      - Faculty of Mathematics/Ng Soo Ling.md
-      - Faculty of Mathematics/Rachel Lim.md
-      - Faculty of Mathematics/Seet Hwee Chee.md
-      - Faculty of Mathematics/Sim Kang Chong.md
-      - Faculty of Mathematics/Soh Chin Gi.md
-      - Faculty of Mathematics/Terry Xiao.md
-      - Faculty of Mathematics/Felicia Tan.md
-      - Faculty Literature in English/.keep
-      - Faculty Literature in English/Leong Su Zhen, Acting Head.md
-      - Faculty Literature in English/Sandy Leow, Subject Head, Special
-        Projects.md
-      - Faculty Literature in English/Amitha Rachel Pagolu.md
-      - Faculty Literature in English/Arunan Amurthalingam.md
-      - Faculty Literature in English/Catalina Rembuyan.md
-      - Faculty Literature in English/Colin Lim.md
-      - Faculty Literature in English/Dorcas Tirhas.md
-      - Faculty Literature in English/Edward Ong.md
-      - Faculty Literature in English/Melissa Kwok.md
-      - Faculty Literature in English/Melissa Wu.md
-      - Faculty Literature in English/Prasatt s–o Arumugam.md
-      - Faculty Literature in English/Seah Ser Hui.md
-      - Faculty Literature in English/Sim Jie Kai.md
-      - Faculty Literature in English/Soumya Poduval.md
-      - Faculty Literature in English/Wynnie Kwok.md
-      - Faculty of Literary Arts/.keep
-      - Faculty of Literary Arts/Janet Liew, Head.md
-      - Faculty of Literary Arts/Aswani Aswath.md
-      - Faculty of Literary Arts/Marc Nair.md
-      - Faculty of Literary Arts/Marcus Ong.md
-      - Faculty of Literary Arts/Tan Cheng Hung.md
-      - Faculty of InfoComm Tech/Celeste Lin, Subject Head.md
-      - Faculty of InfoComm Tech/.keep
       - Faculty of Dance/.keep
       - Faculty of Dance/Phua Sze Ping, Head.md
       - Faculty of Dance/Celine Tan, Senior Teacher.md
@@ -187,3 +40,150 @@ collections:
       - Humanities & Social Sciences/Samantha Wong.md
       - Humanities & Social Sciences/Tee Ying Chian.md
       - Humanities & Social Sciences/Wang Yizhen.md
+      - Faculty of InfoComm Tech/.keep
+      - Faculty of InfoComm Tech/Celeste Lin, Subject Head.md
+      - Faculty of Literary Arts/.keep
+      - Faculty of Literary Arts/Janet Liew, Head.md
+      - Faculty of Literary Arts/Aswani Aswath.md
+      - Faculty of Literary Arts/Marc Nair.md
+      - Faculty of Literary Arts/Marcus Ong.md
+      - Faculty of Literary Arts/Tan Cheng Hung.md
+      - Faculty Literature in English/.keep
+      - Faculty Literature in English/Leong Su Zhen, Acting Head.md
+      - Faculty Literature in English/Sandy Leow, Subject Head, Special
+        Projects.md
+      - Faculty Literature in English/Amitha Rachel Pagolu.md
+      - Faculty Literature in English/Arunan Amurthalingam.md
+      - Faculty Literature in English/Catalina Rembuyan.md
+      - Faculty Literature in English/Colin Lim.md
+      - Faculty Literature in English/Dorcas Tirhas.md
+      - Faculty Literature in English/Edward Ong.md
+      - Faculty Literature in English/Melissa Kwok.md
+      - Faculty Literature in English/Melissa Wu.md
+      - Faculty Literature in English/Prasatt s–o Arumugam.md
+      - Faculty Literature in English/Seah Ser Hui.md
+      - Faculty Literature in English/Sim Jie Kai.md
+      - Faculty Literature in English/Soumya Poduval.md
+      - Faculty Literature in English/Wynnie Kwok.md
+      - Faculty of Mathematics/.keep
+      - Faculty of Mathematics/Winnie Gwee, Head.md
+      - Faculty of Mathematics/Ko Hak Chin, Subject Head.md
+      - Faculty of Mathematics/Teo Oi Mei, Senior Teacher.md
+      - Faculty of Mathematics/Chin Chee Kin.md
+      - Faculty of Mathematics/Clara Wong.md
+      - Faculty of Mathematics/James McKellar.md
+      - Faculty of Mathematics/Jasmine Tan U–Pin.md
+      - Faculty of Mathematics/Katrina Ng.md
+      - Faculty of Mathematics/Kit Lee.md
+      - Faculty of Mathematics/Lee Siew Tong.md
+      - Faculty of Mathematics/Ng Soo Ling.md
+      - Faculty of Mathematics/Rachel Lim.md
+      - Faculty of Mathematics/Seet Hwee Chee.md
+      - Faculty of Mathematics/Sim Kang Chong.md
+      - Faculty of Mathematics/Soh Chin Gi.md
+      - Faculty of Mathematics/Terry Xiao.md
+      - Faculty of Mathematics/Felicia Tan.md
+      - Faculty Mother Tongue Language/.keep
+      - Faculty Mother Tongue Language/Angela Wu, Head.md
+      - Faculty Mother Tongue Language/Bao Hongliang, Acting Subject Head.md
+      - Faculty Mother Tongue Language/Maslinda Bt Muhamed Ali, Senior Teacher,
+        CCE.md
+      - Faculty Mother Tongue Language/Allan Ho.md
+      - Faculty Mother Tongue Language/Asmadi Bin Mohamad.md
+      - Faculty Mother Tongue Language/Chen Yong Zhen.md
+      - Faculty Mother Tongue Language/Hu Jingying.md
+      - Faculty Mother Tongue Language/Jennifer Wang.md
+      - Faculty Mother Tongue Language/Jenny Li.md
+      - Faculty Mother Tongue Language/Jyotika Thakur.md
+      - Faculty Mother Tongue Language/Leo Xu.md
+      - Faculty Mother Tongue Language/Loo Geok Tuan.md
+      - Faculty Mother Tongue Language/Meghalaa Kuppan.md
+      - Faculty Mother Tongue Language/Ong Ghim Siong.md
+      - Faculty Mother Tongue Language/Patrick Ting.md
+      - Faculty Mother Tongue Language/Sudha Gupta.md
+      - Faculty Mother Tongue Language/Wu Jing.md
+      - Faculty Mother Tongue Language/Zhang YouYou.md
+      - Faculty of Music/.keep
+      - Faculty of Music/Pang Jin, Subject Head.md
+      - Faculty of Music/Cheryl Lim, Subject Head, IBCP.md
+      - Faculty of Music/Carolin Ralser.md
+      - Faculty of Music/Charity Kiew.md
+      - Faculty of Music/Aaron Chen.md
+      - Faculty of Music/Danny Imson.md
+      - Faculty of Music/Gu Wei.md
+      - Faculty of Music/Lee Jinjun.md
+      - Faculty of Music/Ramu Thiruyanam.md
+      - Faculty of Music/Sascia Pellegrini.md
+      - Faculty of Music/Timothy Thorne.md
+      - Faculty of Music/Wynne Fung.md
+      - Faculty of Science/.keep
+      - Faculty of Science/Danny Yip, Head.md
+      - Faculty of Science/Ronald Lim, Head, IBDP.md
+      - Faculty of Science/Michelle Tang, School Staff Developer.md
+      - Faculty of Science/Aida Sayuti.md
+      - Faculty of Science/Bill Chia.md
+      - Faculty of Science/Boo Sock Li.md
+      - Faculty of Science/Chooi Khee Wai.md
+      - Faculty of Science/Emmeline Foo.md
+      - Faculty of Science/Er Yu Seng.md
+      - Faculty of Science/Eric Gwee.md
+      - Faculty of Science/Fong Yuet Lai.md
+      - Faculty of Science/Ho Li Ying.md
+      - Faculty of Science/Judith Ng.md
+      - Faculty of Science/Kumutha D–O Samy Nathan.md
+      - Faculty of Science/Mao Chamnap.md
+      - Faculty of Science/Rajasegar S–O Selvasegaran.md
+      - Faculty of Science/Renee Leong.md
+      - Faculty of Science/Tan Cheu Yian.md
+      - Faculty of Science/Tan Tze Hwee.md
+      - Faculty of Science/Yap Yit Siang.md
+      - Faculty of Student Development/.keep
+      - Faculty of Student Development/Daniel Chua, Acting Head.md
+      - Faculty of Student Development/Vanessa Seah, Subject Head, Student
+        Development.md
+      - Faculty of Student Development/Nicholas Zeng, Subject Head, Student
+        Leadership.md
+      - Faculty of Student Development/Patsy Koh, Higher Education & Career
+        Guidance Counsellor.md
+      - Faculty of Theatre/.keep
+      - Faculty of Theatre/Marianne Sim, Head.md
+      - Faculty of Theatre/Chelsea Crothers.md
+      - Faculty of Theatre/Elvira Holmberg.md
+      - Faculty of Theatre/Joanne Poon.md
+      - Faculty of Theatre/Matthew Lyon.md
+      - Faculty of Theatre/Michelle Tan.md
+      - Faculty of Theatre/Mohd Fared Jainal.md
+      - Faculty of Theatre/Sazali Bin Abu Othman.md
+      - Faculty of Theatre/Sean Tobin.md
+      - Faculty of Theatre/Serena Ho.md
+      - Faculty of Theatre/Zachary Ho.md
+      - Faculty of Theory of Knowledge/.keep
+      - Faculty of Theory of Knowledge/Gerard Yee, Head.md
+      - Faculty of Theory of Knowledge/Charis Lo, Subject Head.md
+      - Faculty of Theory of Knowledge/Chin Siew Heng.md
+      - Faculty of Theory of Knowledge/Daniel Tan.md
+      - Faculty of Theory of Knowledge/Eric Lau.md
+      - Faculty of Theory of Knowledge/John Paul Foenander.md
+      - Faculty of Theory of Knowledge/Juliana Ho.md
+      - Faculty of Theory of Knowledge/Kevin Hing.md
+      - Faculty of Theory of Knowledge/Koh Soo Keong.md
+      - Faculty of Theory of Knowledge/Lareina Ng Xiao Yee.md
+      - Faculty of Theory of Knowledge/Nanthini D–O Amathalingam.md
+      - Faculty of Theory of Knowledge/William Davies.md
+      - Faculty of Visual Arts/.keep
+      - Faculty of Visual Arts/Lim Boon Eng, Head.md
+      - Faculty of Visual Arts/Ong Hui Har, Subject Head.md
+      - Faculty of Visual Arts/Guo Yixiu.md
+      - Faculty of Visual Arts/Ivy Toh.md
+      - Faculty of Visual Arts/Jodi Cheung.md
+      - Faculty of Visual Arts/Keith Ang.md
+      - Faculty of Visual Arts/Khiew Huey Chian.md
+      - Faculty of Visual Arts/Loh Qi Qi.md
+      - Faculty of Visual Arts/Lydia Wong.md
+      - Faculty of Visual Arts/Ng Wen Jie.md
+      - Faculty of Visual Arts/Ryf Zaini.md
+      - Faculty of Visual Arts/Soh Ee Shaun.md
+      - Faculty of Visual Arts/Tan Wee Lit.md
+      - Faculty of Visual Arts/Vincent Leow.md
+      - Faculty of Visual Arts/Yap Kheng Kin.md
+      - Faculty of Visual Arts/Zainudin Samsuri.md
