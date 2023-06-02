@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Visual Arts/Lydia Wong.md
       - Faculty of Visual Arts/Loh Qi Qi.md
       - Faculty of Visual Arts/Khiew Huey Chian.md
       - Faculty of Visual Arts/Keith Ang.md
