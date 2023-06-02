@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Science/Michelle Tang, School Staff Developer.md
       - Faculty of Science/Ronald Lim, Head, IBDP.md
       - Faculty of Science/Danny Yip, Head.md
       - Faculty of Science/.keep
