@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Mathematics/Jasmine Tan U–Pin.md
       - Faculty of Mathematics/James McKellar.md
       - Faculty of Mathematics/Clara Wong.md
       - Faculty of Mathematics/Chin Chee Kin.md
