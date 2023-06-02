@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Mathematics/Clara Wong.md
       - Faculty of Mathematics/Chin Chee Kin.md
       - Faculty of Mathematics/Teo Oi Mei, Senior Teacher.md
       - Faculty of Mathematics/Ko Hak Chin, Subject Head.md
