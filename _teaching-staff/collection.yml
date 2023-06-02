@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Theory of Knowledge/Lareina Ng Xiao Yee.md
       - Faculty of Theory of Knowledge/Koh Soo Keong.md
       - Faculty of Theory of Knowledge/Kevin Hing.md
       - Faculty of Theory of Knowledge/Juliana Ho.md
