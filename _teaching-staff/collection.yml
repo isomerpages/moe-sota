@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty Mother Tongue Language/Patrick Ting.md
       - Faculty Mother Tongue Language/Ong Ghim Siong.md
       - Faculty Mother Tongue Language/Meghalaa Kuppan.md
       - Faculty Mother Tongue Language/Loo Geok Tuan.md
