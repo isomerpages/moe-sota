@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Music/Pang Jin, Subject Head.md
       - Faculty of Music/.keep
       - Faculty Mother Tongue Language/.keep
       - Faculty Mother Tongue Language/Angela Wu, Head.md
