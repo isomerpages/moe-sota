@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Mathematics/Felicia Tan.md
       - Faculty of Mathematics/Terry Xiao.md
       - Faculty of Mathematics/Soh Chin Gi.md
       - Faculty of Mathematics/Sim Kang Chong.md
