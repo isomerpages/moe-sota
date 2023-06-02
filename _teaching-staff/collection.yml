@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Mathematics/Ko Hak Chin, Subject Head.md
       - Faculty of Mathematics/Winnie Gwee, Head.md
       - Faculty of Mathematics/.keep
       - Faculty Literature in English/.keep
