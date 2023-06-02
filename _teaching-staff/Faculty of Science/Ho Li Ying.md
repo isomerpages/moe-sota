@@ -6,7 +6,7 @@ third_nav_title: Faculty of Science
 ---
 <figure>
 <img style="width:40%" src="/images/science---ho-li-ying.jpg">
-<figcaption> <strong>Ho Li Ying
+<figcaption> <strong>Ho Li Ying<br>
 Faculty of Science</strong>
 </figcaption>
 </figure>
