@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Visual Arts/Ryf Zaini.md
       - Faculty of Visual Arts/Ng Wen Jie.md
       - Faculty of Visual Arts/Lydia Wong.md
       - Faculty of Visual Arts/Loh Qi Qi.md
