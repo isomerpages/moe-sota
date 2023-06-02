@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty Mother Tongue Language/Hu Jingying.md
       - Faculty Mother Tongue Language/Chen Yong Zhen.md
       - Faculty Mother Tongue Language/Asmadi Bin Mohamad.md
       - Faculty Mother Tongue Language/Allan Ho.md
