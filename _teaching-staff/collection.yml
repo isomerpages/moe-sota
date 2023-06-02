@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty Literature in English/Melissa Kwok.md
       - Faculty Literature in English/Edward Ong.md
       - Faculty Literature in English/Dorcas Tirhas.md
       - Faculty Literature in English/Colin Lim.md
