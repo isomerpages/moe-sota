@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Theatre/Michelle Tan.md
       - Faculty of Theatre/Matthew Lyon.md
       - Faculty of Theatre/Joanne Poon.md
       - Faculty of Theatre/Elvira Holmberg.md
