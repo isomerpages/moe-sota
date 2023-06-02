@@ -2,26 +2,26 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty Mother Tongue Language/Zhang YouYou.md
-      - Faculty Mother Tongue Language/Wu Jing.md
-      - Faculty Mother Tongue Language/Sudha Gupta.md
-      - Faculty Mother Tongue Language/Patrick Ting.md
-      - Faculty Mother Tongue Language/Ong Ghim Siong.md
-      - Faculty Mother Tongue Language/Meghalaa Kuppan.md
-      - Faculty Mother Tongue Language/Loo Geok Tuan.md
-      - Faculty Mother Tongue Language/Leo Xu.md
-      - Faculty Mother Tongue Language/Jyotika Thakur.md
-      - Faculty Mother Tongue Language/Jenny Li.md
-      - Faculty Mother Tongue Language/Jennifer Wang.md
-      - Faculty Mother Tongue Language/Hu Jingying.md
-      - Faculty Mother Tongue Language/Chen Yong Zhen.md
-      - Faculty Mother Tongue Language/Asmadi Bin Mohamad.md
-      - Faculty Mother Tongue Language/Allan Ho.md
+      - Faculty Mother Tongue Language/.keep
+      - Faculty Mother Tongue Language/Angela Wu, Head.md
+      - Faculty Mother Tongue Language/Bao Hongliang, Acting Subject Head.md
       - Faculty Mother Tongue Language/Maslinda Bt Muhamed Ali, Senior Teacher,
         CCE.md
-      - Faculty Mother Tongue Language/Bao Hongliang, Acting Subject Head.md
-      - Faculty Mother Tongue Language/Angela Wu, Head.md
-      - Faculty Mother Tongue Language/.keep
+      - Faculty Mother Tongue Language/Allan Ho.md
+      - Faculty Mother Tongue Language/Asmadi Bin Mohamad.md
+      - Faculty Mother Tongue Language/Chen Yong Zhen.md
+      - Faculty Mother Tongue Language/Hu Jingying.md
+      - Faculty Mother Tongue Language/Jennifer Wang.md
+      - Faculty Mother Tongue Language/Jenny Li.md
+      - Faculty Mother Tongue Language/Jyotika Thakur.md
+      - Faculty Mother Tongue Language/Leo Xu.md
+      - Faculty Mother Tongue Language/Loo Geok Tuan.md
+      - Faculty Mother Tongue Language/Meghalaa Kuppan.md
+      - Faculty Mother Tongue Language/Ong Ghim Siong.md
+      - Faculty Mother Tongue Language/Patrick Ting.md
+      - Faculty Mother Tongue Language/Sudha Gupta.md
+      - Faculty Mother Tongue Language/Wu Jing.md
+      - Faculty Mother Tongue Language/Zhang YouYou.md
       - Faculty of Mathematics/.keep
       - Faculty of Mathematics/Winnie Gwee, Head.md
       - Faculty of Mathematics/Ko Hak Chin, Subject Head.md
