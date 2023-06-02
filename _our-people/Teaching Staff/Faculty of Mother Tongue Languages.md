@@ -8,7 +8,7 @@ third_nav_title: Teaching Staff
 
 *   [Angela Wu, Head](/about-us/our-people/teaching-staff/faculty-of-mother-tongue-languages/angela-wu-head")
 *   [Bao Hongliang, Acting Subject Head](/about-us/our-people/teaching-staff/faculty-of-mother-tongue-languages/bao-hongliang)
-*   [Maslinda Bt Muhamed Ali, Senior Teacher, CCE](/about-us/our-people/teaching-staff/faculty-of-mother-tongue-languages/maslinda-muhamed-ali-senior-teacher-cce)
+*   [Maslinda Bt Muhamed Ali, Senior Teacher, CCE](/about-us/our-people/teaching-staff/faculty-of-mother-tongue-languages/maslinda-muhamed-ali)
 *   [Allan Ho](/about-us/our-people/teaching-staff/faculty-of-mother-tongue-languages/allan-ho "Allan Ho")
 *   [Asmadi Bin Mohamad](/about-us/our-people/teaching-staff/faculty-of-mother-tongue-languages/asmadi-bin-mohamad)
 *   [Chen Yong Zhen](/about-us/our-people/teaching-staff/faculty-of-mother-tongue-languages/chen-yong-zhen)
