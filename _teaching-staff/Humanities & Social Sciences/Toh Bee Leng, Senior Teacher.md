@@ -6,7 +6,7 @@ third_nav_title: Humanities & Social Sciences
 ---
 <figure>
 <img style="width:40%" src="/images/tohbeeleng.jpg">
-<figcaption> <strong>Toh Bee Leng
+<figcaption> <strong>Toh Bee Leng<br>
 Faculty of Humanities and Social Sciences</strong> </figcaption>
 </figure>
 
