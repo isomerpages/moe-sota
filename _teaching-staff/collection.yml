@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Humanities & Social Sciences/Mark Wong.md
       - Humanities & Social Sciences/Mageswari Rajah.md
       - Humanities & Social Sciences/Leong Ka Wai.md
       - Humanities & Social Sciences/Jolenta Wong.md
