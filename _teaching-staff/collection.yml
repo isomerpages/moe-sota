@@ -2,18 +2,18 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty of Theatre/Zachary Ho.md
-      - Faculty of Theatre/Serena Ho.md
-      - Faculty of Theatre/Sean Tobin.md
-      - Faculty of Theatre/Sazali Bin Abu Othman.md
-      - Faculty of Theatre/Mohd Fared Jainal.md
-      - Faculty of Theatre/Michelle Tan.md
-      - Faculty of Theatre/Matthew Lyon.md
-      - Faculty of Theatre/Joanne Poon.md
-      - Faculty of Theatre/Elvira Holmberg.md
-      - Faculty of Theatre/Chelsea Crothers.md
-      - Faculty of Theatre/Marianne Sim, Head.md
       - Faculty of Theatre/.keep
+      - Faculty of Theatre/Marianne Sim, Head.md
+      - Faculty of Theatre/Chelsea Crothers.md
+      - Faculty of Theatre/Elvira Holmberg.md
+      - Faculty of Theatre/Joanne Poon.md
+      - Faculty of Theatre/Matthew Lyon.md
+      - Faculty of Theatre/Michelle Tan.md
+      - Faculty of Theatre/Mohd Fared Jainal.md
+      - Faculty of Theatre/Sazali Bin Abu Othman.md
+      - Faculty of Theatre/Sean Tobin.md
+      - Faculty of Theatre/Serena Ho.md
+      - Faculty of Theatre/Zachary Ho.md
       - Faculty of Student Development/.keep
       - Faculty of Student Development/Daniel Chua, Acting Head.md
       - Faculty of Student Development/Vanessa Seah, Subject Head, Student
