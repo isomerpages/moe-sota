@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Mathematics/Sim Kang Chong.md
       - Faculty of Mathematics/Seet Hwee Chee.md
       - Faculty of Mathematics/Rachel Lim.md
       - Faculty of Mathematics/Ng Soo Ling.md
