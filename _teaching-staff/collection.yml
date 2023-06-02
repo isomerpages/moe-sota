@@ -2,10 +2,10 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty of Film/Kania Sukotjo.md
-      - Faculty of Film/Gladys Ng.md
-      - Faculty of Film/David Cheng, Acting Head.md
       - Faculty of Film/.keep
+      - Faculty of Film/David Cheng, Acting Head.md
+      - Faculty of Film/Gladys Ng.md
+      - Faculty of Film/Kania Sukotjo.md
       - Faculty Experiential Education/.keep
       - Faculty Experiential Education/Kaycee Chan, Head.md
       - Faculty Experiential Education/Mariette Ong, Head, Community Services.md
