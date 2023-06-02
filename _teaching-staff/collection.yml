@@ -2,23 +2,23 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Humanities & Social Sciences/Wang Yizhen.md
-      - Humanities & Social Sciences/Tee Ying Chian.md
-      - Humanities & Social Sciences/Samantha Wong.md
-      - Humanities & Social Sciences/Ng Herk Siang.md
-      - Humanities & Social Sciences/Merlin Lim.md
-      - Humanities & Social Sciences/Mark Wong.md
-      - Humanities & Social Sciences/Mageswari Rajah.md
-      - Humanities & Social Sciences/Leong Ka Wai.md
-      - Humanities & Social Sciences/Jolenta Wong.md
-      - Humanities & Social Sciences/Donovan Leong.md
-      - Humanities & Social Sciences/David Han.md
-      - Humanities & Social Sciences/Daphne Seow.md
-      - Humanities & Social Sciences/Ashley Zhang.md
-      - Humanities & Social Sciences/Toh Bee Leng, Senior Teacher.md
-      - Humanities & Social Sciences/Fang Woan Pin, Senior Teacher.md
-      - Humanities & Social Sciences/Low Wai–Peng, Head.md
       - Humanities & Social Sciences/.keep
+      - Humanities & Social Sciences/Low Wai–Peng, Head.md
+      - Humanities & Social Sciences/Fang Woan Pin, Senior Teacher.md
+      - Humanities & Social Sciences/Toh Bee Leng, Senior Teacher.md
+      - Humanities & Social Sciences/Ashley Zhang.md
+      - Humanities & Social Sciences/Daphne Seow.md
+      - Humanities & Social Sciences/David Han.md
+      - Humanities & Social Sciences/Donovan Leong.md
+      - Humanities & Social Sciences/Jolenta Wong.md
+      - Humanities & Social Sciences/Leong Ka Wai.md
+      - Humanities & Social Sciences/Mageswari Rajah.md
+      - Humanities & Social Sciences/Mark Wong.md
+      - Humanities & Social Sciences/Merlin Lim.md
+      - Humanities & Social Sciences/Ng Herk Siang.md
+      - Humanities & Social Sciences/Samantha Wong.md
+      - Humanities & Social Sciences/Tee Ying Chian.md
+      - Humanities & Social Sciences/Wang Yizhen.md
       - Faculty of Film/.keep
       - Faculty of Film/David Cheng, Acting Head.md
       - Faculty of Film/Gladys Ng.md
