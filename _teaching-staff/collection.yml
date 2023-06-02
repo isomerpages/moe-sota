@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Theatre/Chelsea Crothers.md
       - Faculty of Theatre/Marianne Sim, Head.md
       - Faculty of Theatre/.keep
       - Faculty of Student Development/.keep
