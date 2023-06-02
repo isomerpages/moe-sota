@@ -2,23 +2,23 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty Literature in English/Wynnie Kwok.md
-      - Faculty Literature in English/Soumya Poduval.md
-      - Faculty Literature in English/Sim Jie Kai.md
-      - Faculty Literature in English/Seah Ser Hui.md
-      - Faculty Literature in English/Prasatt s–o Arumugam.md
-      - Faculty Literature in English/Melissa Wu.md
-      - Faculty Literature in English/Melissa Kwok.md
-      - Faculty Literature in English/Edward Ong.md
-      - Faculty Literature in English/Dorcas Tirhas.md
-      - Faculty Literature in English/Colin Lim.md
-      - Faculty Literature in English/Catalina Rembuyan.md
-      - Faculty Literature in English/Arunan Amurthalingam.md
-      - Faculty Literature in English/Amitha Rachel Pagolu.md
+      - Faculty Literature in English/.keep
+      - Faculty Literature in English/Leong Su Zhen, Acting Head.md
       - Faculty Literature in English/Sandy Leow, Subject Head, Special
         Projects.md
-      - Faculty Literature in English/Leong Su Zhen, Acting Head.md
-      - Faculty Literature in English/.keep
+      - Faculty Literature in English/Amitha Rachel Pagolu.md
+      - Faculty Literature in English/Arunan Amurthalingam.md
+      - Faculty Literature in English/Catalina Rembuyan.md
+      - Faculty Literature in English/Colin Lim.md
+      - Faculty Literature in English/Dorcas Tirhas.md
+      - Faculty Literature in English/Edward Ong.md
+      - Faculty Literature in English/Melissa Kwok.md
+      - Faculty Literature in English/Melissa Wu.md
+      - Faculty Literature in English/Prasatt s–o Arumugam.md
+      - Faculty Literature in English/Seah Ser Hui.md
+      - Faculty Literature in English/Sim Jie Kai.md
+      - Faculty Literature in English/Soumya Poduval.md
+      - Faculty Literature in English/Wynnie Kwok.md
       - Faculty of Literary Arts/.keep
       - Faculty of Literary Arts/Janet Liew, Head.md
       - Faculty of Literary Arts/Aswani Aswath.md
