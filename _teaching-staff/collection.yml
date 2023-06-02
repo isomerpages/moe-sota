@@ -2,19 +2,19 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Faculty of Music/Wynne Fung.md
-      - Faculty of Music/Timothy Thorne.md
-      - Faculty of Music/Sascia Pellegrini.md
-      - Faculty of Music/Ramu Thiruyanam.md
-      - Faculty of Music/Lee Jinjun.md
-      - Faculty of Music/Gu Wei.md
-      - Faculty of Music/Danny Imson.md
-      - Faculty of Music/Aaron Chen.md
-      - Faculty of Music/Charity Kiew.md
-      - Faculty of Music/Carolin Ralser.md
-      - Faculty of Music/Cheryl Lim, Subject Head, IBCP.md
-      - Faculty of Music/Pang Jin, Subject Head.md
       - Faculty of Music/.keep
+      - Faculty of Music/Pang Jin, Subject Head.md
+      - Faculty of Music/Cheryl Lim, Subject Head, IBCP.md
+      - Faculty of Music/Carolin Ralser.md
+      - Faculty of Music/Charity Kiew.md
+      - Faculty of Music/Aaron Chen.md
+      - Faculty of Music/Danny Imson.md
+      - Faculty of Music/Gu Wei.md
+      - Faculty of Music/Lee Jinjun.md
+      - Faculty of Music/Ramu Thiruyanam.md
+      - Faculty of Music/Sascia Pellegrini.md
+      - Faculty of Music/Timothy Thorne.md
+      - Faculty of Music/Wynne Fung.md
       - Faculty Mother Tongue Language/.keep
       - Faculty Mother Tongue Language/Angela Wu, Head.md
       - Faculty Mother Tongue Language/Bao Hongliang, Acting Subject Head.md
