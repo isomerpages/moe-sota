@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty Mother Tongue Language/Meghalaa Kuppan.md
       - Faculty Mother Tongue Language/Loo Geok Tuan.md
       - Faculty Mother Tongue Language/Leo Xu.md
       - Faculty Mother Tongue Language/Jyotika Thakur.md
