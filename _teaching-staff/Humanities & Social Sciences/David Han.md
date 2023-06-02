@@ -6,7 +6,7 @@ third_nav_title: Humanities & Social Sciences
 ---
 <figure>
 <img style="width:40%" src="/images/davidhan.jpg">
-<figcaption> <strong>David Han
+<figcaption> <strong>David Han<br>
 Faculty of Humanities and Social Sciences</strong> </figcaption>
 </figure>
 
