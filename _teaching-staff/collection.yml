@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Humanities & Social Sciences/Fang Woan Pin, Senior Teacher.md
       - Humanities & Social Sciences/Low Wai–Peng, Head.md
       - Humanities & Social Sciences/.keep
       - Faculty of Film/.keep
