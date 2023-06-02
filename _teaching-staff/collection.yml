@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Film/Kania Sukotjo.md
       - Faculty of Film/Gladys Ng.md
       - Faculty of Film/David Cheng, Acting Head.md
       - Faculty of Film/.keep
