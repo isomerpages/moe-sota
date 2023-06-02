@@ -2,6 +2,8 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty Mother Tongue Language/Maslinda Bt Muhamed Ali, Senior Teacher,
+        CCE.md
       - Faculty Mother Tongue Language/Bao Hongliang, Acting Subject Head.md
       - Faculty Mother Tongue Language/Angela Wu, Head.md
       - Faculty Mother Tongue Language/.keep
