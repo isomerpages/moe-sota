@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Faculty of Theatre/Marianne Sim, Head.md
       - Faculty of Theatre/.keep
       - Faculty of Student Development/.keep
       - Faculty of Student Development/Daniel Chua, Acting Head.md
