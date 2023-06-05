@@ -38,7 +38,7 @@ Congratulations to Year 4 students Olivia Chua Ning, Kimaya Devang Bhuta, Andrei
 Well done students, and special thanks to their teachers for their guidance throughout the challenge!
 
 <figure>
-<img style="width:80%" src="/images/(sa)-art-prize.jpg">
+<img style="width:80%" src="/images/2022_student-achievements_nus-geography-challenge.jpg">
 <figcaption><small>Left: (L-R) Kimaya, Olivia, Durva.</small></figcaption>
 </figure>
 
@@ -47,3 +47,58 @@ Well done students, and special thanks to their teachers for their guidance thro
 Since 2010, SOTA’s Music students have been invited to perform at the biennial Lee Kuan Yew Water Prize. In April 2022, SOTA’s Wind Ensemble and Percussion students opened the event with Naoya Wada’s “Flower Crown”, a piece reminiscing the Japanese tradition of making ornamental hairpins.&nbsp;
 
 The performance was conducted by Mr Lee Jin Jun from the Music faculty. IBCP students Joshua Lau (Year 6) and Regan Ho (Year 5) also starred in the highlight performance, playing two short works based on the Malay folk tunes “Ikan Kekek” and “Suriram”.
+
+<figure>
+<img style="width:80%" src="/images/(sa)-lee-kuan-yew-water-prize.jpg">
+<figcaption><small>Photo Credits: Tricom</small></figcaption>
+</figure>
+
+### 8th Félix Godefroid Harp Competition 2022
+
+In the same month, Music students Renee Yadav (Year 4) and Kaitlyn Tan (Year 2) took part in the 8th Félix Godefroid Harp Competition. Both of them clinched the first prize in the Excellence Category and Jeunes Talent Category respectively. Held in Belgium, the competition unites and celebrates talented harpists from all around the world. SOTA is proud to see our students participate in such unique opportunities and gain valuable experience in their journey as aspiring artists.
+
+<figure>
+<img style="width:80%" src="/images/(sa)-harp-competition.jpg">
+<figcaption><small>(L) Renee Yadav. (R) Kaitlyn Tan. Photos credits: Claudy Briffeuil</small></figcaption>
+</figure>
+
+
+### 2021 “Feed My Trashemon” School Competition
+
+Visual Arts students Liew Li Yu Jade (Year 2) and Justin Teo (Year 3) participated in the&nbsp; 2021 “Feed My Trashemon” School Competition and were placed among the top 10 finalists of the competition. They attended the award ceremony in April and received their awards from Guest of Honour Ms Grace Fu, Minister for Sustainability and the Environment. The bins designed by them were also placed around SOTA campus.&nbsp;
+
+Organised by the Public Hygiene Council in collaboration with the Ministry of Education, the competition invited students to showcase their creativity and design monster bins, or “Trashemons”, that promote cleaner habits among Singaporeans. The designs aim to encourage members of the community to “feed” the bins and dispose of their litter appropriately.&nbsp;
+
+A big congratulations once again to our students!
+
+<img style="width:80%" src="/images/(sa)-feed-my-trashemon.jpg">
+
+### 14th Inter School Tchoukball Championships
+
+In May, our ‘B’ Division Tchoukball boys’ teams made SOTA history by clinching 1st place in the Cup category and 2nd runner-up in the Plate category, while the girls’ teams clinched 1st runner-up in the Cup category and 2nd runner-up in the Bowl category. 
+
+Following the ‘B’ division teams’ success, our ‘A’ Division boys’ and girls’ teams finished champions in both the Cup and Plate categories. An outstanding achievement — well done and congratulations to all the players!
+
+<figure>
+<img style="width:80%" src="/images/2022_student-achievements_tchoukball.jpg">
+<figcaption><small>Top: ‘B’ Division Girls and Boys teams. Bottom: ‘A’ Division teams.</small></figcaption>
+</figure>
+
+### International Ballet Grand Prix Singapore
+
+Year 3 Dance students Kristen Sara Wong and Sophie Ter participated in the International Ballet Grand Prix Singapore 2022. Both students qualified for the finals held in June 2022 at the University Cultural Centre Theatre and Sophie eventually placed 5th in the Youth 2 Category. Bravo dancers, and thank you to Mr Ng Teck Voon and Ms Cheah Mei Sing for mentoring the students and guiding them throughout their preparation!
+
+<img style="width:80%" src="/images/(sa)-ballet.jpg">
+
+### Singapore Youth Festival (SYF) 2022 Art Exhibition
+
+Artworks by our Visual Arts students and alumni were selected for the onsite SYF 2022 Art Exhibition in July. The theme for 2022 — ‘Artist and Sustainability’ — invites young artists to examine how we may inspire social, cultural, and environmental change and make a positive impact on the world. Well done to students Nikki Lim, Sheryln Chow, Eunice Lim, Loh Min En, Hang Jia Wei, and Kate Chang, and alumni Andrea Cheah and Dayna Indry Lawadinata for participating in this meaningful event!
+
+<img style="width:80%" src="/images/(sa)-syf.jpg">
+
+### Poetry Festival Singapore
+
+In July, SOTA students swept the top three awards in the National Poetry Competition Junior Category organised by Poetry Festival Singapore. Nyein Su Thar (Literary Arts, Year 3) and Durva Gautam Kamdar (Literary Arts, Year 4) were awarded the first and second place respectively, while Tham Yu Xuan (Film, Year 5) was awarded third place for his poem.
+
+In another event by Poetry Festival Singapore, Film student Claudia Chen (Year 6) was chosen as a finalist in the open call for poems related to the theme of catharsis. She performed her poem at LASALLE College of the Arts on 30 July 2022.
+
