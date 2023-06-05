@@ -28,3 +28,22 @@ In January, Year 5 Dance students Low Su Jing and Sheryl Chew participated in th
 Year 6 Visual Arts student Huang Luxiang Andrew clinched the Silver award at the inaugural 13-19 Art Prize, a nationwide competition that recognises and celebrates young art talents in Singapore. 
 
 His mixed media-on-canvas work titled Focus is inspired by the visual qualities of Singapore’s HDB flats, such as their closely stacked living spaces and crowded neighbourhoods. Andrew’s work and the rest of the winning art pieces were put up for auction, with proceeds going to The Business Times Budding Artists Fund.
+
+<img style="width:80%" src="/images/(sa)-art-prize.jpg">
+
+### Year 4 students in NUS Geography Challenge 2022
+
+Congratulations to Year 4 students Olivia Chua Ning, Kimaya Devang Bhuta, Andrei David Rasmussen, and Durva Gautam Kamdar for reaching the semi-finals of the NUS Geography Challenge 2022! The challenge sought to empower students to envision their eco-utopia and create the blueprints for a green future. Durva also achieved the Gold award in the individual component and was invited to the Geography Talent Development Programme, an enrichment programme that nurtures students’ passion for Geography and enhances their knowledge in the subject.
+
+Well done students, and special thanks to their teachers for their guidance throughout the challenge!
+
+<figure>
+<img style="width:80%" src="/images/(sa)-art-prize.jpg">
+<figcaption><small>Left: (L-R) Kimaya, Olivia, Durva.</small></figcaption>
+</figure>
+
+### Lee Kuan Yew Water Prize
+
+Since 2010, SOTA’s Music students have been invited to perform at the biennial Lee Kuan Yew Water Prize. In April 2022, SOTA’s Wind Ensemble and Percussion students opened the event with Naoya Wada’s “Flower Crown”, a piece reminiscing the Japanese tradition of making ornamental hairpins.&nbsp;
+
+The performance was conducted by Mr Lee Jin Jun from the Music faculty. IBCP students Joshua Lau (Year 6) and Regan Ho (Year 5) also starred in the highlight performance, playing two short works based on the Malay folk tunes “Ikan Kekek” and “Suriram”.
