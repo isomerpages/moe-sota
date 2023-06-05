@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Lee Yun Chai clinched 1st Prize (tie) and Nicolette Chin emerged runner-up in the Youth Category in HarpFest III 2010 competition at the Cempaka International Ladies' College, Malaysia.
