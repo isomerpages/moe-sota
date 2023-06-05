@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Natalie Lam En Ru was one of the first two Singaporeans to win an award (the Encouragement Award) at the prestigious American Ballet Competition, Austin, USA, 2010.
