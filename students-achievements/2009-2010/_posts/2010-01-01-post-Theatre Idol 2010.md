@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Jedd Jong Yue’s _Last Meals_, emerged runner-up in Theatre Idol 2010, a drama script-writing competition organised by drama company, Action Theatre.
