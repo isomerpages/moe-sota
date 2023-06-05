@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/stephanie-chia.jpg)
