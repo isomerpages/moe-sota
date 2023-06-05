@@ -102,3 +102,20 @@ In July, SOTA students swept the top three awards in the National Poetry Competi
 
 In another event by Poetry Festival Singapore, Film student Claudia Chen (Year 6) was chosen as a finalist in the open call for poems related to the theme of catharsis. She performed her poem at LASALLE College of the Arts on 30 July 2022.
 
+<figure>
+<img style="width:80%" src="/images/2022_student-achievements_poetry-festival.jpg">
+<figcaption><small>From left: Nyein Su Thar, Durva Gautam Kamdar, and Tham Yu Xuan receiving their awards; Claudia Chen performing her poem.</small></figcaption>
+</figure>
+
+### SOTA Music Award (Orchestral Instrumentalist)
+
+In August, Eda Chua and Timothy Cher (Music, Class of 2021) were announced as the recipients of the inaugural SOTA Music Award (Orchestral Instrumentalist). The SOTA Music Award is made possible by the Goh Soon Tioe Centenary Fund, and serves to recognise and provide encouragement to deserving IBCP Music students. 
+
+Ms Vivien Goh, daughter of the late Mr Goh Soon Tioe, met with our Music students to share about Mr Goh’s inspiring journey as he pursued his passion towards music despite the odds to become one of Singapore’s local pioneers in Western music.
+
+<figure>
+<img style="width:80%" src="/images/2022_student-achievement_music-award.jpg">
+<figcaption><small>Eda Chua (left column) and Timothy Cher (right column) receiving their award from Ms Vivien Goh.</small></figcaption>
+</figure>
+
+Congratulations to all our students and we hope to see you continue to showcase your talents through unique opportunities!
