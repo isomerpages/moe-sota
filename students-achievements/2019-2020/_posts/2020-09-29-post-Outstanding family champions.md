@@ -27,3 +27,4 @@ To celebrate their efforts, a collar pin and certificate were presented to each 
 	<figcaption><small>Screenshot from FamChamps <a href="https://youtu.be/paS4_NENv6I">YouTube video</a></small></figcaption>
 </figure>
 
+The FamChamps is a community youth movement to raise young Family Champions who believe in family, live out family and champion family. They represent the next generation of Singaporeans who will build a legacy of strong and resilient families for a sustainable and prosperous Singapore.
