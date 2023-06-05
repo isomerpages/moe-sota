@@ -6,11 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
+<img style="width:50%" src="/images/math_achievements_thumb.jpg">
+
+
 Several of our Year 1 to 5 students participated in the International Continuous Assessment for Schools (ICAS) on 30 July and the Australian Mathematics Competition (AMC) on 7 August. At the ICAS, our students achieved 3 high distinction awards and 6 high distinction awards, placing our high distinction awardees at the top 1% in Singapore and our distinction awardees among the next top 10%. At the AMC, we had 10 distinction awardees, ranking them among the top 15% of participants worldwide in their respective categories.
 
 Congratulations to all our award winners!
 
 **ICAS Award Winners:**  
+
 _High Distinction (Top 1% in Singapore)_
 
 1.  Adelle Chan Min Hui
@@ -27,6 +31,7 @@ _Distinction (Next Top 10% in Singapore)_
 6.  Tan Ning Ci Caitlin
 
 **AMC Award Winners:**  
+
 _Distinction (Top 15% Worldwide)_
 
 1.  Nur Sabrina Bte Mohamad Suhaimi
