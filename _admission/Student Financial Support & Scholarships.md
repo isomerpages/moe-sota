@@ -8,7 +8,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-		<label for="accordion1"><h1>Bursary Packages</h1>Tiered school and miscellaneous fee subsidies ranging from 33% to 100% and financial assistance benefits funded by The Ngee Ann Kongsi and SOTA Student Assistance Fund (SAF) are provided to SOTA students who meet the criteria.</label>
+		<label for="accordion1"><h1>Bursary Packages</h1><br>Tiered school and miscellaneous fee subsidies ranging from 33% to 100% and financial assistance benefits funded by The Ngee Ann Kongsi and SOTA Student Assistance Fund (SAF) are provided to SOTA students who meet the criteria.</label>
     <div>
       <p>The table below provides information and criteria for the bursary packages. Financial assistance benefits are funded by <a href="https://thengeeannkongsi.com.sg/en">The Ngee Ann Kongsi</a> and SOTA Student Assistance Fund (SAF).</p>
 			<p><style type="text/css">
@@ -86,6 +86,12 @@ description: ""
 			<li>The School will inform students and parents on the outcome of their applications.</li>
 		</ol>
     </div>
+	</li>
+	<li>
+    <input id="accordion2" type="checkbox">
+	<label for="accordion2"><h1>Student Assistance Fund (SAF)</h1><br>The SAF, eligible for all students, regardless of nationality, provides financial assistance to needy students who are in need of financial assistance due to special/sudden circumstances, who face temporary financial difficulty or who require further financial assistance.</label>
+    <div>
+      <p>Students who wish to apply for the SAF may obtain the SAF Application Form from the school's Administration Office.</p>
+    </div>
 	</li>  
 </ul>
-	
