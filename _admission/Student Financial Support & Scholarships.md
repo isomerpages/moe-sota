@@ -163,3 +163,17 @@ Successful recipients will be notified by the School.
     </div>
 	</li>  
 </ul>
+
+<br><br>
+
+### Scholarships
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion1" type="checkbox">
+    <label for="accordion1">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+</ul>
