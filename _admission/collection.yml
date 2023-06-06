@@ -2,10 +2,10 @@ collections:
   admission:
     output: true
     order:
-      - Student Financial Support & Scholarships.md
-      - Contact Us – Admission Enquiries.md
-      - School Fees.md
+      - SOTA Talent Academy.md
+      - DSA–Secondary/.keep
       - DSA–Secondary/Criteria.md
       - DSA–Secondary/How To Apply.md
-      - DSA–Secondary/.keep
-      - SOTA Talent Academy.md
+      - School Fees.md
+      - Contact Us – Admission Enquiries.md
+      - Student Financial Support & Scholarships.md
