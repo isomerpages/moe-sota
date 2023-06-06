@@ -202,4 +202,14 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
       <p>We regret that we are unable to provide in-person support. Please email us at sa@sota.edu.sg for technical support.</p>
     </div>
 	</li> 
+	<li>
+    <input id="accordion19" type="checkbox">
+    <label for="accordion19">7. How do I upload videos to Youtube?</label>
+    <div>
+      <p>You may refer to the&nbsp;<a href="https://support.google.com/youtube/answer/57407">YouTube Help page</a>&nbsp;for assistance.</p>
+    </div>
+	</li> 
 </ul>
+
+
+
