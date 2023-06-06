@@ -35,7 +35,7 @@ third_nav_title: DSA–Secondary
   <tr>
     <td class="tg-q8tz"><span style="color:#5E5D52;background-color:transparent">10 March 2023</span></td>
     <td class="tg-lhpe">All Applicants</td>
-    <td class="tg-0pky"><span style="font-weight:700">Download </span>the Preparation Notes and Checklist for the art form that you wish to apply to <a rel="noopener noreferrer" target="_blank" href="https://www.sota.edu.sg/admissions/talent-academy/preparation-notes-checklists">here</a><br><br><span style="font-weight:700">Prepare </span>your portfolio for submission<br><br><span style="font-weight:400;font-style:normal">Note: You may apply for up to </span>TWO(2) art forms only.<br></td>
+    <td class="tg-0pky"><span style="font-weight:700">Download </span>the Preparation Notes and Checklist for the art form that you wish to apply to <a rel="noopener noreferrer" target="_blank" href="/admissions/talent-academy/preparation-notes-checklists">here</a><br><br><span style="font-weight:700">Prepare </span>your portfolio for submission<br><br><span style="font-weight:400;font-style:normal">Note: You may apply for up to </span>TWO(2) art forms only.<br></td>
   </tr>
   <tr>
     <td class="tg-vqo2"><span style="color:#5E5D52;background-color:transparent">31 March 12:00 noon – 19 May 2023 5:00 pm (SGT)</span></td>
