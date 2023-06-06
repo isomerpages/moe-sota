@@ -39,3 +39,12 @@ You may download the TA Preparation Notes and Checklists from this page. Click&n
 *   [Theatre IBDP](/files/ta23-theatre-year-5-ibdp.pdf)
 *   [Visual Arts IBDP](/files/ta23-visual-arts-year-5-ibdp.pdf)
 
+### 2023 Ad-hoc Admission Exercise [Closed]
+**No Vacancies** for Year 2 and Year 3 Admission for AY2024.
+
+### Supplementary Intake Exercise (SIE)&nbsp;\[Closed\]
+Application may open subject to available vacancies. The notes will be published then.  
+  
+Click&nbsp;[here](/admissions/talent-academy/sie)&nbsp;to find out more about the SIE.
+
+
