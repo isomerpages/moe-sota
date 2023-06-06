@@ -291,3 +291,30 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
     </div>
 	</li>
 </ul>
+
+### Application Process - TA Outcome
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion27" type="checkbox">
+    <label for="accordion27">1. I have attended the Talent Academy (TA). How do I find out the outcome of my TA?</label>
+    <div>
+      <p>You must log in to the TA Portal to check the status of your final TA outcome. Please refer to the DSA-Sec How To Apply tab for more information on application process and the timeline to take note of.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion28" type="checkbox">
+    <label for="accordion28">2. I have received a Confirmed Offer/Wait List for my TA result. What do I do next?</label>
+    <div>
+      <ul>
+	<li>You must participate in the School Preference Exercise in late October (date TBC) through MOE DSA-Sec Portal.</li>
+	<li>The MOE DSA-Sec Portal will indicate the list of DSA schools from which you have received a Confirmed Offer and/or the list of schools at which you have been placed on Wait List.</li>
+	<li>Exercise your option and indicate SOTA as one of your choices at this stage.</li>
+</ul>
+    </div>
+	</li>  
+</ul>
+
+
+
+   
