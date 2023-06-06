@@ -50,3 +50,20 @@ The School may conduct a Supplementary Intake Exercise (SIE) in November post-PS
     </div>
 	</li>  
 </ul>
+
+### Eligibility Criteria
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion1" type="checkbox">
+    <label for="accordion1">1. What are the eligibility criteria for application under the DSA-Sec category?
+</label>
+    <div>
+      <p>Applicants must meet the following:</p>
+			<ul>
+				<li>At least 12 years old (born in 2011), and</li>
+				<li>Primary 6 pupils studying in a local MOE mainstream school and taking the Primary School Leaving Examination (PSLE) in 2023, or</li>
+			</ul>
+    </div>
+	</li>  
+</ul>
