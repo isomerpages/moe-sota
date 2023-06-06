@@ -161,3 +161,14 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
 	</li>
 </ul>
 
+### Application Process - Submission of Online Application
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion15" type="checkbox">
+    <label for="accordion15">1. How do I apply and submit my application?<br><br>2. Do I have to submit any portfolio relevant to the art form that I wish to apply to?<br><br>3. Do I have to submit any supporting documents?</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+</ul>
