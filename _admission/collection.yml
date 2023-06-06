@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Preparation Notes & Checklists.md
       - Supplementary Intake Exercise.md
       - Ad hoc Admission Exercise.md
       - DSA Secondary (Non MOE)/.keep
