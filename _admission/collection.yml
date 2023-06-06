@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Contact Us – Admission Enquiries.md
       - School Fees.md
       - DSA–Secondary/Criteria.md
       - DSA–Secondary/How To Apply.md
