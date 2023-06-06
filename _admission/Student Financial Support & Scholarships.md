@@ -114,5 +114,52 @@ Successful recipients will be notified by the School.
 				<li>Decisions by the SOTA Bursary and Scholarship Committee are final.</li>
 			</ol>
     </div>
+	</li>
+	<li>
+    <input id="accordion4" type="checkbox">
+	<label for="accordion4"><h2>Other Financial Support Schemes</h2><br><br>by Self-Help Groups and other organisations.</label>
+    <div>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-i022{background-color:#DDD;color:#222;text-align:left;vertical-align:top}
+.tg .tg-1qpi{background-color:#CCC;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1qpi"><span style="font-weight:bold;background-color:#CCC">Type of Funding</span></th>
+    <th class="tg-1qpi"><span style="font-weight:bold;background-color:#CCC">Description</span></th>
+    <th class="tg-1qpi"><span style="font-weight:bold;background-color:#CCC">Eligible to</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-tsok">Chinese Development Assistance Council (CDAC)</td>
+    <td class="tg-tsok">The CDAC-SFCCA Bursary aims to help needy students to cope with schooling expenses. Click <a rel="noopener noreferrer" target="_blank" href="https://www.cdac.org.sg/get-assistance"><span style="text-decoration:none;color:#C74600;background-color:transparent">here</span></a> for more information.<br><br>The Youth Empowerment and Aspiration Programme (YEAP) supports less privileged full-time post-secondary students, not only in their educational expenses through the YEAP Grant but also encourages them to pursue their passion, provides them with exposure to real work environment, and develops their life skills through YEAP Inspire. <br>Click <a rel="noopener noreferrer" target="_blank" href="https://www.cdac.org.sg/developing-students/youth-programmes/yeap"><span style="text-decoration:none;color:#C74600;background-color:transparent">here</span></a> for more information.</td>
+    <td class="tg-tsok">Chinese Singapore Citizen and Singapore Permanent Resident students</td>
+  </tr>
+  <tr>
+    <td class="tg-i022"><span style="background-color:#DDD">Singapore Indian Development Association (SINDA)</span></td>
+    <td class="tg-i022"><span style="background-color:#DDD">SINDA Bursary supports low-income and deserving families with education-related financial assistance. Click</span> <a href="https://www.sinda.org.sg/financial_assistance/sinda-bursary"><span style="text-decoration:none;color:#C74600;background-color:transparent">here</span></a> <span style="background-color:#DDD">for more information.</span></td>
+    <td class="tg-i022"><span style="background-color:#DDD">Indian Singapore Citizen and Singapore Permanent Resident students</span></td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">The Eurasian Association, Singapore (EA)</td>
+    <td class="tg-tsok">EA Education Schemes render financial assistance to students from lower-income families. Click <a href="https://www.eurasians.sg/bursaries-scholarships"><span style="text-decoration:none;color:#C74600;background-color:transparent">here</span></a> for more information.</td>
+    <td class="tg-tsok">Eurasian Singapore Citizen students</td>
+  </tr>
+  <tr>
+    <td class="tg-i022"><span style="background-color:#DDD">The Straits Times School Pocket Money Fund (STSPMF)</span></td>
+    <td class="tg-i022"><span style="background-color:#DDD">STSPMF provides pocket money to children from low-income families to help them through school. Click</span> <a href="https://www.spmf.org.sg/"><span style="text-decoration:none;color:#C74600;background-color:transparent">here</span></a> <span style="background-color:#DDD">for more information.</span></td>
+    <td class="tg-i022"><span style="background-color:#DDD">Singapore Citizen and Singapore Permanent Resident students. </span><br><span style="background-color:#DDD">By school's nomination only</span></td>
+  </tr>
+</tbody>
+</table></p>
+    </div>
 	</li>  
 </ul>
