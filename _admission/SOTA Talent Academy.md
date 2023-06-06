@@ -3,7 +3,7 @@ title: SOTA Talent Academy
 permalink: /admissions/talent-academy/
 description: ""
 ---
-# We are experiencing a high volume of calls during this period. You are strongly encouraged to check the respective categories' "How to Apply" and "Eligibility Criteria" tabs to learn more about their respective admission and application process. For further clarifications, please fill out the Admission Enquiry Form [here](https://docs.google.com/forms/d/e/1FAIpQLSdtZjhT2ieKmE3IkaWDHaZyQ5IkfzYTyhjLDlmWDtfrCLkrOg/viewform)
+**We are experiencing a high volume of calls during this period. You are strongly encouraged to check the respective categories' "How to Apply" and "Eligibility Criteria" tabs to learn more about their respective admission and application process. For further clarifications, please fill out the Admission Enquiry Form [here](https://docs.google.com/forms/d/e/1FAIpQLSdtZjhT2ieKmE3IkaWDHaZyQ5IkfzYTyhjLDlmWDtfrCLkrOg/viewform)**
 
 
 <ul class="jekyllcodex_accordion">
