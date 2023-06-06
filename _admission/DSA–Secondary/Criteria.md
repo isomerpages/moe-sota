@@ -324,4 +324,80 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
 </ul>
     </div>
 	</li>  
+	<li>
+    <input id="accordion30" type="checkbox">
+    <label for="accordion30">4. What are the circumstances for available vacancies to happen?</label>
+    <div>
+			<p>Available vacancies may happen if a Confirmed Offer student:</p>
+      <ul>
+	<li>did not exercise their offer from SOTA during the Exercise School Preference Stage, or</li>
+	<li>is ineligible for the Express stream</li>
+</ul>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion31" type="checkbox">
+    <label for="accordion31">5. How do you determine which wait listed student to give the available vacancy to?</label>
+    <div>
+			<p>Pupils on the Wait List are ranked based on their overall performance across the assessed areas during the Talent Academy. For example, if there are 10 pupils on the wait list, they will be ranked from 1st to 10th. If there are 2 vacancies available, the pupils ranked 1st and 2nd will be posted to SOTA, provided that they meet the eligibility criteria and indicated SOTA as their first choice.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion32" type="checkbox">
+    <label for="accordion32">6. When will I find out if I have been posted to SOTA?</label>
+    <div>
+			<p>You will receive your school posting result on the same day as the release of the PSLE result. Please refer to the DSA-Sec How To Apply tab for more information on application process and the timeline to take note of.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion33" type="checkbox">
+    <label for="accordion33">7. What happens if I did not get posted to SOTA?</label>
+    <div>
+			<p>You will participate in the S1 Posting Exercise for posting to other schools.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion34" type="checkbox">
+    <label for="accordion34">8. I attended the Talent Academy (TA) but missed part of the TA activities on my schedule. Will that affect my chances of being selected?</label>
+    <div>
+			<p>Yes. Absence during any part of the TA will disqualify the application. Shortlisted candidates must attend and complete all their scheduled activities. There will not be any make-up auditions.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion35" type="checkbox">
+    <label for="accordion35">9. I attended the Talent Academy (TA) but was not offered. Can I know why?</label>
+    <div>
+			<p>We understand your request for feedback in order to help you improve in your artistic journey. The school maintains strict confidentiality about the audition procedures and criteria for the Talent Academy, to ensure and maintain the authenticity of performances and portfolios at future auditions. As such, we regret that we are unable to share any feedback.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion36" type="checkbox">
+    <label for="accordion36">10. I attended the TA but was not offered. Can I request to be re-assessed?</label>
+    <div>
+			<p>Regrettably, no. The school evaluates the candidate's artistic talent and potential based on the admission criteria and a rigorous assessment process during the Talent Academy (TA). Candidates are assessed via solo auditions or portfolio presentations depending on the art form, as well as group activities, exercises and interviews. Admission to the school is highly competitive. As such, we are only able to offer candidates who have performed consistently well across the assessed areas. The school would have carefully reviewed each applicant’s TA assessment and therefore, the decision is final.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion37" type="checkbox">
+    <label for="accordion37">11. I have attended the TA but was not offered. Can I apply again after PSLE?</label>
+    <div>
+			<p>The School may conduct a Supplementary Intake Exercise (SIE) in November should there be available vacancies. Please check our website for details on the day of PSLE Results Release for updates.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion38" type="checkbox">
+    <label for="accordion38">12. I have attended the TA but was not offered. Can I apply again via the Supplementary Intake Exercise (SIE)?</label>
+    <div>
+			<p>The SIE may open if there are available vacancies post-PSLE.  <br><br>
+Pupils who have attended the TA (shortlisted) or applied (not shortlisted) via the DSA-Sec, may apply again via SIE.  <br><br>
+They are not eligible to apply if they have been successfully posted to a school via the DSA School Posting.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion39" type="checkbox">
+    <label for="accordion39">13. I attended the TA but was not offered. Can I re-apply again next year?</label>
+    <div>
+			<p>Yes, you may, subject to available vacancies. Please check the website in March the following year for the update.</p>
+    </div>
+	</li> 
 </ul>
