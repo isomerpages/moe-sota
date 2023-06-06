@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - SOTA Talent Academy.md
-      - DSA–Secondary/Contact Us.md
       - DSA–Secondary/.keep
-      - DSA–Secondary/Criteria.md
       - DSA–Secondary/How To Apply.md
+      - DSA–Secondary/Criteria.md
+      - DSA–Secondary/Contact Us.md
       - School Fees.md
       - Contact Us – Admission Enquiries.md
       - Student Financial Support & Scholarships.md
