@@ -195,4 +195,11 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
       <p>No, your application to SOTA via the TA Portal is not counted as part of your three (3) choice limit for DSA applications submitted through MOE DSA Portal.</p>
     </div>
 	</li> 
+	<li>
+    <input id="accordion18" type="checkbox">
+    <label for="accordion18">6. I am not computer savvy and I don't know how to apply via the TA Portal. Can I come down to SOTA to seek assistance?</label>
+    <div>
+      <p>We regret that we are unable to provide in-person support. Please email us at sa@sota.edu.sg for technical support.</p>
+    </div>
+	</li> 
 </ul>
