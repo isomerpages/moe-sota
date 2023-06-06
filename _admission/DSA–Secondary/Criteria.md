@@ -218,7 +218,7 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
 	</li> 
 	<li>
     <input id="accordion21" type="checkbox">
-    <label for="accordion21">10. How do I convert, compress or merge documents to PDF?</label>
+    <label for="accordion21">9. How do I convert, compress or merge documents to PDF?</label>
     <div>
       <p>There are many free online websites you can use. Below are a few suggestions. Please note that SOTA is not affiliated to any of these sites. The links below will bring you to an external website not hosted by SOTA.
 </p>
@@ -230,8 +230,12 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
 			</ul>
     </div>
 	</li> 
+	<li>
+    <input id="accordion22" type="checkbox">
+    <label for="accordion22">10. I would like to apply for DSA-Sec but I am not available on the days of the Talent Academy (TA), can I be auditioned on a different date?<br><br>11. Can I choose the TA dates if I am shortlisted?</label>
+    <div>
+      <p>No. All auditions, assessments, and interviews must be done during the TA dates indicated. All TA schedules will be arranged by SOTA and no change of dates is allowed. Please refer to the DSA-Sec How To Apply tab for more information on the application process and the timeline to take note of. We regret that due to the nature of the audition activities, no auditions will take place outside of the TA window.</p>
+    </div>
+	</li> 
 </ul>
-
-
-
 
