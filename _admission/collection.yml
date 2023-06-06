@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - DSA–Secondary/How To Apply.md
       - DSA–Secondary/.keep
       - SOTA Talent Academy.md
