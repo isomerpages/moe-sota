@@ -180,5 +180,19 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
 				<li>Please refer to the DSA-Sec How To Apply&nbsp;tab for more information on application process and the timeline to take note of.</li>
 			</ul>
     </div>
-	</li>  
+	</li> 
+	<li>
+    <input id="accordion16" type="checkbox">
+    <label for="accordion16">4. Do I have to submit an application via MOE DSA-Sec Portal?</label>
+    <div>
+      <p>No, you are not required to submit an application via MOE DSA-Sec Portal. Students interested to apply to SOTA will continue to apply directly to SOTA via the TA Portal because of our unique admission requirements.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion17" type="checkbox">
+    <label for="accordion17">5. Does my application to SOTA counts towards the total number of DSA applications submitted through MOE DSA Portal?</label>
+    <div>
+      <p>No, your application to SOTA via the TA Portal is not counted as part of your three (3) choice limit for DSA applications submitted through MOE DSA Portal.</p>
+    </div>
+	</li> 
 </ul>
