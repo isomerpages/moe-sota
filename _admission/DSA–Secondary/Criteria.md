@@ -140,9 +140,24 @@ What are the eligibility criteria for successful admission to SOTA?</label>
     <input id="accordion12" type="checkbox">
     <label for="accordion12">3. Can I apply to more than one (1) instrument for Music?</label>
     <div>
-      <p>No. You may only apply for <b>ONE (1) instrument (including ‘voice’) and to ONE (1) Music track only.</b></p><b>
-    </b></div><b>
-	</b></li><b>  
-</b></ul><b>
+			<p>No. You may only apply for <b>ONE (1)</b> instrument (including ‘voice’) and to <b>ONE (1) Music</b> track only.</p>
+		</div>
+	</li>
+	<li>
+    <input id="accordion13" type="checkbox">
+    <label for="accordion13">4. 
+Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
+    <div>
+			<p>You may apply to <b>ONE (1)</b> track only. Based on the Music Faculty’s assessment of the portfolio submitted, you may be shortlisted to audition for the other track instead, if you are found to be more suitable for that.</p>
+		</div>
+	</li>
+	<li>
+    <input id="accordion14" type="checkbox">
+    <label for="accordion14">5. What is the difference between Music (Performing) and Music (Creating) tracks?
+</label>
+    <div>
+			<p>Learn more about the two tracks&nbsp;<a href="/curriculum/curriculum/arts/music">here</a></p>
+		</div>
+	</li>
+</ul>
 
-</b>
