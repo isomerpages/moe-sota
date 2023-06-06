@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Ad hoc Admission Exercise.md
       - DSA Secondary (Non MOE)/.keep
       - SOTA Talent Academy.md
       - DSA–Secondary/.keep
