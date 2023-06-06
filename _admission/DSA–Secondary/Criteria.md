@@ -118,3 +118,31 @@ What are the eligibility criteria for successful admission to SOTA?</label>
 </ul>
 
 ### Art Forms Offered
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion11" type="checkbox">
+    <label for="accordion11">1. What are the art forms that I can apply to? <br><br> 2. Can I apply to more than 1 art form?</label>
+    <div>
+      <p>The art forms available for admission to Year 1 are:</p>
+			<ul>
+				<li>Dance</li>
+				<li>Literary Arts</li>
+				<li>Music (Performing) or Music (Creating)</li>
+				<li>Theatre</li>
+				<li>Visual Arts</li>
+			</ul>
+			<p>Applicants may apply to up to <b>TWO (2)</b> art forms only.<br><br>
+				Applicants only need to submit <b>ONE (1)</b> application for BOTH art forms.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion12" type="checkbox">
+    <label for="accordion12">3. Can I apply to more than one (1) instrument for Music?</label>
+    <div>
+      <p>No. You may only apply for <b>ONE (1) instrument (including ‘voice’) and to ONE (1) Music track only.</b></p><b>
+    </b></div><b>
+	</b></li><b>  
+</b></ul><b>
+
+</b>
