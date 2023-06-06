@@ -239,3 +239,36 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
 	</li> 
 </ul>
 
+### Application Process - Shortlisting Phase
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion23" type="checkbox">
+    <label for="accordion23">1. I have submitted my application via the TA Portal. How do I find out the outcome of my application?<br><br>2. I have been shortlisted to attend the TA. How do I find out which days I have been scheduled to attend?</label>
+    <div>
+      <p>Log in to the TA Portal and:</p>
+			<ul>
+				<li>check the status of your shortlisting outcome, and</li>
+				<li>download your&nbsp;TA Schedule&nbsp;to find out the TA dates/days that you are allocated to. Do note that these may take place over multiple days.</li>
+				<li>check the ‘Announcement’ tab to learn more about your TA Schedule</li>
+				<li> If you are shortlisted for 1 art form you will need to complete the following:</li>
+				<ul>
+					<li>One artform audition/presentation and interview</li>
+					<li>Group activities</li>
+					<li>A panel interview</li>
+					<li>Online questionnaires</li>
+				</ul>
+				<li>If you are shortlisted for 2 art forms you will need to complete the following:</li>
+				<ul>
+				<li>Two art forms auditions/presentations and interviews</li>
+				<li>Group activities</li>
+				<li>A panel interview (same interview for both shortlisted artforms, only required to take this ONCE)</li>
+				<li>Online questionnaires (same questionnaires for both shortlisted artforms, only required to take this ONCE)</li>
+			</ul>
+			<li>Shortlisted applicants must complete all their scheduled activities in SOTA and within the stipulated time. Absence during any part of the TA will disqualify the application.</li>
+			</ul>
+    </div>
+	</li> 
+</ul>
+
+     
