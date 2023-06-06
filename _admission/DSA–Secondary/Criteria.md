@@ -313,8 +313,15 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
 </ul>
     </div>
 	</li>  
+	<li>
+    <input id="accordion29" type="checkbox">
+    <label for="accordion29">3. What does being on the Wait List mean?</label>
+    <div>
+			<p>A pupil on the Wait List may be allocated to SOTA if there are available vacancies, and, if he/she meets the following criteria:</p>
+      <ul>
+	<li>Indicated SOTA as first choice during the Exercise School Preference Stage</li>
+	<li>Be eligible for the Express stream (Scores 4 to 20) or the Express/Normal (A) Option (Scores 21 to 22)</li>
 </ul>
-
-
-
-   
+    </div>
+	</li>  
+</ul>
