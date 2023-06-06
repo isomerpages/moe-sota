@@ -106,6 +106,13 @@ TFSAA recipients are required to participate in at least one project benefiting 
 <br><br>
 Successful recipients will be notified by the School.
 </p>
+			<p><b>Terms and Conditions</b></p>
+			<ol>
+				<li>The TFSAA is applicable exclusively to the qualified recipients and is not transferable;</li>
+				<li>No bond is required from TFSAA recipients;</li>
+				<li>TFSAA recipients must accept and comply with all SOTA policies, by-laws, rules and regulations. Policies, by-laws, rules and regulations may be revised, amended or supplemented by SOTA at the School's absolute discretion from time to time;</li>
+				<li>Decisions by the SOTA Bursary and Scholarship Committee are final.</li>
+			</ol>
     </div>
 	</li>  
 </ul>
