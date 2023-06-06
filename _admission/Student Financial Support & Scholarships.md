@@ -230,3 +230,4 @@ Successful recipients will be notified by the School.
 	</li>  
 </ul>
 
+<small>Updated as of 31 January 2023</small>
