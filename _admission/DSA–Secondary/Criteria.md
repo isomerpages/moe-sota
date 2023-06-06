@@ -84,4 +84,39 @@ Can non-Singaporeans apply under the DSA-Sec category?</label>
 			</ul>
     </div>
 	</li> 
+	<li>
+    <input id="accordion8" type="checkbox">
+    <label for="accordion8">4. I am a Returning Singaporean / Returning Singapore Permanent-Resident. Can I apply via the DSA-Sec category?</label>
+    <div>
+			<ul>
+				<li>You are&nbsp;not&nbsp;eligible to apply via the DSA-Sec category as you will not be taking the PSLE.</li>
+				<li> If you are born in 2011 (12 years old) and will be completing Grade 6 by December 2023, you may apply via the DSA-Sec (Non-MOE) category. Learn more about the&nbsp;DSA-Sec (Non-MOE) Application Process</li>
+			</ul>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion9" type="checkbox">
+    <label for="accordion9">5. Must I have attended formal art lessons in order to apply? <br><br> 6. Must I have formal training and/or certification (ABRSM, RAD etc) in order to apply? </label>
+    <div>
+			<p>No, you are not required to have any formal training or certification in order to apply. For Music pupils, it is important that you are able to sight-read and sight-sing.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion10" type="checkbox">
+    <label for="accordion10">7. 
+What are the eligibility criteria for successful admission to SOTA?</label>
+    <div>
+			<p>To gain admission into SOTA via DSA-Sec, shortlisted applicants must satisfy the following criteria:</p>
+			<ol>
+				<li>Received either a Confirmed Offer or Wait List (subject to available vacancies) for their final TA outcome</li>
+				<li>Indicated SOTA during the School Preference Submission</li>
+				<li>Be eligible for Posting Group 3 (PSLE scores 4 to 22)</li>
+			</ol>
+			<p>If you satisfy criteria 1 and 2 and have received an ‘Posting Group 3 or Posting Group 2 Option’, you may be automatically assigned to Posting Group 3 and be posted to SOTA.</p>
+    </div>
+	</li> 
 </ul>
+
+
+
+
