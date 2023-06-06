@@ -170,10 +170,63 @@ Successful recipients will be notified by the School.
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">Simple</label>
+    <input id="accordion5" type="checkbox">
+	<label for="accordion5"><h2>SOTA Scholarship</h2><br><br>A host of scholarships is available every year for SOTA students with outstanding achievements in the artistic, academic and affective domains. Students who meet the scholarship criteria will be shortlisted for the scholarship. Application is not required.</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-i022{background-color:#DDD;color:#222;text-align:left;vertical-align:top}
+.tg .tg-1qpi{background-color:#CCC;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1qpi"><span style="font-weight:bold;background-color:#CCC">Type of Scholarship</span></th>
+    <th class="tg-1qpi"><span style="font-weight:bold;background-color:#CCC">Scholarship Quantum/Benefits*</span></th>
+    <th class="tg-1qpi"><span style="font-weight:bold;background-color:#CCC">Duration</span></th>
+    <th class="tg-1qpi"><span style="font-weight:bold;background-color:#CCC">Eligible to</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-tsok">SOTA–<a href="https://thengeeannkongsi.com.sg/en/"><span style="text-decoration:none;color:#C74600;background-color:transparent">Ngee Ann Kongsi</span></a> Scholarship</td>
+    <td class="tg-tsok">100% of school fees and miscellaneous fees<br>Annual allowance of $400 for Year 1 to 4 and $800 for Year 5 and 6</td>
+    <td class="tg-tsok">1 year</td>
+    <td class="tg-tsok">All students, regardless of nationality</td>
+  </tr>
+  <tr>
+    <td class="tg-i022"><span style="background-color:#DDD">Temasek Foundation Scholarship for Arts Education</span></td>
+    <td class="tg-i022">50%, 75% or 100% of school fees and miscellaneous fees, based on means testing of annual gross household income<br>Annual allowance of $400 for Year 1 to 4 and $800 for Year 5 and 6, regardless of the scholarship quantum</td>
+    <td class="tg-i022"><span style="background-color:#DDD">1 year</span></td>
+    <td class="tg-i022"><span style="background-color:#DDD">Students who are Singapore Citizens and Singapore Permanent Residents</span></td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">Temasek Foundation Scholarship for Young Artist</td>
+    <td class="tg-tsok">50%, 75% or 100% of school fees and miscellaneous fees, based on means testing of annual gross household income<br>Annual allowance of $400 for Year 4 and $800 for Year 5 and 6, regardless of the scholarship quantum</td>
+    <td class="tg-tsok">1 year</td>
+    <td class="tg-tsok">Students in Year 4, 5 and 6, who are Singapore Citizens and Singapore Permanent Residents</td>
+  </tr>
+</tbody>
+</table></p>
+		<p><i>* capped at rate for Singapore Citizen students; tenable at SOTA only</i></p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion6" type="checkbox">
+	<label for="accordion6"><h2>Ministry of Education (MOE) Scholarships</h2><br><br>The school also administers the following MOE scholarships.</label>
+    <div>
+      <p>Other than the SOTA scholarships, the school also administers the following MOE scholarships:</p>
+			<ul>
+				<li>Edusave Scholarships for Independent Schools (ESIS)</li>
+				<li>UPLIFT Scholarship Award</li>
+			</ul>
+			<p>Click&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships">here</a>&nbsp;for more information.</p>
     </div>
 	</li>  
 </ul>
+
