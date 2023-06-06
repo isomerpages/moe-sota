@@ -117,6 +117,4 @@ What are the eligibility criteria for successful admission to SOTA?</label>
 	</li> 
 </ul>
 
-
-
-
+### Art Forms Offered
