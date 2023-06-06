@@ -209,7 +209,29 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
       <p>You may refer to the&nbsp;<a href="https://support.google.com/youtube/answer/57407">YouTube Help page</a>&nbsp;for assistance.</p>
     </div>
 	</li> 
+	<li>
+    <input id="accordion20" type="checkbox">
+    <label for="accordion20">8. How do I upload videos and files to Google Drive?</label>
+    <div>
+      <p>You may refer to the&nbsp;<a href="https://support.google.com/drive/answer/2424368">Google Support page</a>&nbsp;for assistance.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion21" type="checkbox">
+    <label for="accordion21">10. How do I convert, compress or merge documents to PDF?</label>
+    <div>
+      <p>There are many free online websites you can use. Below are a few suggestions. Please note that SOTA is not affiliated to any of these sites. The links below will bring you to an external website not hosted by SOTA.
+</p>
+			<ul>
+				<li>Convert word document to PDF document <a href="https://www.freepdfconvert.com/">Link 1</a>&nbsp;or&nbsp;<a href="https://smallpdf.com/word-to-pdf)">Link 2</a></li>
+				<li>Compress / Resize PDF documents <a href="https://www.ilovepdf.com/compress_pdf)">Link 1</a></li>
+				<li>Merge individual pdf documents into 1 document <a href="https://www.ilovepdf.com/merge_pdf)">Link 1</a>
+</li>
+			</ul>
+    </div>
+	</li> 
 </ul>
+
 
 
 
