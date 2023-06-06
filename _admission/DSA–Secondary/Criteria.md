@@ -268,7 +268,26 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
 			<li>Shortlisted applicants must complete all their scheduled activities in SOTA and within the stipulated time. Absence during any part of the TA will disqualify the application.</li>
 			</ul>
     </div>
-	</li> 
+	</li>
+	<li>
+    <input id="accordion24" type="checkbox">
+    <label for="accordion24">3. I have downloaded my TA schedule and realised that I am not available on one of the dates allocated to me. Can I request for a change of date?</label>
+    <div>
+      <p>No. All TA schedules are arranged by SOTA and no change of dates is allowed. Please refer to the DSA-Sec How To Apply tab for more information on the application process and the timeline to take note of.</p>
+    </div>
+	</li>
+	<li>
+    <input id="accordion25" type="checkbox">
+    <label for="accordion25">4. I have applied for Music (Performing) but was shortlisted for Music (Creating) instead. Can I appeal to be offered Music (Performing)?</label>
+    <div>
+      <p>SOTA would have carefully considered each application, and as such, the decision is final.</p>
+    </div>
+	</li>
+	<li>
+    <input id="accordion26" type="checkbox">
+    <label for="accordion26">5. I applied for the Talent Academy (TA) but was not shortlisted. Can I appeal?<br><br>6. I applied for the Talent Academy (TA) but was not shortlisted. Can I know why?</label>
+    <div>
+      <p>All applications are carefully reviewed and considered by the selection panel according to a rigorous process. As such, the decision of the selection panel is final. The school reserves the right not to release the results and/or the reasons for non-selection of applicants. To ensure the continued rigour of the selection process, we regret that we are not able to provide any feedback.</p>
+    </div>
+	</li>
 </ul>
-
-     
