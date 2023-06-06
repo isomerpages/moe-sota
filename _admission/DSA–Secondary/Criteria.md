@@ -55,8 +55,8 @@ The School may conduct a Supplementary Intake Exercise (SIE) in November post-PS
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">1. What are the eligibility criteria for application under the DSA-Sec category?
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">1. What are the eligibility criteria for application under the DSA-Sec category?
 </label>
     <div>
       <p>Applicants must meet the following:</p>
@@ -67,16 +67,16 @@ The School may conduct a Supplementary Intake Exercise (SIE) in November post-PS
     </div>
 	</li>  
 	<li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">2. 
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">2. 
 Can non-Singaporeans apply under the DSA-Sec category?</label>
     <div>
       <p>The application is open to Singaporeans, Singapore Permanent-Residents, and Foreigners who meet the eligibility criteria stated in the first question of this section.</p>
     </div>
 	</li> 
 	<li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">3. I am home-schooled, which category should I apply for admission to Year 1?</label>
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7">3. I am home-schooled, which category should I apply for admission to Year 1?</label>
     <div>
       <p>Please see the following:</p>
 			<ul>
