@@ -95,4 +95,17 @@ description: ""
       <p>Students who wish to apply for the SAF may obtain the SAF Application Form from the school's Administration Office.</p>
     </div>
 	</li>  
+	<li>
+    <input id="accordion3" type="checkbox">
+	<label for="accordion3"><h2>Temasek Foundation Study Award for Arts (TFSAA)</h2><br><br>Funded by the David Marshall Endowment, this award aims to facilitate access to the arts-enhanced education offered at SOTA by providing additional financial support for needy students.</label>
+    <div>
+      <p>The TFSAA helps to alleviate the cost of an education in SOTA and comes with a monthly allowance of up to $300 for a fixed period of time during the academic year.<br><br>
+Only students who are Singapore citizens are eligible for the TFSAA.<br><br>
+Students need not apply for the TFSAA which is considered concurrently with the evaluation of bursary or scholarship awards offered by the School. Eligible students are awarded the TFSAA in addition to their bursary or scholarship.<br><br>
+TFSAA recipients are required to participate in at least one project benefiting the community during the academic year in which they are awarded the TFSAA.
+<br><br>
+Successful recipients will be notified by the School.
+</p>
+    </div>
+	</li>  
 </ul>
