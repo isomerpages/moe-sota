@@ -168,7 +168,23 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
     <input id="accordion15" type="checkbox">
     <label for="accordion15">1. How do I apply and submit my application?<br><br>2. Do I have to submit any portfolio relevant to the art form that I wish to apply to?<br><br>3. Do I have to submit any supporting documents?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <ul>
+				<li>Application is done online via SOTA’s TA Portal. You will need to register for an account before you can log in to complete the application form.</li>
+				<li>You must download the&nbsp;<a href="/admissions/talent-academy/preparation-notes-checklists">Preparation Notes and Checklist</a>&nbsp;relevant to the art form that you are applying for to find out what you need to prepare for your portfolio submission, as well as the supporting documents required for submission.</li>
+				<li>If you are applying to TWO (2) art forms, you only need to submit ONE (1) application. Choose the 2 art forms when prompted. You will&nbsp;<b>not</b>&nbsp;be able to go back and amend your choices once you have confirmed your selection(s).</li>
+				<li>You will&nbsp;<b>not</b>&nbsp;be able to apply for a second art form if you have already chosen and confirmed an art form or have submitted an application for the first art form.</li>
+				<li></li>
+			</ul>
     </div>
 	</li>  
 </ul>
+
+
+*   
+*   
+*   
+*   You will&nbsp;**not**&nbsp;be able to cancel/withdraw your application once you have confirmed your selections.
+*   It takes about 45 minutes to 1 hour to complete the entire application for one art form, provided that the portfolio submission and all supporting documents have been prepared in advance.
+*   Applicants are advised to submit their applications early, as the TA Portal may experience slower connectivity due to high traffic towards the close of the application period.
+*   Incomplete applications will be disqualified. Appeals for late submissions will not be considered.
+*   Please refer to the DSA-Sec&nbsp;How To Apply&nbsp;tab for more information on application process and the timeline to take note of.
