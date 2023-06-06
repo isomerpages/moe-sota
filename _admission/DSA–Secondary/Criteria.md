@@ -177,9 +177,8 @@ Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
 				<li>It takes about 45 minutes to 1 hour to complete the entire application for one art form, provided that the portfolio submission and all supporting documents have been prepared in advance.</li>
 				<li>Applicants are advised to submit their applications early, as the TA Portal may experience slower connectivity due to high traffic towards the close of the application period.</li>
 				<li> Incomplete applications will be disqualified. Appeals for late submissions will not be considered.</li>
-				<li>Please refer to the DSA-Sec&nbsp;How To Apply&nbsp;tab for more information on application process and the timeline to take note of.</li>
+				<li>Please refer to the DSA-Sec How To Apply&nbsp;tab for more information on application process and the timeline to take note of.</li>
 			</ul>
     </div>
 	</li>  
 </ul>
-
