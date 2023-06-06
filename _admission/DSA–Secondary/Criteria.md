@@ -66,4 +66,22 @@ The School may conduct a Supplementary Intake Exercise (SIE) in November post-PS
 			</ul>
     </div>
 	</li>  
+	<li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">2. 
+Can non-Singaporeans apply under the DSA-Sec category?</label>
+    <div>
+      <p>The application is open to Singaporeans, Singapore Permanent-Residents, and Foreigners who meet the eligibility criteria stated in the first question of this section.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">3. I am home-schooled, which category should I apply for admission to Year 1?</label>
+    <div>
+      <p>Please see the following:</p>
+			<ul>
+				<li>Home-schooled in Singapore and taking the PSLE in 2023: DSA-Secondary (Non-MOE)</li>
+			</ul>
+    </div>
+	</li> 
 </ul>
