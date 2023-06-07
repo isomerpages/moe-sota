@@ -77,33 +77,33 @@ International students applying for admission to SOTA do not need to sit for the
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion5" type="checkbox">
-    <label for="accordion5">1. What are the eligibility criteria for application under the DSA-Sec category?
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7">1. What are the eligibility criteria for application under the DSA-Sec(Non MOE) category?
 </label>
     <div>
       <p>Applicants must meet the following:</p>
 			<ul>
 				<li>At least 12 years old (born in 2011), and</li>
 				<li>Primary 6 pupils studying in a local MOE mainstream school and taking the Primary School Leaving Examination (PSLE) in 2023, or</li>
+				<li>Not studying in a MOE mainstream school, or</li>
+				<li>Primary 6 homeschooled student residing in Singapore and taking the Primary School Leaving Examination (PSLE) in 2023</li>
+				<p>Interested applicants should only submit their applications if they are able to start school in the new academic year (January).</p>
 			</ul>
     </div>
 	</li>  
 	<li>
-    <input id="accordion6" type="checkbox">
-    <label for="accordion6">2. 
-Can non-Singaporeans apply under the DSA-Sec category?</label>
+    <input id="accordion8" type="checkbox">
+    <label for="accordion8">2. 
+Can non-Singaporeans apply under the DSA-Sec(Non MOE) category?</label>
     <div>
-      <p>The application is open to Singaporeans, Singapore Permanent-Residents, and Foreigners who meet the eligibility criteria stated in the first question of this section.</p>
+      <p>The application is open to Singaporeans, Singapore Permanent-Residents, Returning Singaporeans, Returning Singapore Permanent-Residents, and Foreigners who meet the eligibility criteria stated in the first question of this section.</p>
     </div>
 	</li> 
 	<li>
-    <input id="accordion7" type="checkbox">
-    <label for="accordion7">3. I am home-schooled, which category should I apply for admission to Year 1?</label>
+    <input id="accordion9" type="checkbox">
+    <label for="accordion9">3. I am currently studying in Grade 6 but am underage (born after 2011). Can I apply for TA in 2023?</label>
     <div>
-      <p>Please see the following:</p>
-			<ul>
-				<li>Home-schooled in Singapore and taking the PSLE in 2023: DSA-Secondary (Non-MOE)</li>
-			</ul>
+      <p>No. Applicants cannot be underage. Singapore’s minimum age requirement for entry to Year/Secondary 1 is that students turn 13 years old in 2024.</p>
     </div>
 	</li> 
 	<li>
