@@ -185,48 +185,34 @@ What are the eligibility criteria for successful admission to SOTA via DSA-JC</l
 				<li>It takes about 45 minutes to 1 hour to complete the entire application for one art form, provided that the portfolio submission and all supporting documents have been prepared in advance.</li>
 				<li>Applicants are advised to submit their applications early, as the TA Portal may experience slower connectivity due to high traffic towards the close of the application period.</li>
 				<li> Incomplete applications will be disqualified. Appeals for late submissions will not be considered.</li>
-				<li>Please refer to the DSA-Sec How To Apply&nbsp;tab for more information on application process and the timeline to take note of.</li>
+				<li>Please refer to the DSA-JC How To Apply&nbsp;tab for more information on application process and the timeline to take note of.</li>
 			</ul>
     </div>
-	</li> 
+	</li>  
 	<li>
     <input id="accordion16" type="checkbox">
-    <label for="accordion16">4. Do I have to submit an application via MOE DSA-Sec Portal?</label>
-    <div>
-      <p>No, you are not required to submit an application via MOE DSA-Sec Portal. Students interested to apply to SOTA will continue to apply directly to SOTA via the TA Portal because of our unique admission requirements.</p>
-    </div>
-	</li> 
-	<li>
-    <input id="accordion17" type="checkbox">
-    <label for="accordion17">5. Does my application to SOTA counts towards the total number of DSA applications submitted through MOE DSA Portal?</label>
-    <div>
-      <p>No, your application to SOTA via the TA Portal is not counted as part of your three (3) choice limit for DSA applications submitted through MOE DSA Portal.</p>
-    </div>
-	</li> 
-	<li>
-    <input id="accordion18" type="checkbox">
-    <label for="accordion18">6. I am not computer savvy and I don't know how to apply via the TA Portal. Can I come down to SOTA to seek assistance?</label>
+    <label for="accordion16">4. I am not computer savvy and I don't know how to apply via the TA Portal. Can I come down to SOTA to seek assistance?</label>
     <div>
       <p>We regret that we are unable to provide in-person support. Please email us at sa@sota.edu.sg for technical support.</p>
     </div>
 	</li> 
 	<li>
-    <input id="accordion19" type="checkbox">
-    <label for="accordion19">7. How do I upload videos to Youtube?</label>
+    <input id="accordion17" type="checkbox">
+    <label for="accordion17">5. How do I upload videos to Youtube?</label>
     <div>
       <p>You may refer to the&nbsp;<a href="https://support.google.com/youtube/answer/57407">YouTube Help page</a>&nbsp;for assistance.</p>
     </div>
 	</li> 
 	<li>
-    <input id="accordion20" type="checkbox">
-    <label for="accordion20">8. How do I upload videos and files to Google Drive?</label>
+    <input id="accordion18" type="checkbox">
+    <label for="accordion18">6. How do I upload videos and files to Google Drive?</label>
     <div>
       <p>You may refer to the&nbsp;<a href="https://support.google.com/drive/answer/2424368">Google Support page</a>&nbsp;for assistance.</p>
     </div>
 	</li> 
 	<li>
-    <input id="accordion21" type="checkbox">
-    <label for="accordion21">9. How do I convert, compress or merge documents to PDF?</label>
+    <input id="accordion19" type="checkbox">
+    <label for="accordion19">7. How do I convert, compress or merge documents to PDF?</label>
     <div>
       <p>There are many free online websites you can use. Below are a few suggestions. Please note that SOTA is not affiliated to any of these sites. The links below will bring you to an external website not hosted by SOTA.
 </p>
@@ -239,10 +225,10 @@ What are the eligibility criteria for successful admission to SOTA via DSA-JC</l
     </div>
 	</li> 
 	<li>
-    <input id="accordion22" type="checkbox">
-    <label for="accordion22">10. I would like to apply for DSA-Sec but I am not available on the days of the Talent Academy (TA), can I be auditioned on a different date?<br><br>11. Can I choose the TA dates if I am shortlisted?</label>
+    <input id="accordion20" type="checkbox">
+    <label for="accordion20">8. I would like to apply for DSA-JC but I am not available on the days of the Talent Academy (TA), can I be auditioned on a different date?<br><br>9. Can I choose the TA dates if I am shortlisted?</label>
     <div>
-      <p>No. All auditions, assessments, and interviews must be done during the TA dates indicated. All TA schedules will be arranged by SOTA and no change of dates is allowed. Please refer to the DSA-Sec How To Apply tab for more information on the application process and the timeline to take note of. We regret that due to the nature of the audition activities, no auditions will take place outside of the TA window.</p>
+      <p>No. All auditions, assessments, and interviews must be done during the TA dates indicated. All TA schedules will be arranged by SOTA and no change of dates is allowed. Please refer to the DSA-JC How To Apply tab for more information on the application process and the timeline to take note of. We regret that due to the nature of the audition activities, no auditions will take place outside of the TA window.</p>
     </div>
 	</li> 
 </ul>
