@@ -43,13 +43,22 @@ SOTA may conduct the Supplementary Intake Exercise (SIE) annually in November. T
 	<li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4">
-4. I have missed the DSA-Sec application in April to May. Are there any other admission exercises for Year 1 intake for the coming Academic Year?</label>
+4. I have missed the DSA-JC application period. Are there any other admission exercises for Year 5 intake for the next Academic Year?</label>
     <div>
-			<p>No, there isn’t. SOTA admits 100% of its Year 1 cohort through the DSA exercise and does not participate in the S1 Posting exercise post-PSLE.<br><br>
-The School may conduct a Supplementary Intake Exercise (SIE) in November post-PSLE subject to available vacancies.</p>
+			<p>No, there isn’t. For Sec 4 Express and Sec 5 Normal Academic pupils studying in a local MOE mainstream secondary school and taking the GCE ‘O’ Level examinations in 2023, application to SOTA is only available through the DSA-JC exercise. No application is available post-‘O’ Levels.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">
+5. What are the IBDP and IBCP tracks?</label>
+    <div>
+			<p>Applicants applying to Year 5 may apply for either the International Baccalaureate Diploma Programme (IBDP) or the IB Career-related Programme (IBCP). Learn more about the programmes here:&nbsp;<a href="/why-sota/ibdp">IBDP</a> | <a href="/why-sota/ibcp">IBCP</a></p>
     </div>
 	</li>  
 </ul>
+
+
 
 ### Eligibility Criteria
 
