@@ -161,8 +161,8 @@ I have completed Grade 7; can I apply for admission to Year 1 for TA 2023?</labe
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion11" type="checkbox">
-    <label for="accordion11">1. What are the art forms that I can apply to? <br><br> 2. Can I apply to more than 1 art form?</label>
+    <input id="accordion16" type="checkbox">
+    <label for="accordion16">1. What are the art forms that I can apply to? <br><br> 2. Can I apply to more than 1 art form?</label>
     <div>
       <p>The art forms available for admission to Year 1 are:</p>
 			<ul>
@@ -177,23 +177,23 @@ I have completed Grade 7; can I apply for admission to Year 1 for TA 2023?</labe
     </div>
 	</li>  
 	<li>
-    <input id="accordion12" type="checkbox">
-    <label for="accordion12">3. Can I apply to more than one (1) instrument for Music?</label>
+    <input id="accordion17" type="checkbox">
+    <label for="accordion17">3. Can I apply to more than one (1) instrument for Music?</label>
     <div>
 			<p>No. You may only apply for <b>ONE (1)</b> instrument (including ‘voice’) and to <b>ONE (1) Music</b> track only.</p>
 		</div>
 	</li>
 	<li>
-    <input id="accordion13" type="checkbox">
-    <label for="accordion13">4. 
+    <input id="accordion18" type="checkbox">
+    <label for="accordion18">4. 
 Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
     <div>
 			<p>You may apply to <b>ONE (1)</b> track only. Based on the Music Faculty’s assessment of the portfolio submitted, you may be shortlisted to audition for the other track instead, if you are found to be more suitable for that.</p>
 		</div>
 	</li>
 	<li>
-    <input id="accordion14" type="checkbox">
-    <label for="accordion14">5. What is the difference between Music (Performing) and Music (Creating) tracks?
+    <input id="accordion19" type="checkbox">
+    <label for="accordion19">5. What is the difference between Music (Performing) and Music (Creating) tracks?
 </label>
     <div>
 			<p>Learn more about the two tracks&nbsp;<a href="/curriculum/curriculum/arts/music">here</a></p>
