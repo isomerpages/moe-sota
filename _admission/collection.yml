@@ -2,10 +2,10 @@ collections:
   admission:
     output: true
     order:
-      - Non DSA/Contact Us.md
-      - Non DSA/Criteria.md
-      - Non DSA/How To Apply.md
       - Non DSA/.keep
+      - Non DSA/How To Apply.md
+      - Non DSA/Criteria.md
+      - Non DSA/Contact Us.md
       - SOTA Talent Academy.md
       - DSA–Secondary/.keep
       - DSA–Secondary/How To Apply.md
