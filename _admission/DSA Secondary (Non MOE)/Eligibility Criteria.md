@@ -39,21 +39,39 @@ International students applying for admission to SOTA do not need to sit for the
 	<li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3">
-3. Is there a Talent Academy (TA) registration and/or entrance test fee applicable?</label>
+6. Is there a Talent Academy (TA) registration and/or entrance test fee applicable?</label>
     <div>
-			<p>There is no TA Registration Fee applicable.</p>
+			<p>There is no TA Registration Fee. There is an Entrance Test fee of S$30.00 payable by shortlisted DSA-Sec (Non-MOE) applicants.</p>
     </div>
 	</li>  
 	<li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4">
-4. I have missed the DSA-Sec application in April to May. Are there any other admission exercises for Year 1 intake for the coming Academic Year?</label>
+7. I am not familiar with the local MOE Primary 6 level English and Mathematics. How do I prepare myself for the tests?</label>
     <div>
-			<p>No, there isn’t. SOTA admits 100% of its Year 1 cohort through the DSA exercise and does not participate in the S1 Posting exercise post-PSLE.<br><br>
-The School may conduct a Supplementary Intake Exercise (SIE) in November post-PSLE subject to available vacancies.</p>
+			<p>Applicants may refer to the Primary 6 or PSLE assessment resources. Download the&nbsp;<a href="/admissions/talent-academy/preparation-notes-checklists">Preparation Notes and Checklist</a>&nbsp;to learn more.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">
+8. I have missed the DSA-Sec (Non-MOE) application period. Are there any other admission exercises for Year 1 intake for the next Academic Year?</label>
+    <div>
+			<p>No, there isn’t. SOTA admits 100% of its Year 1 cohort through the DSA exercise. As such, there is no other admission exercise for Year 1 intake for Academic Year 2023 other than the DSA exercise.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">
+9.I have missed the DSA-Sec (Non-MOE) application period. Can I apply via the Supplementary Intake Exercise (SIE)?</label>
+    <div>
+			<p>No. The school may conduct the SIE if there are available vacancies. The application is only open to students who have taken the PSLE in the current academic year at the local MOE mainstream schools.</p>
     </div>
 	</li>  
 </ul>
+
+
+
 
 ### Eligibility Criteria
 
