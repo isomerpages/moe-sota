@@ -20,15 +20,17 @@ SOTA may conduct the Supplementary Intake Exercise (SIE) annually in November. T
 	<li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">
-2. What does the Talent Academy (TA) comprise?
+2. What does the Talent Academy (TA) comprise?<br><br><br>3. Do I have to take any entrance tests for my admission to SOTA?<br><br>4. Do I have to take the Ministry of Education (MOE)’s SPERS test for my admission to SOTA?<br><br>5. Do I have to take the Ministry of Education (MOE)’s AEIS test for my admission to SOTA?
 </label>
     <div>
-      <p>All shortlisted DSA-Sec applicants must complete all TA activities within the stipulated time. TA activities include the following:</p>
+      <p>All shortlisted DSA-Sec (Non-MOE) applicants must complete all TA activities within the stipulated time. TA activities include the following:</p>
 			<ul>
 				<li>Individual audition/portfolio presentation and interview</li>
 				<li>Group activities</li>
 				<li>Panel interview</li>
 				<li>Online questionnaires</li>
+				<li>Entrance Tests for English and Mathematics set at the local MOE Primary 6 level</li>
+				<li>A tests fee of $30.00 is applicable for the entrance tests</li>
 			</ul>
     </div>
 	</li>  
