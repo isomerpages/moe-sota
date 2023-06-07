@@ -64,8 +64,8 @@ SOTA may conduct the Supplementary Intake Exercise (SIE) annually in November. T
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion" type="checkbox">
-    <label for="accordion5">1. What are the eligibility criteria for application under the DSA-JC category?
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">1. What are the eligibility criteria for application under the DSA-JC category?
 </label>
     <div>
       <p>Applicants must meet the following:</p>
@@ -78,16 +78,16 @@ SOTA may conduct the Supplementary Intake Exercise (SIE) annually in November. T
     </div>
 	</li>  
 	<li>
-    <input id="accordion6" type="checkbox">
-    <label for="accordion6">2. 
+    <input id="accordion7" type="checkbox">
+    <label for="accordion7">2. 
 Can non-Singaporeans apply under the DSA-JC category?</label>
     <div>
       <p>The application is open to Singaporeans, Singapore Permanent-Residents, and Foreigners who meet the eligibility criteria stated in the first question of this section.</p>
     </div>
 	</li> 
 	<li>
-    <input id="accordion7" type="checkbox">
-    <label for="accordion7">3. I am a Returning Singaporean / Returning Singapore Permanent-Resident. Can I apply via the DSA-JC exercise?</label>
+    <input id="accordion8" type="checkbox">
+    <label for="accordion8">3. I am a Returning Singaporean / Returning Singapore Permanent-Resident. Can I apply via the DSA-JC exercise?</label>
     <div>
 			<ul>
 				<li>You are not eligible to apply via the DSA-JC exercise as you will not be taking the local GCE ‘O’ Levels examinations.</li>
