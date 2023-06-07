@@ -32,6 +32,8 @@ SOTA may conduct the Supplementary Intake Exercise (SIE) annually in November. T
 				<li>Entrance Tests for English and Mathematics set at the local MOE Primary 6 level</li>
 				<li>A tests fee of $30.00 is applicable for the entrance tests</li>
 			</ul>
+			<p>Applicants are not required to take MOE’s SPERS test for admission to SOTA.<br><br>
+International students applying for admission to SOTA do not need to sit for the Admissions Exercise for International Students (AEIS)-Secondary test due to their specialized curriculum. However, applicants who are also applying to other mainstream schools in Singapore would need to take and pass the AEIS test before they can be considered for admission to secondary schools. Please refer to <a href="https://www.moe.gov.sg/international-students/aeis">https://www.moe.gov.sg/international-students/aeis</a>.</p>
     </div>
 	</li>  
 	<li>
