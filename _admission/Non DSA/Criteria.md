@@ -12,7 +12,7 @@ third_nav_title: Non DSA
     <label for="accordion1">1. 
 When does SOTA conduct its admission exercise?</label>
     <div>
-      <p>SOTA conducts ONE (1) Admission Exercise a year through the Talent Academy (TA). Please refer to the DSA-Sec How To Apply tab for more information on the application process and the timeline to take note of.<br><br>
+      <p>SOTA conducts ONE (1) Admission Exercise a year through the Talent Academy (TA). Please refer to the Non-DSA How To Apply tab for more information on the application process and the timeline to take note of.<br><br>
 Parents and pupils are encouraged to choose schools wisely based on the pupil’s aptitudes and strengths, bearing in mind SOTA's academic and non-academic requirements, and the programmes available to develop the area of talent.<br><br>
 SOTA may conduct the Supplementary Intake Exercise (SIE) annually in November. The SIE is subject to vacancies available on the day of release of PSLE results, and may open to selected art forms only.</p>
     </div>
@@ -20,36 +20,58 @@ SOTA may conduct the Supplementary Intake Exercise (SIE) annually in November. T
 	<li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">
-2. What does the Talent Academy (TA) comprise?
-</label>
+2. What does the Talent Academy (TA) comprise?<br><br>3. Do I have to take any entrance tests to apply to SOTA?<br><br>4.Do I have to take the Ministry of Education (MOE)'s AEIS or SPERS tests for my admission to SOTA?</label>
     <div>
-      <p>All shortlisted DSA-Sec applicants must complete all TA activities within the stipulated time. TA activities include the following:</p>
+      <p>All shortlisted non-DSA applicants must complete all TA activities within the stipulated time. TA activities will include the following:</p>
 			<ul>
 				<li>Individual audition/portfolio presentation and interview</li>
 				<li>Group activities</li>
 				<li>Panel interview</li>
 				<li>Online questionnaires</li>
+				<li>Entrance tests for English and Mathematics (IBCP track), set at Singapore-Cambridge GCE ‘O’ level, or</li>
+				<li>English, Mathematics and Science (Year 5 IBDP track) set at the local secondary express level or Singapore-Cambridge GCE ‘O’ level</li>
+				<li>An entrance test fee of S$30.00 (Year 5 IBCP), or</li>
+				<li>S$60.00 (Year 5 IBDP) is applicable</li>
 			</ul>
+			<p>Applicants are not required to take the AEIS or SPERS test for admission to SOTA.</p>
     </div>
 	</li>  
 	<li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3">
-3. Is there a Talent Academy (TA) registration and/or entrance test fee applicable?</label>
+5. Is there a Talent Academy (TA) registration and/or entrance test fee applicable?</label>
     <div>
-			<p>There is no TA Registration Fee applicable.</p>
+			<p>There is no TA Registration Fee applicable. There is an entrance test fee of S$30.00 or S$60.00 applicable for shortlisted Non-DSA Year 5 applicants.</p>
     </div>
 	</li>  
 	<li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4">
-4. I have missed the DSA-Sec application in April to May. Are there any other admission exercises for Year 1 intake for the coming Academic Year?</label>
+6. I am not familiar with the local MOE GCE ‘O’ level English, Mathematics and Science. How do I prepare myself for the tests?</label>
     <div>
-			<p>No, there isn’t. SOTA admits 100% of its Year 1 cohort through the DSA exercise and does not participate in the S1 Posting exercise post-PSLE.<br><br>
-The School may conduct a Supplementary Intake Exercise (SIE) in November post-PSLE subject to available vacancies.</p>
+			<p>Applicants may refer to the Secondary 4 Express or GCE ‘O’ level assessment books. Download the Preparation Notes and Checklist to learn more.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion5" type="checkbox">
+    <label for="accordion5">
+7. I have missed the Non-DSA application period Are there any other admission exercises for the next Academic Year?</label>
+    <div>
+			<p>No, there isn't. SOTA only runs ONE (1) Admission Exercise each year.</p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">
+8.  I am applying for admission to Year 5. What are the IBDP and IBCP tracks?</label>
+    <div>
+			<p>Applicants applying to Year 5 may apply for either the International Baccalaureate Diploma Programme (IBDP) or the IB Career-related Programme (IBCP). Learn more about the programmes here:&nbsp;<a href="/why-sota/ibdp">IBDP</a>&nbsp;|&nbsp;<a href="/why-sota/ibcp">IBCP</a></p>
     </div>
 	</li>  
 </ul>
+
+
+
 
 ### Eligibility Criteria
 
@@ -401,4 +423,3 @@ They are not eligible to apply if they have been successfully posted to a school
     </div>
 	</li> 
 </ul>
-
