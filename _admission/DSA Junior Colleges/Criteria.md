@@ -122,41 +122,49 @@ What are the eligibility criteria for successful admission to SOTA via DSA-JC</l
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion11" type="checkbox">
-    <label for="accordion11">1. What are the art forms that I can apply to? <br><br> 2. Can I apply to more than 1 art form?</label>
+    <label for="accordion11">1. What are the art forms that I can apply to?</label>
     <div>
-      <p>The art forms available for admission to Year 1 are:</p>
+      <p>The art forms available for admission to Year 5 are:</p>
+			<u>IBDP track</u>
 			<ul>
 				<li>Dance</li>
 				<li>Literary Arts</li>
-				<li>Music (Performing) or Music (Creating)</li>
+				<li>Film</li>
+				<li>Music (Performing)</li>
 				<li>Theatre</li>
 				<li>Visual Arts</li>
 			</ul>
-			<p>Applicants may apply to up to <b>TWO (2)</b> art forms only.<br><br>
-				Applicants only need to submit <b>ONE (1)</b> application for BOTH art forms.</p>
+			<u>IBCP track</u>
+			<ul>
+				<li>Dance</li>
+				<li>Music (Performance); or</li>
+				<li>Music (Composition)</li>
+				<li>Theatre</li>
+				<li>Visual Arts</li>
+			</ul>
+			<p>Applicants may apply to up to <b>TWO (2)</b> art forms only.<br>Applicants may apply for&nbsp;<b>ONE</b>&nbsp;(1) IB track only<br><br>Applicants only need to submit <b>ONE (1)</b> application for BOTH art forms.</p>
     </div>
 	</li>  
 	<li>
     <input id="accordion12" type="checkbox">
-    <label for="accordion12">3. Can I apply to more than one (1) instrument for Music?</label>
+    <label for="accordion12">2. Can I apply to more than 1 art form?</label>
     <div>
-			<p>No. You may only apply for <b>ONE (1)</b> instrument (including ‘voice’) and to <b>ONE (1) Music</b> track only.</p>
+			<p>Applicants may apply for up to <b>TWO</b> (2) art forms only.</p>
 		</div>
 	</li>
 	<li>
     <input id="accordion13" type="checkbox">
-    <label for="accordion13">4. 
-Can I apply to both Music (Performing) and Music (Creating) tracks?</label>
+    <label for="accordion13">3. Can I apply to both IB tracks?</label>
     <div>
-			<p>You may apply to <b>ONE (1)</b> track only. Based on the Music Faculty’s assessment of the portfolio submitted, you may be shortlisted to audition for the other track instead, if you are found to be more suitable for that.</p>
+			<p>No. Applicants may only apply to ONE (1) IB track only.</p>
 		</div>
 	</li>
 	<li>
     <input id="accordion14" type="checkbox">
-    <label for="accordion14">5. What is the difference between Music (Performing) and Music (Creating) tracks?
+    <label for="accordion14">4. Can I apply to more than one (1) instrument for Music?
 </label>
     <div>
-			<p>Learn more about the two tracks&nbsp;<a href="/curriculum/curriculum/arts/music">here</a></p>
+			<p>No. You may only apply for <b>ONE (1)</b> instrument (including ‘voice’).</p>
 		</div>
 	</li>
 </ul>
