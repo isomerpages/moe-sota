@@ -237,8 +237,8 @@ What are the eligibility criteria for successful admission to SOTA via DSA-JC</l
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion23" type="checkbox">
-    <label for="accordion23">1. I have submitted my application via the TA Portal. How do I find out the outcome of my application?<br><br>2. I have been shortlisted to attend the TA. How do I find out which days I have been scheduled to attend?</label>
+    <input id="accordion21" type="checkbox">
+    <label for="accordion21">1. I have submitted my application via the TA Portal. How do I find out the outcome of my application?<br><br>2. I have been shortlisted to attend the TA. How do I find out which days I have been scheduled to attend?</label>
     <div>
       <p>Log in to the TA Portal and:</p>
 			<ul>
@@ -247,7 +247,7 @@ What are the eligibility criteria for successful admission to SOTA via DSA-JC</l
 				<li>check the ‘Announcement’ tab to learn more about your TA Schedule</li>
 				<li> If you are shortlisted for 1 art form you will need to complete the following:</li>
 				<ul>
-					<li>One artform audition/presentation and interview</li>
+					<li>An art form audition or presentation and interview</li>
 					<li>Group activities</li>
 					<li>A panel interview</li>
 					<li>Online questionnaires</li>
@@ -264,22 +264,15 @@ What are the eligibility criteria for successful admission to SOTA via DSA-JC</l
     </div>
 	</li>
 	<li>
-    <input id="accordion24" type="checkbox">
-    <label for="accordion24">3. I have downloaded my TA schedule and realised that I am not available on one of the dates allocated to me. Can I request for a change of date?</label>
+    <input id="accordion22" type="checkbox">
+    <label for="accordion22">3. I have downloaded my TA schedule and realised that I am not available on one of the dates allocated to me. Can I request for a change of date?</label>
     <div>
-      <p>No. All TA schedules are arranged by SOTA and no change of dates is allowed. Please refer to the DSA-Sec How To Apply tab for more information on the application process and the timeline to take note of.</p>
+      <p>No. All TA schedules are arranged by SOTA and no change of dates is allowed. Please refer to the DSA-JC How To Apply tab for more information on the application process and the timeline to take note of.</p>
     </div>
 	</li>
 	<li>
-    <input id="accordion25" type="checkbox">
-    <label for="accordion25">4. I have applied for Music (Performing) but was shortlisted for Music (Creating) instead. Can I appeal to be offered Music (Performing)?</label>
-    <div>
-      <p>SOTA would have carefully considered each application, and as such, the decision is final.</p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion26" type="checkbox">
-    <label for="accordion26">5. I applied for the Talent Academy (TA) but was not shortlisted. Can I appeal?<br><br>6. I applied for the Talent Academy (TA) but was not shortlisted. Can I know why?</label>
+    <input id="accordion23" type="checkbox">
+    <label for="accordion23">4. I applied for the Talent Academy (TA) but was not shortlisted. Can I appeal?<br><br>5. I applied for the Talent Academy (TA) but was not shortlisted. Can I know why?</label>
     <div>
       <p>All applications are carefully reviewed and considered by the selection panel according to a rigorous process. As such, the decision of the selection panel is final. The school reserves the right not to release the results and/or the reasons for non-selection of applicants. To ensure the continued rigour of the selection process, we regret that we are not able to provide any feedback.</p>
     </div>
