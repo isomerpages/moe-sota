@@ -107,34 +107,52 @@ Can non-Singaporeans apply under the DSA-Sec(Non MOE) category?</label>
     </div>
 	</li> 
 	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">4. I am a Returning Singaporean / Returning Singapore Permanent-Resident. Can I apply via the DSA-Sec category?</label>
-    <div>
-			<ul>
-				<li>You are&nbsp;not&nbsp;eligible to apply via the DSA-Sec category as you will not be taking the PSLE.</li>
-				<li> If you are born in 2011 (12 years old) and will be completing Grade 6 by December 2023, you may apply via the DSA-Sec (Non-MOE) category. Learn more about the&nbsp;DSA-Sec (Non-MOE) Application Process</li>
-			</ul>
-    </div>
-	</li> 
-	<li>
-    <input id="accordion9" type="checkbox">
-    <label for="accordion9">5. Must I have attended formal art lessons in order to apply? <br><br> 6. Must I have formal training and/or certification (ABRSM, RAD etc) in order to apply? </label>
-    <div>
-			<p>No, you are not required to have any formal training or certification in order to apply. For Music pupils, it is important that you are able to sight-read and sight-sing.</p>
-    </div>
-	</li> 
-	<li>
     <input id="accordion10" type="checkbox">
-    <label for="accordion10">7. 
-What are the eligibility criteria for successful admission to SOTA?</label>
+    <label for="accordion10">4. I am 12 years old, born in 2011 but will only complete Grade 6 in 2024. Can I apply for TA in 2023 for admission to Year 1 in AY2024?</label>
     <div>
-			<p>To gain admission into SOTA via DSA-Sec, shortlisted applicants must satisfy the following criteria:</p>
+			<p>No. The entrance tests would consist Grade 6 topics, which you might not have covered yet. You would be at a disadvantage. You should apply for TA in 2024 for admission in AY2025 instead. Do note that you can only apply once.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion11" type="checkbox">
+    <label for="accordion11">5. I will start Grade 7 in mid-2023 and will complete in mid-2024. Can I apply for admission to Year 1 for TA 2023? <br><br> 6. I am currently studying in Grade 7 and will only complete in 2024. Can I apply for admission to Year 1 for TA 2023?</label>
+    <div>
+			<p>Yes, you can apply for Year 1 for TA 2023 provided that you meet the age eligibility criteria (at least 12 years old).</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion12" type="checkbox">
+    <label for="accordion12">7. 
+I have completed Grade 7; can I apply for admission to Year 1 for TA 2023?</label>
+    <div>
+			<p>Applicants aged 13 years and above and have completed Grade 7 may not apply for admission to Year 1 for TA 2023. You may only apply to the level that you will be starting or still studying in 2024, provided that you meet the age eligibility criteria for admission to the level you are seeking to apply to.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion13" type="checkbox">
+    <label for="accordion13">8. I am a Returning Singaporean / Returning Singapore Permanent-Resident. Can I apply via the DSA-Sec (Non-MOE) category?</label>
+    <div>
+			<p>If you are born in 2011 (12 years old) and will be completing Grade 6 by December 2023, you may apply via the DSA-Sec (Non-MOE) category. Learn more about the DSA-Sec (Non-MOE) Application Process</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion14" type="checkbox">
+    <label for="accordion14">9. Must I have attended formal art lessons in order to apply?<br><br>10. Must I have formal training and/or certification (ABRSM, RAD etc) in order to apply?</label>
+    <div>
+			<p>No, you are not required to have any formal training or certification in order to apply. For Music applicants, it is important that you are able to sight-read and sight-sing.</p>
+    </div>
+	</li> 
+	<li>
+    <input id="accordion15" type="checkbox">
+    <label for="accordion15">11. What are the eligibility criteria for successful admission to SOTA via the DSA-Sec (Non-MOE)?</label>
+    <div>
+			<p>To gain admission into SOTA via DSA-Sec (Non-MOE), shortlisted applicants must satisfy the following criteria:</p>
 			<ol>
-				<li>Received either a Confirmed Offer or Wait List (subject to available vacancies) for their final TA outcome</li>
-				<li>Indicated SOTA during the School Preference Submission</li>
-				<li>Be eligible for Posting Group 3 (PSLE scores 4 to 22)</li>
+				<li>Obtain a registration number (in the format of RGxxxxxxx) from the MOE. Please visit MOE’s website for more information.</li>
+				<li>Receive a Confirmed Offer or Wait List (subject to available vacancies) for the final outcome of their Talent Academy application.</li>
+				<li>Indicate SOTA during the School Preference Submission at MOE.</li>
+				<li>For Primary 6 homeschooled students residing in Singapore and taking the Primary School Leaving Examination (PSLE) in 2023 - be eligible for Posting Group 3 (PSLE Scores 4 to 22).</li>
 			</ol>
-			<p>If you satisfy criteria 1 and 2 and have received an ‘Posting Group 3 or Posting Group 2 Option’, you may be automatically assigned to Posting Group 3 and be posted to SOTA.</p>
     </div>
 	</li> 
 </ul>
