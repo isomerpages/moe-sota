@@ -64,14 +64,16 @@ SOTA may conduct the Supplementary Intake Exercise (SIE) annually in November. T
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion5" type="checkbox">
-    <label for="accordion5">1. What are the eligibility criteria for application under the DSA-Sec category?
+    <input id="accordion" type="checkbox">
+    <label for="accordion5">1. What are the eligibility criteria for application under the DSA-JC category?
 </label>
     <div>
       <p>Applicants must meet the following:</p>
 			<ul>
-				<li>At least 12 years old (born in 2011), and</li>
-				<li>Primary 6 pupils studying in a local MOE mainstream school and taking the Primary School Leaving Examination (PSLE) in 2023, or</li>
+				<li>At least 16 years old (born in 2007), and</li>
+				<li>Secondary 4 Express pupils studying in a local MOE mainstream secondary school and will be taking the Singapore-Cambridge GCE ‘O’ Level examinations in 2023, or</li>
+				<li>Secondary 5 Normal Academic pupils studying in a local MOE mainstream secondary school and will be taking the Singapore-Cambridge GCE ‘O’ Level examinations in 2023</li>
+				<li>Students who are enrolled in their current school via the 6-years IP programme are <b>not</b> eligible to apply</li>
 			</ul>
     </div>
 	</li>  
