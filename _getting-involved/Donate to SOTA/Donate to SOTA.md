@@ -8,7 +8,7 @@ third_nav_title: Donate to SOTA
 
 <center><i>a gift to transform lives...</i></center>
 
-<img style="width:75%" src="/images/icon--sef.jpg">
+<img style="width:55%" src="/images/icon--sef.jpg">
 
 Arts and culture are integral to Singapore, and arts education is a key catalyst in shaping the future cultural landscape. With a vision to nurture creative citizens for the future who positively impact Singapore and the world, the School of the Arts, Singapore (SOTA) believes in providing a conducive and vibrant learning environment that is anchored in the arts.  
   
@@ -41,3 +41,14 @@ Supports a student beneficiary through his/her studies for a year</li></ul>
 
 ### How have donations helped so far?
 
+"insert slide"
+
+
+
+### Make your gift!
+
+<a href="https://www.giving.sg/singapore-arts-school-ltd">
+<img style="width:50%" alt="W3Schools.com" src="/images/givingsg.png">
+</a>
+
+<small><b>Note</b>: (a) The Ministry of Culture, Community and Youth (MCCY) will match your cash donation dollar-to-dollar (1:1) under the Cultural Matching Fund. (b) Singapore individual and corporate tax residents who made donations of S$50 and above from 2016 to 2023 are eligible for 250% tax deduction.</small>
