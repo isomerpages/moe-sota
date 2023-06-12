@@ -59,9 +59,9 @@ Vice-Principal</h4></center></a></td>
   </tr>
  <tr>
     <td class="tg-0lax"><a href="/about-us/our-people/management-team/yang-tien-dean-arts">
-<img src="/images/yang-tiene4fb9752fed369fba7eaff0000314707.jpg" alt="yang tien" style="width:100%"></a></td>
+<img src="/images/yang-tiene4fb9752fed369fba7eaff0000314707.jpg" alt="yang tien"></a></td>
 		<td class="tg-0lax"><a href="/about-us/our-people/management-team/lim-jong-yann">
-<img src="/images/mo_full_lim-jong-yann_photo-011f51a452fed369fba7eaff0000314707.jpg" alt="lim jong yann" style="width:85%"></a></td>
+<img src="/images/mo_full_lim-jong-yann_photo-011f51a452fed369fba7eaff0000314707.jpg" alt="lim jong yann"></a></td>
 </tr>
   <tr>
     <td class="tg-0lax" style="width: 33.33%"><a href="/about-us/our-people/management-team/yang-tien-dean-arts"><center><h4>Yang Tien<br><br>
