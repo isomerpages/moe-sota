@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Donate to SOTA/Donate to SOTA.md
       - Donate to SOTA/.keep
       - Donate to SOTA/Canvas of Contributions.md
       - Donate to SOTA/Impact – SOTA Fundraising Show.md
