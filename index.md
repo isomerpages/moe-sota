@@ -31,4 +31,12 @@ sections:
       url: /why-sota/
       image: /images/slider--home02.jpeg
       alt: why SOTA
+  - infopic:
+      title: ARTIST IN THE MAKING
+      description: The SOTA curriculum offers specialised training in Dance, Literary
+        Arts, Music, Theatre or Visual Arts.
+      button: Learn More
+      url: /curriculum/curriculum/arts/
+      image: /images/slider--home03.jpeg
+      alt: Image alt text
 ---
