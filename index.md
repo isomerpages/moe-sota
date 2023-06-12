@@ -22,10 +22,13 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: SOTA EDUCATION EXPERIENCE
+      description: We nurture creators of tomorrow in a dynamic learning environment,
+        where students are free to discover, imagine and dream. SOTA is the
+        place to be you!
+      button: Learn More
+      url: /why-sota/
+      image: /images/slider--home02.jpeg
+      alt: why SOTA
 ---
