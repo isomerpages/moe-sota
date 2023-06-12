@@ -70,4 +70,9 @@ sections:
       button: Learn More
       url: /venues-and-retail/venues/advisories/
       alt: Image alt text
+  - infobar:
+      title: " Join our Mailing List"
+      description: By clicking 'Subscribe', you agree to SOTA's Terms & Conditions
+      button: Subscribe
+      url: https://sota.us7.list-manage.com/subscribe?u=61bd599c74bd6b2b5ecd91883&id=e902ebb4b9
 ---
