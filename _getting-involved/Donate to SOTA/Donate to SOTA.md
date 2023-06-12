@@ -52,3 +52,13 @@ Supports a student beneficiary through his/her studies for a year</li></ul>
 </a>
 
 <small><b>Note</b>: (a) The Ministry of Culture, Community and Youth (MCCY) will match your cash donation dollar-to-dollar (1:1) under the Cultural Matching Fund. (b) Singapore individual and corporate tax residents who made donations of S$50 and above from 2016 to 2023 are eligible for 250% tax deduction.</small>
+
+### Have a question?
+
+
+You may get in touch with us at:
+
+*   Tel:&nbsp;[(+65) 6338 9663](tel:+6563389663)
+*   Email:&nbsp;[gift@sota.edu.sg](mailto:gift@sota.edu.sg)
+
+<small>Artworks on this page by Visual Arts student Freesia Tong She Ning</small>
