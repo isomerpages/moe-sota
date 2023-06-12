@@ -21,7 +21,7 @@ third_nav_title: Management Team
     </a></td>
     <td class="tg-0lax" style="text-align: center;">
       <a href="/about-us/our-people/management-team/amy-khoo">
-        <img src="/images/amy-khoo-cropped.jpg" alt="amy khoo" style="width:95%">
+        <img src="/images/amy-khoo-cropped.jpg" alt="amy khoo">
       </a>
     </td>
     <td class="tg-0lax">
