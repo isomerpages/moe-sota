@@ -177,7 +177,7 @@ It is important to note that once the doors are closed, any admission or readmis
 	</li>  
 </ul>
 
-<hr>
+
 
 ### E. Frequently Asked Questions (SMM) by Patrons
 
@@ -235,7 +235,6 @@ In the event VDS and/or TT checks are required, patrons may use the TT token / a
 	</li>  
 </ul>
 
-<hr>
 
 ### F. Theatre Etiquette
 
