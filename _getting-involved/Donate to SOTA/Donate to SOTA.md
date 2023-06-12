@@ -38,3 +38,6 @@ Provides a month's meal and transport allowance to a student beneficiary</li>
 Provides a year's art and book material allowance to a student beneficiary</li>
 	<li>$7700 -
 Supports a student beneficiary through his/her studies for a year</li></ul>
+
+### How have donations helped so far?
+
