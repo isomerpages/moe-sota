@@ -47,4 +47,13 @@ sections:
       url: /curriculum/curriculum/academic/
       image: /images/slider--home01.png
       alt: Image alt text
+  - infopic:
+      title: H.I.P LEADER WITH PASSION
+      description: To become leaders with Humility, Integrity, People-centredness and
+        Passion, who will influence & contribute to the community through their
+        creativity & talents.
+      button: Learn More
+      url: /curriculum/curriculum/affective/student-development
+      image: /images/affective-exe3.jpeg
+      alt: Image alt text
 ---
