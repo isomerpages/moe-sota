@@ -17,7 +17,7 @@ You may refer to directions&nbsp;[here](/contact-us).
     </div>
 	</li>  
 </ul>
-<hr>
+
 
 ### B. Public Spaces &amp; Facilities
 
