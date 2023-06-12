@@ -19,6 +19,8 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      url: /about-us/about-sota/
+      button: Learn More
   - infopic:
       title: SOTA EDUCATION EXPERIENCE
       description: We nurture creators of tomorrow in a dynamic learning environment,
