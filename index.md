@@ -39,4 +39,12 @@ sections:
       url: /curriculum/curriculum/arts/
       image: /images/slider--home03.jpeg
       alt: Image alt text
+  - infopic:
+      title: CREATIVE PROFESSIONAL IN THE MAKING
+      description: SOTA provides a holistic six-year integrated arts and academic
+        curriculum.
+      button: Learn More
+      url: /curriculum/curriculum/academic/
+      image: /images/slider--home01.png
+      alt: Image alt text
 ---
