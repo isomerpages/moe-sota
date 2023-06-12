@@ -25,3 +25,16 @@ No child who is talented and shows passion in the arts should be deprived of an 
 A SOTA student spends an average of&nbsp;**S$7,700**&nbsp;a year on school necessities such as school fees, books, art form materials, transport, meals and school uniforms. The fund provides financial assistance to students who face financial hardship so that they may focus on their studies.  
   
 Hover over&nbsp;the images to see how you can help.
+
+
+<img src="/images/donations.png">
+
+<ul>
+	<li>$100 -
+Provides a month's meal allowance to a student beneficiary</li>
+	<li>$150 -
+Provides a month's meal and transport allowance to a student beneficiary</li>
+	<li>$350 -
+Provides a year's art and book material allowance to a student beneficiary</li>
+	<li>$7700 -
+Supports a student beneficiary through his/her studies for a year</li></ul>
