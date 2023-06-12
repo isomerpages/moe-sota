@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: SOTA EDUCATION EXPERIENCE
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
@@ -55,5 +55,19 @@ sections:
       button: Learn More
       url: /curriculum/curriculum/affective/student-development
       image: /images/affective-exe3.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: SOTA PERFORMING ARTS VENUES
+      description: Envisioned as jewels embedded within a gargantuan mass of stone,
+        carved out and chiselled to reveal dynamic volumes in various
+        proportions
+      button: Learn More
+      url: /venues-and-retail/venues/advisories/
       alt: Image alt text
 ---
