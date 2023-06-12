@@ -42,13 +42,13 @@ Vice-Principal, Academic &amp; Affective</h4></center></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/about-us/our-people/management-team/liong-huai-yu">
-<img src="/images/ssc_liong-huai-yu_photo-01-1.jpg" alt="Liong Huai Yu" style="width:78%">
+<img src="/images/ssc_liong-huai-yu_photo-01-1.jpg" alt="Liong Huai Yu">
 </a></td>
     <td class="tg-0lax"><a href="/about-us/our-people/management-team/justine-tan">
-<img src="/images/mo_full_justine-tan_photo-08-(crop-1b).jpg" alt="justine tan" style="width:100%">
+<img src="/images/mo_full_justine-tan_photo-08-(crop-1b).jpg" alt="justine tan">
 </a></td>
     <td class="tg-0lax"><a href="/about-us/our-people/management-team/lee-yew-wah">
-<img src="/images/mo_full_lee-yew-wah_photo-02.jpg" alt="Lee Yew Wah" style="width:71%">
+<img src="/images/mo_full_lee-yew-wah_photo-02.jpg" alt="Lee Yew Wah">
 </a></td>
   </tr>
   <tr>
