@@ -40,10 +40,10 @@ Source: Berita Harian © Singapore Press Holdings Limited. Permission required f
 _  
 Source: Berita Harian © Singapore Press Holdings Limited. Permission required for reproduction.  
   
-_**\[15 Jan 2018\]**   
+**\[15 Jan 2018\]**   
   
 [The Straits Times](https://www.straitstimes.com/singapore/education/more-than-just-book-smart)  
-_  
+ 
 Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.  
 **\[22 Jan 2018\]**  
   
