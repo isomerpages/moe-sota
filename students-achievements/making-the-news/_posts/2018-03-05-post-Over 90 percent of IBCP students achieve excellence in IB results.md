@@ -25,19 +25,19 @@ View the press release [here](https://www.sota.edu.sg/docs/default-source/press
 **\[6 Jan 2018\]**   
   
 [The Straits Times](https://www.straitstimes.com/singapore/education/schools-chalk-up-best-showing-in-ib-exams)  
-_  
+  
 Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.  
-_  
+ 
 [Lianhe Zaobao 联合早报](https://www.zaobao.com.sg/znews/singapore/story20180106-824617)  
-_  
+  
 Source: Lianhe Zaobao 联合早报 © Singapore Press Holdings Limited. Permission required for reproduction.  
-_  
-[Berita Harian](https://www.beritaharian.sg/setempat/sekolah-singapura-catat-keputusan-lebih-baik-dalam-peperiksaan-ib)_  
+ 
+[Berita Harian](https://www.beritaharian.sg/setempat/sekolah-singapura-catat-keputusan-lebih-baik-dalam-peperiksaan-ib)
   
 Source: Berita Harian © Singapore Press Holdings Limited. Permission required for reproduction._**\[9 Jan 2018\]**   
   
 [Berita Harian](https://www.beritaharian.sg/setempat/rasa-berbaloi-pilih-kursus-diminati-di-sota)  
-_  
+  
 Source: Berita Harian © Singapore Press Holdings Limited. Permission required for reproduction.  
   
 **\[15 Jan 2018\]**   
