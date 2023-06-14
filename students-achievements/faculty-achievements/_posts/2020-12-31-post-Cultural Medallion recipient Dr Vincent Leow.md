@@ -22,5 +22,3 @@ I am particularly impressed by the range of mediums and genres Vincent works wit
   
 
 Congratulations to Dr Leow once again and thank you for inspiring so many of us at SOTA!
-
-
