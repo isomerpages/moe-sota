@@ -44,3 +44,26 @@ The final design is especially special - it represents a sense of togetherness a
 <hr>
 
 **_"What was the process of working on the artworks like? Any challenges or interesting experiences to share?"_**
+
+<figure>
+<img src="/images/freesia-39-s-sketches.png">
+	<figcaption><i>Freesia's initial sketches for the artworks' design</i></figcaption>
+</figure>
+
+The whole process was very enjoyable! I worked on the designs during the June holidays last year, so it gave me something meaningful to do while I was at home. Initially, there were times when I struggled with conceptualising my ideas and expressing them in the designs too - it took me quite a while to settle on an art style that wasn't too 'kiddish' in nature (my digital artworks are a lot like children's book illustrations).  
+  
+Overall, it was fun to experiment with simpler compositions, a more varied colour palette, and different textures in these designs, while also furthering my passion for design and digital art.
+
+**_"Thanks for chatting with us, Freesia! What would you say to those who may be interested in donating to the SOTA Endowment Fund?"_**
+
+For many other students like me, a holistic arts education not only gives us the freedom to express ourselves creatively and independently; it also helps us realise our dreams and possibilities. Thank you for giving us the opportunity to learn, grow, and develop as individuals and future cultural leaders!
+
+<hr>
+
+SOTA believes that no child who is talented and shows passion in the arts should be deprived of an education anchored in the arts due to financial disadvantage.  
+  
+Each&nbsp;#PurpoSEFul&nbsp;contribution to the SOTA Endowment Fund will go a long way towards helping us make an arts education accessible for all students, especially the less privileged.  
+  
+To donate to or find out more about the SOTA Endowment Fund, click&nbsp;[**here**](/getting-involved/donate). We thank you for the generous support!
+
+<img style="width:50%" src="/images/icon-3.png">
