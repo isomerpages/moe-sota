@@ -6,3 +6,14 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/2021-p6-art-competition-webpage-bannerf8f4a252fed369fba7eaff0000314707.jpg)
+
+The SOTA Primary 6 Art Competition was launched in 2018 as one of SOTA’s outreach programmes to encourage and provide a platform for young artists to express their creativity and hone their talents in Visual Arts, and has since become an annual nation-wide drawing and painting competition.  
+   
+This year’s edition saw a wide range of participants, representing over 166 primary schools in Singapore with over 1000 submissions. These young students submitted artworks based on one of the three themes, “Looking Out of My Window”, “Space Zoo”, and “Tropical Fruit”. In line with movement restrictions brought upon by the COVID-19 pandemic, this year’s themes focused on challenging participants to draw inspiration from their homes and their imagination.  
+   
+The top 50 finalists were invited to the SOTA Junior Academy and received prizes in the form of art supply vouchers and Mapletree vouchers. Their works were also showcased in an online exhibition held from 5 April to 30 June 2021.
+
+  
+[Click HERE to view the exhibition.](https://www.sota.edu.sg/p6artcom2021/exhibition)
+
