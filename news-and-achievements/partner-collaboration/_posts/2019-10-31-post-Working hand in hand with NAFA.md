@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/nafa-mou-1.jpg)
+<small><i>Photo credit: Nanyang Academy of Fine Arts</i></small>
