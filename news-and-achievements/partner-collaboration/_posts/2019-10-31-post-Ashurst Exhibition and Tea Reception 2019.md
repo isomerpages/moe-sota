@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/2019-ashurst-tea-collage-low-res.png)
+
+Thank you Ashurst (Singapore) for the continued support of our budding artists! Besides providing the opportunity for our students to display their works in an authentic setting since 2012, Ashurst LLP has also been a supporter of SOTA with their generous donation. In August 2019, Ashurst also hosted the SOTA community with a lovely tea reception to celebrate the showcase of 33 students' works in the latest exhibition. We look forward to extending this meaningful partnership.
