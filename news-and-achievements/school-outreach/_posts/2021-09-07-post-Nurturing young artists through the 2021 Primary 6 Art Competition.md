@@ -17,3 +17,6 @@ The top 50 finalists were invited to the SOTA Junior Academy and received prizes
   
 [Click HERE to view the exhibition.](https://www.sota.edu.sg/p6artcom2021/exhibition)
 
+SOTA is proud to have Mapletree Investments Pte Ltd as the sponsor for the competition since 2019, amplifying our efforts to broaden accessibility to an arts enhanced education by reaching out to more children who have a passion and talent in the arts.  
+  
+We sincerely thank all participants once again for being involved in this competition!
