@@ -1,0 +1,13 @@
+---
+title: Er Yu Seng
+permalink: /about-us/our-people/teaching-staff/faculty-of-science/er-yu-seng/
+description: ""
+third_nav_title: Faculty of Science
+---
+Er Yu Seng graduated from the National University of Singapore with a Bachelor’s Degree in Science (Honours, Life Sciences). He went on to obtain his Postgraduate Diploma in Education from the National Institute of Education, Singapore, after which Yu Seng pursued his Master of Science in Life Sciences (Zoological Sciences) from Nanyang Technological University, Singapore, under the MOE’s Professional Development Continuum Model (PDCM); and concurrently, the Master of Arts (Pastoral Studies) from Asian Pastoral Institute.
+
+Yu Seng taught 'A' Level Biology at Jurong Junior College (JJC) from 2007 to 2013, where he was one of the teachers-in-charge of JJC’s symphonic band. Thereafter, he taught International Baccalaureate (IB) Biology in School of the Arts, Singapore and helped to build resources for the effective teaching and learning till 2017. From 2017 to 2022, Yu Seng taught IB Biology and Cambridge IGCSE Biology in Hwa Chong International School. He was subsequently appointed as the Head of Senior Years and actively involved in planning and executing school-wide programmes, where he looked into the developmental and pastoral needs of senior students and engagement of parents.
+
+During his high school days, Yu Seng was a drummer and the drum major at the Wind Orchestra Band and Military Band of Chung Hwa High School (Independent) in Malaysia. He is actively serving as the worship leader, choir tenor singer and drummer at the Tabernacle Church and Missions. In addition, he obtained his Grade 8 Pop Music Vocal Certificate from the International Music Adjudicators Alliance (IMAA). Yu Seng is currently pursuing his drum education at My Drum School and doing his Rockschool’s grading examinations. He likes to spend his free time designing and printing 3D models, doing pencil sketches, composing songs, watching Sci-Fi movies and reading.
+
+Yu Seng believes that every student can learn and he needs to apply the right pedagogy in accordance to their learning styles. He engages students through role play, ICT platforms, object lessons, self-designed teaching models, animations and group discussions. As a passionate Biologist, Yu Seng seeks every opportunity to help students understand biological systems and how lives are weaved and connected to one another.

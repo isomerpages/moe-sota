@@ -1,0 +1,5 @@
+collections:
+  the-sota-curriculum:
+    output: true
+    order:
+      - The SOTA Education Experience.md

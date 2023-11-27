@@ -1,0 +1,35 @@
+logo: /images/school-of-the-arts-singaporeeea39a52fed369fba7eaff0000314707.png
+links:
+  - title: About Us
+    url: /about-us/about-sota/
+    sublinks:
+      - title: About SOTA
+        url: /about-us/about-sota/
+      - title: Our People
+        url: /about-us/our-people/sota-board/
+      - title: Frequently Asked Questions
+        url: /about-us/faqs/
+  - title: Why SOTA
+    url: /why-sota/
+    sublinks:
+      - title: Why SOTA
+        url: /why-sota/
+      - title: IB Programmes
+        url: /why-sota/ib/
+      - title: Arts Programmes
+        url: /curriculum/curriculum/arts/
+  - title: The SOTA Curriculum
+    url: /curriculum/
+    sublinks:
+      - title: The SOTA Education Experience
+        url: /curriculum/
+      - title: Curriculum
+        url: /curriculum/curriculum/academic/
+      - title: FAQs about Curriculum
+        url: /about-us/faqs/
+  - title: Admissions
+    collection: admission
+  - title: Getting Involved
+    collection: getting-involved
+  - title: Venues & Retail
+    collection: venues-and-retails-spaces

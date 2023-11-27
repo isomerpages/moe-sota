@@ -1,0 +1,35 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - SOTA Board.md
+      - Management Team/.keep
+      - Management Team/Management Team.md
+      - Management Team/Mrs Mary Seah.md
+      - Management Team/Amy Khoo.md
+      - Management Team/Pauline Ann Tan.md
+      - Management Team/Liong Huai Yu.md
+      - Management Team/Justine Tan.md
+      - Management Team/Lee Yew Wah.md
+      - Management Team/Yang Tien.md
+      - Management Team/Lim Jong Yann.md
+      - Teaching Staff/.keep
+      - Teaching Staff/Teaching Staff.md
+      - Teaching Staff/Faculty of Dance.md
+      - Teaching Staff/Faculty of Experiential Education.md
+      - Teaching Staff/Faculty of Film.md
+      - Teaching Staff/Faculty of Humanities & Social Sciences.md
+      - Teaching Staff/Faculty of Information & Communication Technology.md
+      - Teaching Staff/Faculty of Literary Arts.md
+      - Teaching Staff/Faculty of Literature in English.md
+      - Teaching Staff/Faculty of Mathematics.md
+      - Teaching Staff/Faculty of Mother Tongue Languages.md
+      - Teaching Staff/Faculty of Music.md
+      - Teaching Staff/Faculty of Science.md
+      - Teaching Staff/Faculty of Student Development.md
+      - Teaching Staff/Faculty of Theatre.md
+      - Teaching Staff/Faculty of Theory of Knowledge.md
+      - Teaching Staff/Faculty of Visual Arts.md
+      - Corporate Staff.md
+      - Teaching Support Staff.md
+      - Adjunct Teaching Staff.md

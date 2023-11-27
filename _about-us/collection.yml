@@ -1,0 +1,8 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About SOTA/.keep
+      - About SOTA/About SOTA.md
+      - About SOTA/The Campus.md
+      - Frequently Asked Question.md
